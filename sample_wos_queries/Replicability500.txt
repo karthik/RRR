@@ -1,6 +1,47 @@
 ﻿FN Thomson Reuters Web of Science™
 VR 1.0
 PT J
+AU Usselman, Melvyn C.
+   Brown, Todd A.
+TI Atomic Theory and Multiple Combining Proportions: The Search for Whole
+   Number Ratios Essay in Honour of Alan J. Rocke
+SO ANNALS OF SCIENCE
+VL 72
+IS 2
+SI SI
+BP 153
+EP 169
+PD APR 3 2015
+PY 2015
+AB John Dalton's atomic theory, with its postulate of compound formation
+   through atom-to-atom combination, brought a new perspective to weight
+   relationships in chemical reactions. A presumed one-to-one combination
+   of atoms A and B to form a simple compound AB allowed Dalton to
+   construct his first table of relative atomic weights from literature
+   analyses of appropriate binary compounds. For such simple binary
+   compounds, the atomic theory had little advantages over affinity theory
+   as an explanation of fixed proportions by weight. For ternary compounds
+   of the form AB(2), however, atomic theory made quantitative predictions
+   that were not deducible from affinity theory. Atomic theory required
+   that the weight of B in the compound AB(2) be exactly twice that in the
+   compound AB. Dalton, Thomas Thomson and William Hyde Wollaston all
+   published within a few years of each other experimental data that
+   claimed to give the predicted results with the required accuracy. There
+   are nonetheless several experimental barriers to obtaining the desired
+   integral multiple proportions. In this paper I will discuss replication
+   experiments which demonstrate that only Wollaston's results are
+   experimentally reliable. It is likely that such replicability explains
+   why Wollaston's experiments were so influential.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0003-3790
+UT CCC:000352295800002
+ER
+
+PT J
 AU Peng, Changhai
    Huang, Lu
    Liu, Jianxun
@@ -22062,63 +22103,6 @@ Z9 4
 SN 1471-2377
 UT WOS:000284765800001
 PM 21029420
-ER
-
-PT J
-AU Rojas-Macias, V
-   Rodriguez-Fandino, O
-   Jimenez-Ponce, F
-   Saldivar-Gonzalez, J A
-   Melendro-Lozano, E
-   Lopez-Alvarenga, J C
-   Raya-Santoyo, S B
-   Santana-Vargas, A D
-   Schmulson, M
-TI [External validity of a relevant model for Irritable Bowel Syndrome
-   (IBS) using chronic stress by water avoidance in Wistar rats].
-FT Validez externa de un modelo experimental para sindrome de intestino
-   irritable (SII) mediante estres cronico por evitacion al agua en ratas
-   Wistar.
-SO Revista de gastroenterologia de Mexico
-VL 75
-IS 4
-BP 421
-EP 6
-PD 2010 Oct-Dec
-PY 2010
-AB BACKGROUND: Development of animal models has been one of the most
-   remarkable achievements for Irritable Bowel Syndrome (IBS) research.
-   These models need to exhibit face validity, construct and predictive
-   validity, as well as internal (replicability) and external validity
-   (generalizability). Among these models, chronic stress induced by water
-   avoidance exposure (WA) has been validated in rats through increasing
-   visceral hypersensitivity, motility impairment, anxiety and, colonic
-   immune activity, all related to IBS.
-   OBJECTIVE: To assess the external validity of WA indirectly on colonic
-   motility in Wistar rats.
-   METHOD: Ten male-Wistar rats were exposed to WA and compared with ten
-   Wistar rats not exposed (controls). At the end of each exposure, the
-   quantity of fecal pellets were determined and considered as a sign of
-   autonomic regulation of colonic motility. Data was analyzed with a
-   general linear model for repeated measures.
-   RESULTS: Rats exposed to WA had higher number or pellets than controls:
-   7.46 ± 0.45 (95%CI: 6.51, 8.41) vs. 2.88 ± 0.45 (1.93, 3.83), p < 0.001.
-   The higher number of pellets was related to WA exposure as there were no
-   other significant interactions. In both groups, the number of pellets
-   was higher during the first day and then decreased progressively.
-   CONCLUSIONS: Chronic stress induced through WA in Wistar rats, exhibits
-   external validity as an experimental model for IBS research and our
-   findings of increased number of fecal pellets coincide with the
-   appearance hypermotility related to IBS. The model is optimum for
-   research studies on this disorder.
-TC 1
-ZB 1
-Z8 0
-ZS 0
-Z9 1
-SN 0375-0906
-UT MEDLINE:21169109
-PM 21169109
 ER
 
 EF
