@@ -61,4 +61,4 @@ files <- paste0("sample_wos_queries/", dir("sample_wos_queries/"))
 
 meta_parse(files[1], "parsed/Repeatibility.csv")
 meta_parse(files[2], "parsed/Replicability.csv")
-meta_parse(files[3], "parsed/Reproducibility.csv") # This takes several minutes
+meta_parse(files[3], "parsed/Reproducibility.csv") # This takes a while since it's an order of magnitude larger than other two.
