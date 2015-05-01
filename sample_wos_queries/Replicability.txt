@@ -41,7 +41,7 @@ Z9 0
 SN 0003-3790
 UT WOS:000352295800002
 ER
----
+
 PT J
 AU Peng, Changhai
    Huang, Lu
@@ -81,7 +81,7 @@ Z9 0
 SN 0003-8628
 UT WOS:000350299600005
 ER
----
+
 PT J
 AU Mahmood, Syed Imran
    Daim, Syed Abdul
@@ -131,7 +131,7 @@ SN 0142-159X
 UT WOS:000351616500011
 PM 25665631
 ER
----
+
 PT J
 AU He, Meian
    Xu, Min
@@ -261,7 +261,7 @@ SN 0964-6906
 UT WOS:000350144200023
 PM 25429064
 ER
----
+
 PT J
 AU Savalei, Victoria
    Dunn, Elizabeth
@@ -298,7 +298,7 @@ Z9 0
 SN 1664-1078
 UT WOS:000350491100002
 ER
----
+
 PT J
 AU Ladas, Aristea I.
    Carroll, Daniel J.
@@ -333,7 +333,7 @@ SN 0009-3920
 UT CCC:000352104000015
 PM 25571905
 ER
----
+
 PT J
 AU Lishner, David A.
 TI A Concise Set of Core Recommendations to Improve the Dependability of
@@ -372,7 +372,7 @@ Z9 0
 SN 1089-2680
 UT WOS:000351586700005
 ER
----
+
 PT J
 AU Pyeon, Dohun
    Park, In-Woo
@@ -422,7 +422,7 @@ SN 0304-8608
 UT WOS:000350295300011
 PM 25559666
 ER
----
+
 PT J
 AU Yates-Doerr, Emily
 TI The world in a box? Food security, edible insects, and "One World, One
@@ -467,7 +467,7 @@ Z9 1
 UT MEDLINE:24973999
 PM 24973999
 ER
----
+
 PT J
 AU Di Napoli, Agnese
    Warrier, Varun
@@ -520,7 +520,7 @@ SN 2040-2392
 UT WOS:000350600900001
 PM 25745553
 ER
----
+
 PT J
 AU Sherman, Ryne A.
    Serfass, David G.
@@ -555,7 +555,7 @@ Z9 0
 SN 0092-6566
 UT WOS:000351251700005
 ER
----
+
 PT J
 AU Fantini-Hauwel, Carole
    Dovi, Eliane
@@ -602,7 +602,7 @@ Z9 0
 SN 1041-6102
 UT WOS:000351056300010
 ER
----
+
 PT J
 AU Au, Angel Hoe Chi
    Mountjoy, Toby James
@@ -639,7 +639,7 @@ Z9 0
 SN 0748-8491
 UT WOS:000350006600006
 ER
----
+
 PT J
 AU Arnedo, Javier
    Svrakic, Dragan M.
@@ -700,7 +700,7 @@ SN 0002-953X
 UT WOS:000348975300007
 PM 25219520
 ER
----
+
 PT J
 AU O'Connor, Daniel P.
    Lee, Rebecca E.
@@ -770,7 +770,7 @@ SN 2153-2168
 UT WOS:000349317000009
 PM 25679060
 ER
----
+
 PT J
 AU Hu, Nan
    Wang, Ge
@@ -840,7 +840,7 @@ SN 0025-7974
 UT WOS:000349000400002
 PM 25654374
 ER
----
+
 PT J
 AU Kong, Weili
    Liu, Lirong
@@ -891,7 +891,7 @@ Z9 0
 UT MEDLINE:25326314
 PM 25326314
 ER
----
+
 PT J
 AU Stankov, Lazar
    Saucier, Gerard
@@ -930,7 +930,7 @@ Z9 0
 SN 0022-0221
 UT WOS:000346916800009
 ER
----
+
 PT J
 AU Rochelle, Tina L.
    Yim, K. H.
@@ -970,7 +970,7 @@ SN 0022-3980
 UT WOS:000346192800003
 PM 25495161
 ER
----
+
 PT J
 AU Schubert, Jessica R.
    Coles, Meredith E.
@@ -1009,7 +1009,7 @@ Z9 0
 SN 0929-1016
 UT WOS:000345145500008
 ER
----
+
 PT P
 AU DAI C
    LUO M
@@ -1038,7 +1038,7 @@ AB
 Z9 0
 UT DIIDW:201521738L
 ER
----
+
 PT P
 AU GAO S
    JIN L
@@ -1081,7 +1081,7 @@ AB
 Z9 0
 UT DIIDW:201520189F
 ER
----
+
 PT J
 AU Savalei, Victoria
    Dunn, Elizabeth
@@ -1102,7 +1102,7 @@ Z9 0
 UT MEDLINE:25798124
 PM 25798124
 ER
----
+
 PT J
 AU Weidmann, Nils B.
    Rod, Espen Geelmuyden
@@ -1138,7 +1138,7 @@ Z9 0
 SN 0022-3433
 UT WOS:000349990300012
 ER
----
+
 PT P
 AU LIU H
    LUO J
@@ -1174,7 +1174,7 @@ AB
 Z9 0
 UT DIIDW:201513838V
 ER
----
+
 PT P
 AU LIN J
    LIN L
@@ -1203,7 +1203,7 @@ AB
 Z9 0
 UT DIIDW:201514160W
 ER
----
+
 PT J
 AU Brock, T. C. M.
    Hammers-Wirtz, M.
@@ -1252,7 +1252,7 @@ SN 0944-1344
 UT WOS:000348047400040
 PM 25119278
 ER
----
+
 PT J
 AU Boylan, John E.
    Goodwin, Paul
@@ -1297,7 +1297,7 @@ Z9 0
 SN 0169-2070
 UT WOS:000347665900006
 ER
----
+
 PT J
 AU de Bruin, Angela
    Treccani, Barbara
@@ -1334,7 +1334,7 @@ SN 0956-7976
 UT WOS:000347953200010
 PM 25475825
 ER
----
+
 PT J
 AU Lorenzo, Miguel
    Burdalo, Unai
@@ -1364,7 +1364,7 @@ Z9 0
 SN 1540-7977
 UT WOS:000347319100007
 ER
----
+
 PT J
 AU Pedreira, Oscar
    Garcia, Felix
@@ -1422,7 +1422,7 @@ Z9 0
 SN 0950-5849
 UT WOS:000345947500010
 ER
----
+
 PT J
 AU Salama, Peter
    Ha, Wei
@@ -1473,7 +1473,7 @@ Z9 0
 SN 1472-698X
 UT WOS:000346523900001
 ER
----
+
 PT J
 AU Wang, Xin
    Fan, Feng
@@ -1497,7 +1497,7 @@ Z9 0
 SN 0006-4971
 UT WOS:000349243501165
 ER
----
+
 PT J
 AU Maples, Jessica L.
    Guan, Li
@@ -1547,7 +1547,7 @@ SN 1040-3590
 UT WOS:000346698200002
 PM 24932643
 ER
----
+
 PT J
 AU Gilead, Amihud
 TI We Are Not Replicable: A Challenge to Parfit's View
@@ -1575,7 +1575,7 @@ Z9 0
 SN 0019-0365
 UT WOS:000346885000007
 ER
----
+
 PT J
 AU Hartley, Chelsey M.
    Barroso, Nicole
@@ -1617,7 +1617,7 @@ SN 0021-9762
 UT WOS:000345230200009
 PM 24807217
 ER
----
+
 PT J
 AU Gnyp, Martin L.
    Bareth, Georg
@@ -1681,7 +1681,7 @@ Z9 2
 SN 0303-2434
 UT WOS:000340979300024
 ER
----
+
 PT J
 AU Koennyu, Balazs
    Czaran, Tamas
@@ -1732,7 +1732,7 @@ SN 1471-2148
 UT WOS:000345710100001
 PM 25421353
 ER
----
+
 PT J
 AU Maalouf, Wadih
    Campello, Giovanna
@@ -1777,7 +1777,7 @@ Z9 1
 SN 1359-1789
 UT WOS:000346541700002
 ER
----
+
 PT J
 AU Rietveld, Cornelius
    Conley, Dalton
@@ -1810,7 +1810,7 @@ Z9 0
 SN 0001-8244
 UT WOS:000345283700127
 ER
----
+
 PT J
 AU McShane, Blakeley B.
    Boeckenholt, Ulf
@@ -1850,7 +1850,7 @@ Z9 4
 SN 1745-6916
 UT WOS:000345305100004
 ER
----
+
 PT J
 AU Brown, Sacha D.
    Furrow, David
@@ -1895,7 +1895,7 @@ Z9 3
 SN 1745-6916
 UT WOS:000345305100005
 ER
----
+
 PT J
 AU Tsuji, Sho
    Bergmann, Christina
@@ -1930,7 +1930,7 @@ Z9 2
 SN 1745-6916
 UT WOS:000345305100008
 ER
----
+
 PT J
 AU Anicich, Eric M.
 TI What Lies Within: Superscripting References to Reveal Research Trends
@@ -1969,7 +1969,7 @@ Z9 2
 SN 1745-6916
 UT WOS:000345305100010
 ER
----
+
 PT J
 AU Bretz, Frank
    Westfall, Peter H.
@@ -1991,7 +1991,7 @@ SN 1539-1604
 UT WOS:000345218900001
 PM 25308378
 ER
----
+
 PT J
 AU Adams, Constance
    Jones, Rod
@@ -2020,7 +2020,7 @@ Z9 0
 SN 0003-8504
 UT WOS:000344802200011
 ER
----
+
 PT J
 AU Rietveld, Cornelius A.
    Conley, Dalton
@@ -2088,7 +2088,7 @@ SN 0956-7976
 UT WOS:000344874900001
 PM 25287667
 ER
----
+
 PT J
 AU Olofsson, Malin Elisabeth
    Boersma, Katja
@@ -2137,7 +2137,7 @@ SN 0803-9488
 UT WOS:000343980600010
 PM 24724927
 ER
----
+
 PT J
 AU Vecchione, Michele
    Caprara, Gian Vittorio
@@ -2180,7 +2180,7 @@ Z9 0
 SN 1069-3971
 UT WOS:000342811200002
 ER
----
+
 PT J
 AU Baraldi, Sara Bonini
    Shoup, Daniel David
@@ -2217,7 +2217,7 @@ Z9 2
 SN 1028-6632
 UT WOS:000341849600005
 ER
----
+
 PT J
 AU Khrennikov, Andrei
    Basieva, Irina
@@ -2260,7 +2260,7 @@ SN 1932-6203
 UT WOS:000343943500066
 PM 25343581
 ER
----
+
 PT J
 AU Koskinen, M.
    Seppa, M.
@@ -2312,7 +2312,7 @@ SN 1053-8119
 UT WOS:000344235800023
 PM 24945666
 ER
----
+
 PT J
 AU Heller, Ruth
    Yaacoby, Shay
@@ -2346,7 +2346,7 @@ SN 1367-4803
 UT WOS:000343083600020
 PM 25012182
 ER
----
+
 PT J
 AU Fraley, R. Chris
    Vazire, Simine
@@ -2386,7 +2386,7 @@ SN 1932-6203
 UT WOS:000345204000031
 PM 25296159
 ER
----
+
 PT J
 AU Rao, Naren P.
 TI Selective Review of Proton Magnetic Resonance Spectroscopy in
@@ -2427,7 +2427,7 @@ Z9 0
 SN 0970-4140
 UT WOS:000345726000009
 ER
----
+
 PT J
 AU Xu, Derong
    Wei, Guifeng
@@ -2470,7 +2470,7 @@ SN 1674-800X
 UT WOS:000343055700006
 PM 24844773
 ER
----
+
 PT J
 AU Dusanka, Mitrovic
    Snezana, Smederevac
@@ -2509,7 +2509,7 @@ Z9 0
 SN 0191-8869
 UT WOS:000340012900010
 ER
----
+
 PT J
 AU Gisselquist, Rachel M.
 TI Developing and evaluating governance indexes: 10 questions
@@ -2544,7 +2544,7 @@ Z9 0
 SN 0144-2872
 UT WOS:000343821500005
 ER
----
+
 PT J
 AU Anjos, Andre
    Chakka, Murali Mohan
@@ -2585,7 +2585,7 @@ Z9 2
 SN 2047-4938
 UT WOS:000346562600004
 ER
----
+
 PT J
 AU Peek, C. J.
    Glasgow, Russell E.
@@ -2634,7 +2634,7 @@ SN 1544-1709
 UT WOS:000341870200010
 PM 25354409
 ER
----
+
 PT J
 AU Ilic, Dragan
 TI Replicability and Pitfalls in the Interpretation of Resampled Data: A
@@ -2654,7 +2654,7 @@ Z9 0
 SN 1933-527X
 UT WOS:000342219400001
 ER
----
+
 PT J
 AU Bakker, Marjan
    Wicherts, Jelte M.
@@ -2698,7 +2698,7 @@ SN 1082-989X
 UT WOS:000341848900006
 PM 24773354
 ER
----
+
 PT J
 AU Jupiter, Stacy D.
    Jenkins, Aaron P.
@@ -2751,7 +2751,7 @@ Z9 0
 SN 1038-2097
 UT BCI:BCI201400691182
 ER
----
+
 PT J
 AU Ares, A.
    Fernandez, J. A.
@@ -2795,7 +2795,7 @@ Z9 1
 SN 1352-2310
 UT WOS:000340316300054
 ER
----
+
 PT J
 AU Buttliere, Brett T.
 TI Using science and psychology to improve the dissemination and evaluation
@@ -2835,7 +2835,7 @@ SN 1662-5188
 UT WOS:000341951600001
 PM 25191261
 ER
----
+
 PT J
 AU Bates, Matthew E.
    Sparrevik, Magnus
@@ -2893,7 +2893,7 @@ SN 0013-936X
 UT WOS:000340701800065
 PM 24957130
 ER
----
+
 PT J
 AU Kubota, Chika
    Okada, Takashi
@@ -2952,7 +2952,7 @@ SN 1932-6203
 UT WOS:000339812700066
 PM 25089523
 ER
----
+
 PT J
 AU Chin, Jason M.
 TI Psychological Science's Replicability Crisis and What It Means for
@@ -2988,7 +2988,7 @@ Z9 0
 SN 1076-8971
 UT WOS:000349172600001
 ER
----
+
 PT J
 AU Gonçalves, Gabriela
    Orgambídez-Ramos, Alejandro
@@ -3044,7 +3044,7 @@ Z9 0
 SN 1989-3809
 UT SCIELO:S1989-38092014000200003
 ER
----
+
 PT J
 AU Makel, Matthew C.
    Plucker, Jonathan A.
@@ -3079,7 +3079,7 @@ Z9 3
 SN 0013-189X
 UT WOS:000341189000003
 ER
----
+
 PT J
 AU Bird, Stephanie
    Parker, Joel
@@ -3117,7 +3117,7 @@ Z9 0
 SN 1366-638X
 UT WOS:000340450000022
 ER
----
+
 PT J
 AU Verhagen, Josine
    Wagenmakers, Eric-Jan
@@ -3167,7 +3167,7 @@ SN 0096-3445
 UT WOS:000340296200005
 PM 24867486
 ER
----
+
 PT J
 AU Jensen-Dahm, Christina
    Werner, Mads U.
@@ -3226,7 +3226,7 @@ SN 0304-3959
 UT WOS:000340309800007
 PM 24412285
 ER
----
+
 PT J
 AU Alessandri, Guido
    Vecchione, Michele
@@ -3270,7 +3270,7 @@ SN 0022-3506
 UT WOS:000339276000008
 PM 23957593
 ER
----
+
 PT J
 AU Chen, Zhaoli
    Li, Jiagen
@@ -3316,7 +3316,7 @@ SN 0304-3835
 UT WOS:000337871000005
 PM 24769072
 ER
----
+
 PT J
 AU Bakker, Marjan
    Wicherts, Jelte M.
@@ -3369,7 +3369,7 @@ SN 1932-6203
 UT WOS:000341307600042
 PM 25072606
 ER
----
+
 PT J
 AU Wan, Albert
    Jiang, Li
@@ -3414,7 +3414,7 @@ Z9 6
 SN 1616-301X
 UT WOS:000339713900008
 ER
----
+
 PT J
 AU Rice, J. Bradford
    Kirson, Noam Y.
@@ -3473,7 +3473,7 @@ SN 0032-5481
 UT WOS:000348313900005
 PM 25141243
 ER
----
+
 PT J
 AU Sbarra, David A.
 TI Forward Thinking: An Introduction
@@ -3493,7 +3493,7 @@ Z9 1
 SN 1745-6916
 UT WOS:000342635600005
 ER
----
+
 PT J
 AU Braver, S. L.
    Thoemmes, F. J.
@@ -3516,7 +3516,7 @@ Z9 0
 SN 1745-6916
 UT WOS:000342635600007
 ER
----
+
 PT J
 AU Rosset, Saharon
    Aharoni, Ehud
@@ -3554,7 +3554,7 @@ SN 0741-0395
 UT WOS:000340556700012
 PM 24706571
 ER
----
+
 PT J
 AU Beedie, Chris
    Mann, Steven
@@ -3593,7 +3593,7 @@ SN 1537-890X
 UT WOS:000339392500014
 PM 25014393
 ER
----
+
 PT J
 AU Buela-Casal, Gualberto
 TI Pathological publishing: A new psychological disorder with legal
@@ -3639,7 +3639,7 @@ Z9 1
 SN 1889-1861
 UT WOS:000337990900006
 ER
----
+
 PT J
 AU Kunz, M.
    Lautenbacher, S.
@@ -3689,7 +3689,7 @@ SN 1090-3801
 UT WOS:000335460300009
 PM 24174396
 ER
----
+
 PT J
 AU Esteban, Oscar
    Wollny, Gert
@@ -3738,7 +3738,7 @@ SN 0169-2607
 UT WOS:000335392900004
 PM 24768617
 ER
----
+
 PT J
 AU Huffmeijer, Renske
    Bakermans-Kranenburg, Marian J.
@@ -3781,7 +3781,7 @@ SN 1471-2202
 UT WOS:000337318900001
 PM 24889267
 ER
----
+
 PT J
 AU Doyen, Stephane
    Klein, Olivier
@@ -3819,7 +3819,7 @@ Z9 3
 SN 0278-016X
 UT WOS:000339389200002
 ER
----
+
 PT J
 AU Newell, Ben R.
    Shanks, David R.
@@ -3858,7 +3858,7 @@ Z9 2
 SN 0278-016X
 UT WOS:000339389200006
 ER
----
+
 PT J
 AU Wheeler, S. Christian
    DeMarree, Kenneth G.
@@ -3887,7 +3887,7 @@ Z9 5
 SN 0278-016X
 UT WOS:000339389200007
 ER
----
+
 PT J
 AU Cesario, Joseph
    Jonas, Kai J.
@@ -3930,7 +3930,7 @@ Z9 4
 SN 0278-016X
 UT WOS:000339389200008
 ER
----
+
 PT J
 AU Loersch, Chris
    Payne, B. Keith
@@ -3961,7 +3961,7 @@ Z9 7
 SN 0278-016X
 UT WOS:000339389200009
 ER
----
+
 PT J
 AU Clauser, Jerome C.
    Margolis, Melissa J.
@@ -4002,7 +4002,7 @@ Z9 1
 SN 0022-0655
 UT WOS:000337594000001
 ER
----
+
 PT J
 AU Milojev, Petar
    Osborne, Danny
@@ -4048,7 +4048,7 @@ Z9 1
 SN 0885-7466
 UT WOS:000337052400001
 ER
----
+
 PT J
 AU LeBel, Etienne P.
    Wilbur, Christopher J.
@@ -4089,7 +4089,7 @@ SN 1069-9384
 UT WOS:000336422800014
 PM 24243138
 ER
----
+
 PT J
 AU Hunter, William Cannon
 TI Performing culture at indigenous culture parks in Taiwan: Using Q method
@@ -4124,7 +4124,7 @@ Z9 1
 SN 0261-5177
 UT WOS:000333000100032
 ER
----
+
 PT J
 AU Berns, G. S.
    Brooks, A.
@@ -4146,7 +4146,7 @@ Z9 0
 SN 1932-6203
 UT WOS:000339614800110
 ER
----
+
 PT J
 AU Verkoeijen, Peter P. J. L.
    Bouwmeester, Samantha
@@ -4194,7 +4194,7 @@ SN 1932-6203
 UT WOS:000338029800104
 PM 24801381
 ER
----
+
 PT J
 AU Sherman, Mya H.
    Ford, James
@@ -4260,7 +4260,7 @@ Z9 0
 SN 1469-3062
 UT WOS:000333873600006
 ER
----
+
 PT J
 AU Gieling, Elise T.
    Mijdam, Elco
@@ -4304,7 +4304,7 @@ Z9 1
 SN 0168-1591
 UT WOS:000336108900004
 ER
----
+
 PT J
 AU Stanley, David J.
    Spence, Jeffrey R.
@@ -4346,7 +4346,7 @@ Z9 12
 SN 1745-6916
 UT WOS:000335827700006
 ER
----
+
 PT J
 AU Perugini, Marco
    Gallucci, Marcello
@@ -4383,7 +4383,7 @@ Z9 7
 SN 1745-6916
 UT WOS:000335827700007
 ER
----
+
 PT J
 AU Braver, Sanford L.
    Thoemmes, Felix J.
@@ -4425,7 +4425,7 @@ Z9 13
 SN 1745-6916
 UT WOS:000335827700008
 ER
----
+
 PT J
 AU Hissel, Francois
    Morel, Gilles
@@ -4487,7 +4487,7 @@ Z9 2
 SN 0378-3839
 UT WOS:000335199200015
 ER
----
+
 PT J
 AU Braver, Sanford L.
    Ellman, Ira Mark
@@ -4526,7 +4526,7 @@ Z9 1
 SN 1076-8971
 UT WOS:000335333000003
 ER
----
+
 PT J
 AU Murayama, Kou
    Pekrun, Reinhard
@@ -4565,7 +4565,7 @@ SN 1088-8683
 UT WOS:000334113900001
 PM 23965303
 ER
----
+
 PT J
 AU Petrov, Megan E. Ruiter
    Lichstein, Kenneth L.
@@ -4609,7 +4609,7 @@ Z9 0
 SN 0005-7894
 UT WOS:000333792300011
 ER
----
+
 PT J
 AU Bodner, Ehud
 TI Emotion Recognition in Improvised Music: The Case of the Multicultural
@@ -4650,7 +4650,7 @@ Z9 0
 SN 0022-0221
 UT WOS:000333886400007
 ER
----
+
 PT J
 AU Ruiter Petrov, Megan E
    Lichstein, Kenneth L
@@ -4695,7 +4695,7 @@ Z9 0
 UT MEDLINE:24680236
 PM 24680236
 ER
----
+
 PT J
 AU Bedo, Justin
    Rawlinson, David
@@ -4750,7 +4750,7 @@ SN 1932-6203
 UT WOS:000338917300003
 PM 24787002
 ER
----
+
 PT J
 AU Paap, Kenneth R.
 TI The role of componential analysis, categorical hypothesising,
@@ -4785,7 +4785,7 @@ Z9 10
 SN 2044-5911
 UT WOS:000334063000001
 ER
----
+
 PT J
 AU Venables, N. C.
    Hall, J. R.
@@ -4835,7 +4835,7 @@ SN 0033-2917
 UT WOS:000332926300011
 PM 23834781
 ER
----
+
 PT J
 AU Fredebeul-Krein, Markus
    Steingroever, Markus
@@ -4901,7 +4901,7 @@ Z9 1
 SN 0308-5961
 UT WOS:000335280900005
 ER
----
+
 PT J
 AU Clark, Steven E.
    Moreland, Molly B.
@@ -4954,7 +4954,7 @@ SN 1069-9384
 UT WOS:000334174700002
 PM 24258271
 ER
----
+
 PT J
 AU Branch, Marc
 TI Malignant side effects of null-hypothesis significance testing
@@ -4990,7 +4990,7 @@ Z9 0
 SN 0959-3543
 UT WOS:000334539500007
 ER
----
+
 PT J
 AU Clark, Florence
    Pyatak, Elizabeth A.
@@ -5073,7 +5073,7 @@ SN 1740-7745
 UT WOS:000333645300009
 PM 24577972
 ER
----
+
 PT J
 AU Fountoulakis, Konstantinos N.
    Siamouli, Melina
@@ -5139,7 +5139,7 @@ SN 0165-0327
 UT WOS:000333259500004
 PM 24655761
 ER
----
+
 PT J
 AU Guio, Lain
    Barron, Maite G.
@@ -5189,7 +5189,7 @@ SN 0962-1083
 UT WOS:000333858200011
 PM 24629106
 ER
----
+
 PT J
 AU Rabeyron, Thomas
 TI Retro-priming, priming, and double testing: psi and replication in a
@@ -5233,7 +5233,7 @@ SN 1662-5161
 UT WOS:000333049400002
 PM 24672466
 ER
----
+
 PT J
 AU Hoffmann, Tammy C.
    Glasziou, Paul P.
@@ -5292,7 +5292,7 @@ SN 1756-1833
 UT WOS:000332625700011
 PM 24609605
 ER
----
+
 PT J
 AU Heller, Ruth
    Yekutieli, Daniel
@@ -5329,7 +5329,7 @@ Z9 1
 SN 1932-6157
 UT WOS:000342399400020
 ER
----
+
 PT J
 AU Davis-Stober, Clintin P.
    Dana, Jason
@@ -5363,7 +5363,7 @@ SN 1554-351X
 UT WOS:000340226100001
 PM 23661222
 ER
----
+
 PT J
 AU Taboga, Marco
 TI What Is a Prime Bank? A Euribor-OIS Spread Perspective
@@ -5399,7 +5399,7 @@ Z9 0
 SN 1367-0271
 UT WOS:000334300500003
 ER
----
+
 PT J
 AU Fortin, Alexandra
    Caza, Nicole
@@ -5439,7 +5439,7 @@ SN 0714-9808
 UT WOS:000332944000006
 PM 24444101
 ER
----
+
 PT J
 AU Landwehr-Kenzel, S.
    Issa, F.
@@ -5497,7 +5497,7 @@ SN 1600-6135
 UT WOS:000331783200014
 PM 24467477
 ER
----
+
 PT J
 AU Davies, J.
    Gander, P. E.
@@ -5544,7 +5544,7 @@ SN 1499-2027
 UT WOS:000332203500007
 PM 24200464
 ER
----
+
 PT J
 AU Pei, Yu-Fang
    Zhang, Lei
@@ -5588,7 +5588,7 @@ SN 0340-6717
 UT WOS:000331622700003
 PM 24114349
 ER
----
+
 PT J
 AU Balka, Kerstin
    Raasch, Christina
@@ -5645,7 +5645,7 @@ Z9 1
 SN 0737-6782
 UT WOS:000331129100015
 ER
----
+
 PT J
 AU Meijer, Ellen
    Bertholle, Christian P.
@@ -5705,7 +5705,7 @@ SN 1746-6148
 UT WOS:000334699100001
 PM 24502522
 ER
----
+
 PT J
 AU Kuckertz, Jennie M.
    Gildebrant, Elena
@@ -5761,7 +5761,7 @@ SN 0005-7967
 UT WOS:000331680500004
 PM 24373984
 ER
----
+
 PT J
 AU Makel, Matthew C.
 TI The Empirical March: Making Science Better at Self-Correction
@@ -5792,7 +5792,7 @@ Z9 9
 SN 1931-3896
 UT WOS:000331844400002
 ER
----
+
 PT J
 AU McBee, Matthew T.
    Matthews, Michael S.
@@ -5820,7 +5820,7 @@ Z9 2
 SN 1931-3896
 UT WOS:000331844400003
 ER
----
+
 PT J
 AU Smith, Jeffrey K.
    Smith, Lisa F.
@@ -5841,7 +5841,7 @@ Z9 2
 SN 1931-3896
 UT WOS:000331844400008
 ER
----
+
 PT J
 AU Funder, David C.
    Levine, John M.
@@ -5885,7 +5885,7 @@ SN 1088-8683
 UT WOS:000329731000001
 PM 24214149
 ER
----
+
 PT J
 AU Saucier, Gerard
    Thalmayer, Amber Gayle
@@ -5938,7 +5938,7 @@ Z9 8
 SN 0022-3506
 UT WOS:000329547400001
 ER
----
+
 PT J
 AU van Assen, Marcel A. L. M.
    van Aert, Robbie C. M.
@@ -5982,7 +5982,7 @@ SN 1932-6203
 UT WOS:000330237000018
 PM 24465448
 ER
----
+
 PT J
 AU Cong, Yanlong
    Sun, Yixue
@@ -6040,7 +6040,7 @@ SN 0378-1135
 UT WOS:000330420000013
 PM 24305615
 ER
----
+
 PT J
 AU Burgess, Melissa M.
    Cabeleira, Cindy M.
@@ -6084,7 +6084,7 @@ SN 0269-9931
 UT WOS:000328190100007
 PM 23768080
 ER
----
+
 PT P
 AU LEE S
    HAM GYEONGGUK
@@ -6108,7 +6108,7 @@ AB
 Z9 0
 UT DIIDW:2014R04751
 ER
----
+
 PT J
 AU Hao JunWei
    Zhang Yun
@@ -6144,7 +6144,7 @@ Z9 0
 SN 1005-944x
 UT CABI:20153075623
 ER
----
+
 PT J
 AU Kyung-Ho, Sim
 TI A Study on Popularity as a Character of Korean Classical Literature
@@ -6219,7 +6219,7 @@ Z9 0
 SN 1225-1313
 UT KJD:ART001905206
 ER
----
+
 PT J
 AU Peter Salama
    Ha Wei
@@ -6271,7 +6271,7 @@ Z9 0
 SN 1472-698X
 UT CABI:20153019283
 ER
----
+
 PT J
 AU Hao JunWei
    Shi Kun
@@ -6311,7 +6311,7 @@ Z9 0
 SN 1005-4545
 UT CABI:20153004910
 ER
----
+
 PT P
 AU WARILA B
    MARKEY B D
@@ -6365,7 +6365,7 @@ AB
 Z9 0
 UT DIIDW:2014W31619
 ER
----
+
 PT B
 AU Vukojevic-Haupt, K.
    Haupt, F.
@@ -6408,7 +6408,7 @@ Z9 0
 BN 978-1-4799-6833-6
 UT INSPEC:14795392
 ER
----
+
 PT J
 AU Xu Tan
    Lv Jiacheng
@@ -6465,7 +6465,7 @@ Z9 0
 SN 1004-549X
 UT CSCD:5249561
 ER
----
+
 PT J
 AU Li Haiyun
 Z2 李海云
@@ -6530,7 +6530,7 @@ Z9 0
 SN 1004-549X
 UT CSCD:5249578
 ER
----
+
 PT J
 AU Liu Qingyun
    Xiao Tiejun
@@ -6572,7 +6572,7 @@ Z9 0
 SN 1000-7180
 UT CSCD:5225562
 ER
----
+
 PT B
 AU Suzuki, T.
    Yamamoto, F.
@@ -6610,7 +6610,7 @@ Z9 0
 BN 978-1-62410-287-5
 UT INSPEC:14626637
 ER
----
+
 PT J
 AU Alrakaf, Saleh
    Abdelmageed, Ahmed
@@ -6663,7 +6663,7 @@ Z9 0
 UT MEDLINE:25298743
 PM 25298743
 ER
----
+
 PT J
 AU Kabo-Bah, A. T.
    Appiah-Sefah, G.
@@ -6704,7 +6704,7 @@ Z9 0
 SN 2157-6092
 UT CABI:20143329235
 ER
----
+
 PT J
 AU Yari, Arezoo
    Nadrian, Haidar
@@ -6759,7 +6759,7 @@ SN 1016-1430
 UT MEDLINE:25250262
 PM 25250262
 ER
----
+
 PT J
 AU Ferguson, Melissa J.
    Carter, Travis J.
@@ -6792,7 +6792,7 @@ Z9 0
 SN 1864-9335
 UT WOS:000341226100006
 ER
----
+
 PT J
 AU Crisp, Richard J.
    Miles, Eleanor
@@ -6822,7 +6822,7 @@ Z9 0
 SN 1864-9335
 UT WOS:000341226100007
 ER
----
+
 PT J
 AU Matanda, Dennis J.
    Mittelmark, Maurice B.
@@ -6877,7 +6877,7 @@ SN 2044-6055
 UT WOS:000339717100083
 PM 24939811
 ER
----
+
 PT J
 AU Jenkins, David G.
 TI Lakes and rivers as microcosms, version 2.0
@@ -6925,7 +6925,7 @@ Z9 3
 SN 1129-5767
 UT WOS:000338929200003
 ER
----
+
 PT J
 AU 이혜진
 TI Who has the initiative of Interpretation of the Administrative
@@ -7007,7 +7007,7 @@ Z9 0
 SN 1226-301X
 UT KJD:ART001883311
 ER
----
+
 PT P
 AU AO H
    LI W
@@ -7044,7 +7044,7 @@ AB
 Z9 0
 UT DIIDW:2014K40066
 ER
----
+
 PT J
 AU Kim, Kun Hyung
    Kang, Jung Won
@@ -7101,7 +7101,7 @@ SN 2044-6055
 UT WOS:000337363700025
 PM 24441055
 ER
----
+
 PT J
 AU Zou, Yi
    Moreel, Loise
@@ -7162,7 +7162,7 @@ SN 0277-786X
 BN 978-0-8194-9901-1
 UT WOS:000337581400004
 ER
----
+
 PT J
 AU Simeonova, B.
    Bogolyubov, P.
@@ -7205,7 +7205,7 @@ Z9 0
 SN 1479-4411
 UT INSPEC:14384722
 ER
----
+
 PT J
 AU Klein, Richard A.
    Ratliff, Kate A.
@@ -7292,7 +7292,7 @@ Z9 15
 SN 1864-9335
 UT WOS:000336836900002
 ER
----
+
 PT J
 AU Johnson, David J.
    Cheung, Felix
@@ -7333,7 +7333,7 @@ Z9 7
 SN 1864-9335
 UT WOS:000336836900011
 ER
----
+
 PT J
 AU Zezelj, Iris L.
    Jokic, Biljana R.
@@ -7367,7 +7367,7 @@ Z9 2
 SN 1864-9335
 UT WOS:000336836900013
 ER
----
+
 PT P
 AU CUI M
    FU Z
@@ -7409,7 +7409,7 @@ AB
 Z9 0
 UT DIIDW:2014E92466
 ER
----
+
 PT P
 AU GONG Z
    YI W
@@ -7440,7 +7440,7 @@ AB
 Z9 0
 UT DIIDW:2014H22775
 ER
----
+
 PT J
 AU Sherman, Ryne A.
    Wood, Dustin
@@ -7477,7 +7477,7 @@ Z9 3
 SN 0027-3171
 UT WOS:000331524800002
 ER
----
+
 PT J
 AU Yi Zou
    Moreel, L.
@@ -7533,7 +7533,7 @@ Z9 0
 SN 0277-786X
 UT INSPEC:14284763
 ER
----
+
 PT J
 AU Douet, Lisa
    Milne, Ruairidh
@@ -7589,7 +7589,7 @@ Z9 2
 SN 2044-6055
 UT WOS:000334311200025
 ER
----
+
 PT J
 AU Irwing, Paul
    Booth, Tom
@@ -7624,7 +7624,7 @@ Z9 1
 SN 1614-0001
 UT WOS:000334263300005
 ER
----
+
 PT J
 AU Jin Leshan
    Wei Tongyang
@@ -7702,7 +7702,7 @@ Z9 0
 SN 1000-3037
 UT CSCD:5058833
 ER
----
+
 PT J
 AU Douet, Lisa
    Milne, Ruairidh
@@ -7760,7 +7760,7 @@ Z9 0
 UT MEDLINE:24384896
 PM 24384896
 ER
----
+
 PT J
 AU Earp, Brian D.
    Everett, Jim A. C.
@@ -7795,7 +7795,7 @@ Z9 2
 SN 0197-3533
 UT WOS:000330825800010
 ER
----
+
 PT J
 AU Meijer, E.
    Bertholle, C. P.
@@ -7853,7 +7853,7 @@ Z9 0
 SN 1746-6148
 UT CABI:20143076408
 ER
----
+
 PT J
 AU Cesario, Joseph
 TI Priming, Replication, and the Hardest Science
@@ -7894,7 +7894,7 @@ Z9 20
 SN 1745-6916
 UT WOS:000330848700004
 ER
----
+
 PT J
 AU Stroebe, Wolfgang
    Strack, Fritz
@@ -7932,7 +7932,7 @@ Z9 23
 SN 1745-6916
 UT WOS:000330848700006
 ER
----
+
 PT J
 AU Simons, Daniel J.
 TI The Value of Direct Replication
@@ -7960,7 +7960,7 @@ Z9 15
 SN 1745-6916
 UT WOS:000330848700008
 ER
----
+
 PT J
 AU Uher, Rudolf
 TI Gene-environment interactions in common mental disorders: an update and
@@ -8003,7 +8003,7 @@ SN 0933-7954
 UT WOS:000330796000002
 PM 24323294
 ER
----
+
 PT J
 AU Sun, Biao
    Luh, Peter B.
@@ -8060,7 +8060,7 @@ Z9 0
 SN 1545-5955
 UT WOS:000329584200019
 ER
----
+
 PT J
 AU Biao Sun
    Luh, P.B.
@@ -8105,7 +8105,7 @@ Z9 0
 SN 1545-5955
 UT INSPEC:13998690
 ER
----
+
 PT J
 AU Guo, Xiaojuan
    Chen, Kewei
@@ -8155,7 +8155,7 @@ SN 1053-1807
 UT WOS:000328185400017
 PM 23589138
 ER
----
+
 PT J
 AU Kanagavel, Arun
    Pandya, Revati
@@ -8199,7 +8199,7 @@ Z9 0
 SN 0974-7893
 UT BCI:BCI201400102883
 ER
----
+
 PT J
 AU Berns, Gregory S.
    Brooks, Andrew
@@ -8232,7 +8232,7 @@ SN 1932-6203
 UT WOS:000327949300105
 PM 24324719
 ER
----
+
 PT J
 AU Bogomolov, Marina
    Heller, Ruth
@@ -8272,7 +8272,7 @@ Z9 3
 SN 0162-1459
 UT WOS:000328908700032
 ER
----
+
 PT J
 AU Vasey, Michael W.
    Harbaugh, Casaundra N.
@@ -8312,7 +8312,7 @@ Z9 1
 SN 0092-6566
 UT WOS:000328098800024
 ER
----
+
 PT J
 AU Rudaizky, Daniel
    MacLeod, Colin
@@ -8351,7 +8351,7 @@ Z9 2
 SN 0004-9530
 UT WOS:000326959800006
 ER
----
+
 PT J
 AU Cassiano, Carla Cristina
    de Barros Ferraz, Silvio Frosini
@@ -8390,7 +8390,7 @@ Z9 0
 SN 1679-0073
 UT WOS:000345959000010
 ER
----
+
 PT J
 AU Eneas da Silva, Francisco Osny
    Heikkila, Tanya
@@ -8426,7 +8426,7 @@ Z9 0
 SN 0790-0627
 UT WOS:000324458600009
 ER
----
+
 PT J
 AU Nikolac, Nora
    Simundic, Ana-Maria
@@ -8477,7 +8477,7 @@ SN 0009-8981
 UT WOS:000328809000007
 PM 23981842
 ER
----
+
 PT J
 AU Hill, Anne E.
    Davidson, Bronwyn J.
@@ -8530,7 +8530,7 @@ SN 1368-2822
 UT WOS:000326057500002
 PM 24119132
 ER
----
+
 PT J
 AU Thomas, Michael A.
    Song, Rui
@@ -8587,7 +8587,7 @@ SN 1932-6203
 UT WOS:000325894100022
 PM 24143187
 ER
----
+
 PT J
 AU Bruns, A.
 TI Faster than the speed of print: reconciling 'big data' social media
@@ -8625,7 +8625,7 @@ Z9 0
 SN 1396-0466
 UT INSPEC:14969438
 ER
----
+
 PT J
 AU Guo, Liang-Hao
    Alexopoulos, Panagiotis
@@ -8669,7 +8669,7 @@ SN 0893-0341
 UT WOS:000327742800007
 PM 23314060
 ER
----
+
 PT J
 AU Johnson, Valen E.
 TI On biases in assessing replicability, statistical consistency and
@@ -8700,7 +8700,7 @@ Z9 2
 SN 0022-2496
 UT WOS:000326903100004
 ER
----
+
 PT J
 AU Gelman, Andrew
 TI Interrogating p-values
@@ -8724,7 +8724,7 @@ Z9 1
 SN 0022-2496
 UT WOS:000326903100007
 ER
----
+
 PT J
 AU Alnaqbi, Khalid A.
    Touma, Zahi
@@ -8779,7 +8779,7 @@ SN 0315-162X
 UT WOS:000326668900014
 PM 23996291
 ER
----
+
 PT J
 AU Munafo, Marcus R.
    Gage, Suzanne H.
@@ -8813,7 +8813,7 @@ SN 0376-8716
 UT WOS:000325510700002
 PM 23628164
 ER
----
+
 PT J
 AU Pitcher, T. J.
    Lam, M. E.
@@ -8878,7 +8878,7 @@ SN 0022-1112
 UT WOS:000325140100009
 PM 24090552
 ER
----
+
 PT J
 AU Knoch, Ute
    Sitajalabhorn, Woranon
@@ -8913,7 +8913,7 @@ Z9 2
 SN 1075-2935
 UT WOS:000209245900005
 ER
----
+
 PT J
 AU Coffey, Kevin R.
    Barker, David J.
@@ -8956,7 +8956,7 @@ SN 1940-087X
 UT WOS:000209228800052
 PM 24192514
 ER
----
+
 PT J
 AU Mihailidis, Suzanna
    Scriven, Graham
@@ -9005,7 +9005,7 @@ SN 0002-9483
 UT WOS:000330234400003
 PM 23913636
 ER
----
+
 PT J
 AU Frieler, Klaus
    Muellensiefen, Daniel
@@ -9052,7 +9052,7 @@ Z9 1
 SN 1029-8649
 UT WOS:000330647000002
 ER
----
+
 PT J
 AU Almy, Brandon
    Krueger, Joachim I.
@@ -9082,7 +9082,7 @@ Z9 0
 SN 1930-2975
 UT WOS:000325159800002
 ER
----
+
 PT J
 AU Gray, Kurt
    Wegner, Daniel M.
@@ -9114,7 +9114,7 @@ Z9 5
 SN 1745-6916
 UT WOS:000324101800005
 ER
----
+
 PT J
 AU Sutin, Angelina R.
    Costa, Paul T., Jr.
@@ -9158,7 +9158,7 @@ SN 1040-3590
 UT WOS:000323994800030
 PM 23815114
 ER
----
+
 PT J
 AU Chatterton, Paul
 TI Towards an Agenda for Post-carbon Cities: Lessons from Lilac, the UK's
@@ -9200,7 +9200,7 @@ Z9 3
 SN 0309-1317
 UT WOS:000323198200009
 ER
----
+
 PT J
 AU Yildiz, Olcay Taner
 TI Omnivariate Rule Induction Using a Novel Pairwise Statistical Test
@@ -9238,7 +9238,7 @@ Z9 2
 SN 1041-4347
 UT WOS:000322136900013
 ER
----
+
 PT J
 AU Wang, Yan
    Chen, Kewei
@@ -9292,7 +9292,7 @@ SN 1932-6203
 UT WOS:000323733800110
 PM 24015315
 ER
----
+
 PT J
 AU Kornbrot, Diana E.
    Msetfi, Rachel M.
@@ -9342,7 +9342,7 @@ SN 1932-6203
 UT WOS:000324470100047
 PM 23990960
 ER
----
+
 PT J
 AU Delli Carri, Alessia
    Onorati, Marco
@@ -9390,7 +9390,7 @@ Z9 0
 UT MEDLINE:23625190
 PM 23625190
 ER
----
+
 PT J
 AU Schlappy, Romain
    Jomelli, Vincent
@@ -9439,7 +9439,7 @@ Z9 3
 SN 1523-0430
 UT WOS:000329533200008
 ER
----
+
 PT J
 AU Kamangar, Farin
    Karimi, Parisa
@@ -9472,7 +9472,7 @@ SN 1029-2977
 UT WOS:000326303800008
 PM 23906255
 ER
----
+
 PT J
 AU Kamal, Arif H.
    Currow, David C.
@@ -9527,7 +9527,7 @@ SN 0885-3924
 UT WOS:000324026100014
 PM 23159685
 ER
----
+
 PT J
 AU Carri, Alessia Delli
    Onorati, Marco
@@ -9575,7 +9575,7 @@ Z9 4
 SN 1550-8943
 UT WOS:000323260500008
 ER
----
+
 PT J
 AU Lucas, Richard E.
    Donnellan, M. Brent
@@ -9597,7 +9597,7 @@ Z9 0
 SN 0092-6566
 UT WOS:000321079700026
 ER
----
+
 PT J
 AU McGeachie, M. J.
    Wu, A. C.
@@ -9640,7 +9640,7 @@ SN 1470-269X
 UT WOS:000322524900002
 PM 22641026
 ER
----
+
 PT J
 AU Gyoerkoes, Christina
    Becker, Juergen
@@ -9687,7 +9687,7 @@ Z9 2
 SN 1069-3971
 UT WOS:000321492100003
 ER
----
+
 PT J
 AU Wisner, Krista M.
    Atluri, Gowtham
@@ -9734,7 +9734,7 @@ SN 1053-8119
 UT WOS:000319090300023
 PM 23507379
 ER
----
+
 PT J
 AU Ferguson, Sherry A.
    Maier, Kaitlyn L.
@@ -9773,7 +9773,7 @@ SN 0031-9384
 UT WOS:000323405700018
 PM 23770329
 ER
----
+
 PT J
 AU Oh, Sun Min
    Nam, Byung-Ho
@@ -9826,7 +9826,7 @@ SN 0914-8779
 UT WOS:000321770000007
 PM 23420298
 ER
----
+
 PT J
 AU LeBel, Etienne P.
    Borsboom, Denny
@@ -9876,7 +9876,7 @@ Z9 11
 SN 1745-6916
 UT WOS:000321493400006
 ER
----
+
 PT J
 AU Obschonka, Martin
    Schmitt-Rodermund, Eva
@@ -9927,7 +9927,7 @@ SN 0022-3514
 UT WOS:000320909900006
 PM 23586410
 ER
----
+
 PT J
 AU Serna, Alejandro
    D'Addona, Lucas A.
@@ -9957,7 +9957,7 @@ Z9 0
 SN 1850-373X
 UT WOS:000346671300014
 ER
----
+
 PT J
 AU Schubert, Thomas W.
    Murteira, Carla
@@ -9997,7 +9997,7 @@ Z9 2
 SN 1932-6203
 UT WOS:000320846500154
 ER
----
+
 PT J
 AU Napolitano, Francesco
    Mariani-Costantini, Renato
@@ -10039,7 +10039,7 @@ SN 1471-2105
 UT WOS:000321136500001
 PM 23786315
 ER
----
+
 PT J
 AU de Winter, Joost
    Happee, Riender
@@ -10075,7 +10075,7 @@ SN 1932-6203
 UT WOS:000322342800064
 PM 23840479
 ER
----
+
 PT J
 AU Marigorta, Urko M.
    Navarro, Arcadi
@@ -10122,7 +10122,7 @@ SN 1553-7404
 UT WOS:000321222600042
 PM 23785302
 ER
----
+
 PT J
 AU Jelliffe-Pawlowski, Laura L.
    Shaw, Gary M.
@@ -10177,7 +10177,7 @@ SN 0002-9378
 UT WOS:000320596600029
 PM 23395922
 ER
----
+
 PT J
 AU Donovan, D. A.
    Atkins, L. J.
@@ -10226,7 +10226,7 @@ SN 1931-7913
 UT WOS:000321331200016
 PM 23737629
 ER
----
+
 PT J
 AU Mun, E. -Y.
    White, H. R.
@@ -10255,7 +10255,7 @@ Z9 0
 SN 0145-6008
 UT WOS:000318998300553
 ER
----
+
 PT J
 AU Kepes, Sven
    McDaniel, Michael A.
@@ -10298,7 +10298,7 @@ Z9 9
 SN 0889-3268
 UT WOS:000319002500001
 ER
----
+
 PT J
 AU Thomas, Cibu
    Baker, Chris I.
@@ -10340,7 +10340,7 @@ SN 1053-8119
 UT WOS:000317084500022
 PM 22484409
 ER
----
+
 PT J
 AU Grzadzinski, Rebecca
    Huerta, Marisela
@@ -10373,7 +10373,7 @@ SN 2040-2392
 UT WOS:000327195500002
 PM 23675638
 ER
----
+
 PT J
 AU Bobrow, Joseph
    Cook, Emily
@@ -10414,7 +10414,7 @@ SN 1541-1559
 UT WOS:000319802300001
 PM 23244031
 ER
----
+
 PT J
 AU Burke, Darlene A.
    Whittemore, Scott R.
@@ -10464,7 +10464,7 @@ SN 0897-7151
 UT WOS:000319336100001
 PM 23186206
 ER
----
+
 PT J
 AU Villamor, N.
    Conde, L.
@@ -10537,7 +10537,7 @@ SN 0887-6924
 UT WOS:000318698300013
 PM 23295735
 ER
----
+
 PT J
 AU Henderson, C. Y.
 TI Technical note: Quantifying size and shape of entheses
@@ -10585,7 +10585,7 @@ Z9 1
 SN 0918-7960
 UT WOS:000324083800007
 ER
----
+
 PT J
 AU Gumus, Kutalmis
    Erkaya, Halil
@@ -10627,7 +10627,7 @@ Z9 0
 SN 1982-2170
 UT WOS:000320938300007
 ER
----
+
 PT J
 AU Van Meter, Anna
    Youngstrom, Eric A.
@@ -10677,7 +10677,7 @@ SN 0091-0627
 UT WOS:000316398700002
 PM 22968491
 ER
----
+
 PT J
 AU Asendorpf, Jens B.
    Conner, Mark
@@ -10717,7 +10717,7 @@ AB Replicability of findings is at the heart of any empirical science. The
    Copyright (C) 2013 John Wiley & Sons, Ltd.
 RI Wicherts, Jelte/A-2664-2008; Denissen, Jaap/H-2180-2013; Conner, Mark/N-9063-2013
 OI Wicherts, Jelte/0000-0003-2415-2933; Denissen, Jaap/0000-0002-6282-4107;
----
+   
 TC 71
 ZB 22
 Z8 0
@@ -10726,7 +10726,7 @@ Z9 71
 SN 0890-2070
 UT WOS:000318045700002
 ER
----
+
 PT J
 AU Cacioppo, John T.
    Cacioppo, Stephanie
@@ -10758,7 +10758,7 @@ Z9 2
 SN 0890-2070
 UT WOS:000318045700004
 ER
----
+
 PT J
 AU Eid, Michael
 TI From Replication Studies to Studies of Replicability
@@ -10784,7 +10784,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000318045700005
 ER
----
+
 PT J
 AU Hunt, Earl
 TI Calls for Replicability Must Go Beyond Motherhood and Apple Pie
@@ -10812,7 +10812,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000318045700008
 ER
----
+
 PT J
 AU Lucas, Richard E.
    Donnellan, M. Brent
@@ -10839,7 +10839,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000318045700011
 ER
----
+
 PT J
 AU Rieth, Cory A.
    Piantadosi, Steven T.
@@ -10870,7 +10870,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000318045700012
 ER
----
+
 PT J
 AU Schimmack, Ulrich
    Dinolfo, Giuseppina
@@ -10900,7 +10900,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000318045700013
 ER
----
+
 PT J
 AU Simpson, Jeffry A.
 TI Replicability Without Stifling Redundancy
@@ -10929,7 +10929,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000318045700015
 ER
----
+
 PT J
 AU Westmeyer, Hans
 TI The Significance Test Controversy Reloaded?
@@ -10955,7 +10955,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000318045700017
 ER
----
+
 PT J
 AU Asendorpf, Jens B.
    Conner, Mark
@@ -10992,7 +10992,7 @@ AB The main goal of our target article was to provide concrete
    & Sons, Ltd.
 RI Wicherts, Jelte/A-2664-2008; Denissen, Jaap/H-2180-2013; Conner, Mark/N-9063-2013
 OI Wicherts, Jelte/0000-0003-2415-2933; Denissen, Jaap/0000-0002-6282-4107;
----
+   
 TC 0
 ZB 0
 Z8 0
@@ -11001,7 +11001,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000318045700018
 ER
----
+
 PT J
 AU Juggins, Steve
    Anderson, N. John
@@ -11049,7 +11049,7 @@ Z9 13
 SN 0921-2728
 UT WOS:000316886900006
 ER
----
+
 PT J
 AU Melli, Gabriele
    Chiorri, Carlo
@@ -11092,7 +11092,7 @@ Z9 1
 SN 1937-1209
 UT WOS:000316588500004
 ER
----
+
 PT J
 AU Benzo, Roberto
    Vickers, Kristin
@@ -11146,7 +11146,7 @@ SN 1932-7501
 UT WOS:000315595600008
 PM 23434613
 ER
----
+
 PT J
 AU Zhao, Jingwei
    Wang, Ronghua
@@ -11190,7 +11190,7 @@ Z9 1
 SN 0733-9488
 UT WOS:000315469200008
 ER
----
+
 PT J
 AU Voracek, Martin
 TI Replicability and Publishing Standards in Digit Ratio (2D:4D) Research:
@@ -11213,7 +11213,7 @@ SN 0096-140X
 UT WOS:000315215700003
 PM 23386515
 ER
----
+
 PT J
 AU Karl, Ines
    Berg, Guy
@@ -11258,7 +11258,7 @@ Z9 2
 SN 1939-1390
 UT WOS:000209299000005
 ER
----
+
 PT J
 AU Wallace, Erik A
    Miller-Cribbs, Julie E
@@ -11307,7 +11307,7 @@ SN 1949-8349
 UT MEDLINE:24404238
 PM 24404238
 ER
----
+
 PT J
 AU Kellett, Ronald
    Christen, Andreas
@@ -11353,7 +11353,7 @@ Z9 7
 SN 0169-2046
 UT WOS:000314189600006
 ER
----
+
 PT J
 AU Maksimov, Margus
    Vaht, Mariliis
@@ -11408,7 +11408,7 @@ SN 1932-6203
 UT WOS:000314023600163
 PM 23359627
 ER
----
+
 PT P
 AU ZHAO C
    HAN Z
@@ -11444,7 +11444,7 @@ AB
 Z9 0
 UT DIIDW:2013J19629
 ER
----
+
 PT J
 AU Hernandez, P.
    Murawko, A.
@@ -11493,7 +11493,7 @@ SN 1877-7058
 BN *****************
 UT WOS:000345160200106
 ER
----
+
 PT J
 AU Wang, Huagang
    Li, Jianmin
@@ -11545,7 +11545,7 @@ SN 2251-3051
 BN 978-981-07-3900-3
 UT WOS:000339170600020
 ER
----
+
 PT J
 AU Asmita Kabra
 TI Conservation-induced displacement: the anatomy of a win-win solution.
@@ -11585,7 +11585,7 @@ Z9 0
 SN 0049-0857
 UT CABI:20143118105
 ER
----
+
 PT J
 AU Jull, Andrew B
    Walker, Natalie
@@ -11659,7 +11659,7 @@ Z9 0
 UT MEDLINE:23450557
 PM 23450557
 ER
----
+
 PT P
 AU JIANG Y
 TI Coded product composite layer structure, has printed matter main body
@@ -11688,7 +11688,7 @@ AB
 Z9 0
 UT DIIDW:2013V35635
 ER
----
+
 PT J
 AU Mingxiang He
    Qingye Sun
@@ -11720,7 +11720,7 @@ Z9 0
 SN 1660-9336
 UT INSPEC:14119945
 ER
----
+
 PT B
 AU Ma, Yunlong
    Zhang, Peng
@@ -11764,7 +11764,7 @@ Z9 0
 BN 978-1-4799-1292-6; 978-1-4799-1293-3
 UT WOS:000330831300248
 ER
----
+
 PT B
 AU Sieber, M.
    Berg, G.
@@ -11808,7 +11808,7 @@ Z9 0
 BN 978-1-4799-2914-6
 UT INSPEC:14062976
 ER
----
+
 PT B
 AU Yunlong Ma
    Peng Zhang
@@ -11842,7 +11842,7 @@ Z9 0
 BN 978-1-4799-1293-3
 UT INSPEC:13999230
 ER
----
+
 PT P
 AU JIANG Y
 TI Composite layer product structure, has printed matter main body and
@@ -11871,7 +11871,7 @@ AB
 Z9 0
 UT DIIDW:2013P71535
 ER
----
+
 PT P
 AU LIN B
    YANG Y
@@ -11897,7 +11897,7 @@ AB
 Z9 0
 UT DIIDW:2013P32112
 ER
----
+
 PT P
 AU WANG B
    LIU Y
@@ -11929,7 +11929,7 @@ AB
 Z9 0
 UT DIIDW:2013H60143
 ER
----
+
 PT J
 AU Zhang Zhe
    Zhang Lei
@@ -11967,7 +11967,7 @@ Z9 4
 SN 1002-8471
 UT CSCD:4939799
 ER
----
+
 PT P
 AU TAN S
    ZHAO X
@@ -11995,7 +11995,7 @@ AB
 Z9 0
 UT DIIDW:2013K92365
 ER
----
+
 PT B
 AU Tangsen Zhan
    Huahui Cai
@@ -12032,7 +12032,7 @@ Z9 0
 BN 978-0-7695-5004-6
 UT INSPEC:13874215
 ER
----
+
 PT J
 AU Brun, F.
    Mosso, A.
@@ -12062,7 +12062,7 @@ Z9 0
 SN 1828-5880
 UT CABI:20133374383
 ER
----
+
 PT J
 AU Sarbescu, Paul
    Negut, Alexandra
@@ -12104,7 +12104,7 @@ Z9 0
 SN 1015-5759
 UT WOS:000326165900003
 ER
----
+
 PT J
 AU Silva, F. O. E. da
    Heikkila, T.
@@ -12139,7 +12139,7 @@ Z9 0
 SN 0790-0627
 UT CABI:20133352801
 ER
----
+
 PT J
 AU Liang Xiong
    Wu Xiaoyu
@@ -12193,7 +12193,7 @@ Z9 1
 SN 1000-7555
 UT CSCD:4892490
 ER
----
+
 PT B
 BE Crusio, WE
    Sluyter, F
@@ -12236,7 +12236,7 @@ Z9 0
 BN 978-1-107-03481-5(P)
 UT BCI:BCI201300678059
 ER
----
+
 PT J
 AU Wahlsten, Douglas
    Crabbe, John C.
@@ -12261,7 +12261,7 @@ BN 978-1-107-03481-5
 UT WOS:000323818800005
 D2 10.1017/CBO9781139541022
 ER
----
+
 PT P
 AU HUANG D
    LI C
@@ -12293,7 +12293,7 @@ AB
 Z9 0
 UT DIIDW:2013G47307
 ER
----
+
 PT P
 AU DANGE A
    YING X
@@ -12340,7 +12340,7 @@ AB
 Z9 0
 UT DIIDW:2013D96490
 ER
----
+
 PT J
 AU Liang, Xiong
    Li, Bing
@@ -12398,7 +12398,7 @@ Z9 3
 SN 0305-6120
 UT WOS:000319543500006
 ER
----
+
 PT S
 AU He, Mingxiang
    Sun, Qingye
@@ -12442,7 +12442,7 @@ SN 1660-9336
 BN 978-3-03785-574-4
 UT WOS:000318818700293
 ER
----
+
 PT J
 AU Xiong Liang
    Bing Li
@@ -12499,7 +12499,7 @@ Z9 0
 SN 0305-6120
 UT INSPEC:13490398
 ER
----
+
 PT P
 AU YANG G
 TI Method for producing honeycomb shape bee nest room, involves carrying
@@ -12523,7 +12523,7 @@ ZS 0
 Z9 0
 UT DIIDW:2013A48267
 ER
----
+
 PT P
 AU CAI J
    LIU S
@@ -12552,7 +12552,7 @@ ZS 0
 Z9 0
 UT DIIDW:2013A14378
 ER
----
+
 PT J
 AU Jull, Andrew B.
    Walker, Natalie
@@ -12631,7 +12631,7 @@ Z9 5
 SN 1469-493X
 UT WOS:000315461200012
 ER
----
+
 PT J
 AU Gawlytta, Romina
    Tefikow, Susan
@@ -12668,7 +12668,7 @@ SN 0937-2032
 UT WOS:000313883000010
 PM 23341115
 ER
----
+
 PT J
 AU Varela-Rey, Ana
    Rodriguez-Carballeira, Alvaro
@@ -12702,7 +12702,7 @@ Z9 0
 SN 0213-4748
 UT WOS:000313267600007
 ER
----
+
 PT J
 AU Sieber, Markus
    Berg, Guy
@@ -12748,7 +12748,7 @@ SN 2153-0009
 BN 978-1-4799-2914-6
 UT WOS:000346481000177
 ER
----
+
 PT J
 AU Laws, Keith R
 TI Negativland - a home for all findings in psychology.
@@ -12783,7 +12783,7 @@ Z9 3
 UT MEDLINE:25566354
 PM 25566354
 ER
----
+
 PT J
 AU Yuen, Belinda
 BE Featherstone, J
@@ -12814,7 +12814,7 @@ Z9 0
 BN 978-94-90354-22-0
 UT WOS:000347398400058
 ER
----
+
 PT J
 AU Brownlee, Katherine
    Minnier, Tamra E.
@@ -12864,7 +12864,7 @@ SN 1063-8628
 UT WOS:000209317000004
 PM 23271591
 ER
----
+
 PT J
 AU Goldstein, Naomi E. S.
    Kemp, Kathleen A.
@@ -12901,7 +12901,7 @@ Z9 3
 SN 0969-5893
 UT WOS:000313831700009
 ER
----
+
 PT J
 AU Fonio, Ehud
    Golani, Ilan
@@ -12931,7 +12931,7 @@ SN 1548-7091
 UT WOS:000312093500017
 PM 23223171
 ER
----
+
 PT J
 AU Jung, Woosin
    Ra, Jongman
@@ -12972,7 +12972,7 @@ Z9 6
 SN 2234-7593
 UT WOS:000311812600015
 ER
----
+
 PT J
 AU Hoekstra, Rink
    Johnson, Addie
@@ -13016,7 +13016,7 @@ Z9 3
 SN 0013-1644
 UT WOS:000309936500008
 ER
----
+
 PT J
 AU Guglielmelli, Paola
    Biamonte, Flavia
@@ -13060,7 +13060,7 @@ Z9 0
 SN 0006-4971
 UT WOS:000313838902229
 ER
----
+
 PT J
 AU Ramos, Fernando
    Pedro, Carmen
@@ -13103,7 +13103,7 @@ Z9 0
 SN 0006-4971
 UT WOS:000314049601262
 ER
----
+
 PT J
 AU Durlauf, Steven N.
    Kourtellos, Andros
@@ -13139,7 +13139,7 @@ Z9 10
 SN 0883-7252
 UT WOS:000311612900002
 ER
----
+
 PT J
 AU Pashler, Harold
    Wagenmakers, Eric-Jan
@@ -13161,7 +13161,7 @@ Z9 112
 SN 1745-6916
 UT WOS:000310852500001
 ER
----
+
 PT J
 AU Pashler, Harold
    Harris, Christine R.
@@ -13201,7 +13201,7 @@ Z9 71
 SN 1745-6916
 UT WOS:000310852500002
 ER
----
+
 PT J
 AU Ferguson, Christopher J.
    Heene, Moritz
@@ -13235,7 +13235,7 @@ Z9 47
 SN 1745-6916
 UT WOS:000310852500005
 ER
----
+
 PT J
 AU Klein, Olivier
    Doyen, Stephane
@@ -13279,7 +13279,7 @@ Z9 12
 SN 1745-6916
 UT WOS:000310852500007
 ER
----
+
 PT J
 AU Grahe, Jon E.
    Reifman, Alan
@@ -13316,7 +13316,7 @@ Z9 3
 SN 1745-6916
 UT WOS:000310852500012
 ER
----
+
 PT J
 AU Fiedler, Klaus
    Kutzner, Florian
@@ -13356,7 +13356,7 @@ Z9 20
 SN 1745-6916
 UT WOS:000310852500021
 ER
----
+
 PT J
 AU Nenonen, Jukka
    Nurminen, Jussi
@@ -13413,7 +13413,7 @@ SN 1388-2457
 UT WOS:000309546600011
 PM 22633918
 ER
----
+
 PT J
 AU Alekseev, Oleg
    Tran, Anh H.
@@ -13458,7 +13458,7 @@ SN 1940-087X
 UT WOS:000209226000003
 PM 23149439
 ER
----
+
 PT J
 AU Khan, Fouad
 TI An initial seed selection algorithm for k-means clustering of
@@ -13505,7 +13505,7 @@ Z9 7
 SN 1568-4946
 UT WOS:000308666500032
 ER
----
+
 PT J
 AU Burton, Anthony
    Kowalski, Robert
@@ -13545,7 +13545,7 @@ SN 1932-6203
 UT WOS:000310261800020
 PM 23133527
 ER
----
+
 PT J
 AU Quan-Ke Pan
    Ruiz, R.
@@ -13591,7 +13591,7 @@ Z9 0
 SN 0377-2217
 UT INSPEC:13321635
 ER
----
+
 PT J
 AU Gittell, Jody Hoffer
    Douglass, Anne
@@ -13623,7 +13623,7 @@ Z9 10
 SN 0363-7425
 UT WOS:000310254000011
 ER
----
+
 PT J
 AU Pires, Gabriel Natan
    Tufik, Sergio
@@ -13662,7 +13662,7 @@ Z9 0
 UT MEDLINE:23386097
 PM 23386097
 ER
----
+
 PT J
 AU Powell, Russell
 TI Convergent evolution and the limits of natural selection
@@ -13700,7 +13700,7 @@ Z9 3
 SN 1879-4912
 UT WOS:000208962200006
 ER
----
+
 PT J
 AU Pan, Quan-Ke
    Ruiz, Ruben
@@ -13749,7 +13749,7 @@ Z9 7
 SN 0377-2217
 UT WOS:000305862500004
 ER
----
+
 PT J
 AU Belmaker, R. H.
    Bersudsky, Yuly
@@ -13776,7 +13776,7 @@ SN 1741-7015
 UT WOS:000312392600001
 PM 23016518
 ER
----
+
 PT J
 AU Samet, Jonathan M.
 TI What was the first epidemiological study of smoking and lung cancer?
@@ -13805,7 +13805,7 @@ SN 0091-7435
 UT WOS:000309087300003
 PM 22766434
 ER
----
+
 PT J
 AU Foran, Heather M.
    Snarr, Jeffery D.
@@ -13853,7 +13853,7 @@ SN 0893-164X
 UT WOS:000308784700012
 PM 22448763
 ER
----
+
 PT J
 AU Messinger, Adam M.
    Rickert, Vaughn I.
@@ -13897,7 +13897,7 @@ SN 0886-2605
 UT WOS:000308031300010
 PM 22491220
 ER
----
+
 PT J
 AU Bauer, Lance O.
    Yang, Bao-Zhu
@@ -13945,7 +13945,7 @@ SN 1055-0496
 UT WOS:000307377400004
 PM 22882390
 ER
----
+
 PT J
 AU Boyd, Cynthia M.
    Vollenweider, Daniela
@@ -14002,7 +14002,7 @@ SN 1932-6203
 UT WOS:000307284100023
 PM 22870234
 ER
----
+
 PT J
 AU Amini, Shahram M.
    Parmeter, Christopher F.
@@ -14031,7 +14031,7 @@ Z9 2
 SN 0883-7252
 UT WOS:000306477800008
 ER
----
+
 PT J
 AU Soneji, Samir
    King, Gary
@@ -14081,7 +14081,7 @@ SN 0070-3370
 UT WOS:000306335600013
 PM 22592944
 ER
----
+
 PT J
 AU Fortina, Anna Belloni
    Peserico, Enoch
@@ -14127,7 +14127,7 @@ SN 0909-752X
 UT WOS:000306012700007
 PM 22092600
 ER
----
+
 PT J
 AU Gulaid, Laurie Ackerman
    Kiragu, Karusa
@@ -14195,7 +14195,7 @@ Z9 3
 SN 1758-2652
 UT WOS:000317490000003
 ER
----
+
 PT J
 AU Guillaume-Hanes, Esther
    Morse, Patrick
@@ -14229,7 +14229,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000306897100010
 ER
----
+
 PT J
 AU Kim, Keum-Yong
    Lee, Tonny
@@ -14285,7 +14285,7 @@ Z9 1
 SN 1092-8758
 UT WOS:000306080200003
 ER
----
+
 PT J
 AU McDevitt-Murphy, Meghan E.
    Shea, M. Tracie
@@ -14328,7 +14328,7 @@ SN 0010-440X
 UT WOS:000305769000005
 PM 21864834
 ER
----
+
 PT J
 AU Pence, Brian W.
    Gaynes, Bradley N.
@@ -14386,7 +14386,7 @@ SN 1551-7144
 UT WOS:000305711700034
 PM 22542960
 ER
----
+
 PT J
 AU Liu, Shih-Jung
    Huang, Chun-Chieh
@@ -14430,7 +14430,7 @@ Z9 7
 SN 0032-3888
 UT WOS:000305473100001
 ER
----
+
 PT J
 AU Batista, Teresa
    Mendes, Paula
@@ -14479,7 +14479,7 @@ Z9 0
 SN 1253-8078
 UT WOS:000307240900004
 ER
----
+
 PT J
 AU Lehmann, C.
    Beierlein, V.
@@ -14561,7 +14561,7 @@ SN 0034-3536
 UT WOS:000307746600004
 PM 22174099
 ER
----
+
 PT J
 AU Casement, Melynda D.
    Harrington, Kelly M.
@@ -14612,7 +14612,7 @@ SN 1389-9457
 UT WOS:000306304700033
 PM 22542787
 ER
----
+
 PT J
 AU Chaurey, Akanksha
    Krithika, P. R.
@@ -14653,7 +14653,7 @@ Z9 11
 SN 0301-4215
 UT WOS:000305201600008
 ER
----
+
 PT J
 AU Yang, Mu
    Bozdagi, Ozlem
@@ -14710,7 +14710,7 @@ SN 0270-6474
 UT WOS:000303870100013
 PM 22573675
 ER
----
+
 PT J
 AU Uher, R.
    Perlis, R. H.
@@ -14775,7 +14775,7 @@ SN 0033-2917
 UT WOS:000302379800008
 PM 21929846
 ER
----
+
 PT J
 AU Shi Xiang
    Zhang Guo-dong
@@ -14804,7 +14804,7 @@ Z9 0
 SN 1000-7024
 UT INSPEC:13303956
 ER
----
+
 PT J
 AU Wicherts, Jelte M.
    Kievit, Rogier A.
@@ -14848,7 +14848,7 @@ SN 1662-5188
 UT WOS:000302818400001
 PM 22536180
 ER
----
+
 PT J
 AU King, Patricia A. Lee
 TI Replicability of structural models of the Edinburgh Postnatal Depression
@@ -14892,7 +14892,7 @@ SN 1434-1816
 UT WOS:000304169100001
 PM 22297555
 ER
----
+
 PT J
 AU Shockley, Carrie
    Thompson, Ashleigh
@@ -14939,7 +14939,7 @@ Z9 1
 SN 0190-7409
 UT WOS:000301912600018
 ER
----
+
 PT J
 AU Kadlec, Tomas
    Tropek, Robert
@@ -14985,7 +14985,7 @@ Z9 8
 SN 1366-638X
 UT WOS:000301588900011
 ER
----
+
 PT J
 AU Hartshorne, Joshua K.
    Schachner, Adena
@@ -15031,7 +15031,7 @@ SN 1662-5188
 UT WOS:000301130100001
 PM 22403538
 ER
----
+
 PT J
 AU Frahm, Ellery
 TI Evaluation of Archaeological Sourcing Techniques: Reconsidering and
@@ -15069,7 +15069,7 @@ Z9 13
 SN 0883-6353
 UT WOS:000303039000005
 ER
----
+
 PT J
 AU MacArthur, Charles A.
    Konold, Timothy R.
@@ -15119,7 +15119,7 @@ Z9 0
 SN 0922-4777
 UT WOS:000301659500013
 ER
----
+
 PT J
 AU Brunner, Dani
    Balci, Fuat
@@ -15168,7 +15168,7 @@ SN 0376-6357
 UT WOS:000301037500015
 PM 22155361
 ER
----
+
 PT J
 AU Rahman, Noushi
    Post, Corinne
@@ -15199,7 +15199,7 @@ Z9 4
 SN 0167-4544
 UT WOS:000300364300003
 ER
----
+
 PT J
 AU Fonseca-Pedrero, Eduardo
    Sierra-Baigrie, Susana
@@ -15246,7 +15246,7 @@ SN 1054-139X
 UT WOS:000300051700005
 PM 22265110
 ER
----
+
 PT J
 AU Hucker, Alice
    McCabe, Marita P.
@@ -15294,7 +15294,7 @@ SN 1743-6095
 UT WOS:000299729900002
 PM 22189015
 ER
----
+
 PT J
 AU Perez-Castillo, Ricardo
    Garcia-Rodriguez de Guzman, Ignacio
@@ -15339,7 +15339,7 @@ Z9 0
 SN 0038-0644
 UT WOS:000299417200002
 ER
----
+
 PT P
 AU LIU J
    YANG B
@@ -15364,7 +15364,7 @@ AB
 Z9 0
 UT DIIDW:2012J84931
 ER
----
+
 PT P
 AU CAI Z
 TI Method for making reel type hologram film, involves coping groove
@@ -15395,7 +15395,7 @@ AB
 Z9 0
 UT DIIDW:2012C57317
 ER
----
+
 PT J
 AU Adesiyun, Adewole
    Cocu, Xavier
@@ -15448,7 +15448,7 @@ Z9 0
 BN 978-86-916153-0-7
 UT WOS:000327948300016
 ER
----
+
 PT J
 AU Dale, Robert
    Narroway, George
@@ -15497,7 +15497,7 @@ Z9 1
 BN 978-2-9517408-7-7
 UT WOS:000323927703014
 ER
----
+
 PT B
 AU Beuls, K.
    Ferdinand, V.
@@ -15539,7 +15539,7 @@ Z9 0
 BN 978-1-4673-4964-2
 UT INSPEC:13220376
 ER
----
+
 PT B
 AU Zhao Yan
    Ge Zhong-quan
@@ -15578,7 +15578,7 @@ Z9 0
 BN 978-7-5647-1031-6
 UT WOS:000322206000125
 ER
----
+
 PT R
 AU Gacic-Dobo, Marta
    Kowalski, Robert
@@ -15613,7 +15613,7 @@ ZS 0
 Z9 1
 UT DRCI:DATA2013074003311825
 ER
----
+
 PT R
 AU Tang, Yi-Wei
    Chen, Yu
@@ -15638,7 +15638,7 @@ ZS 0
 Z9 1
 UT DRCI:DATA2013074003310466
 ER
----
+
 PT J
 AU Azadi, M.
    Saen, R.F.
@@ -15672,7 +15672,7 @@ Z9 1
 SN 1742-7967
 UT INSPEC:13511183
 ER
----
+
 PT P
 AU LI Y
 TI Plant leaf embedding paper manufacturing method, involves preparing and
@@ -15695,7 +15695,7 @@ AB
 Z9 0
 UT DIIDW:2012Q53204
 ER
----
+
 PT S
 AU Morcov, Stefan
    Pintelon, Liliane
@@ -15752,7 +15752,7 @@ SN 2066-026X
 BN *****************
 UT WOS:000316711900036
 ER
----
+
 PT J
 AU Sillitti, Alberto
    Succi, Giancarlo
@@ -15797,7 +15797,7 @@ SN 0270-5257
 BN 978-1-4673-1067-3
 UT WOS:000312908700110
 ER
----
+
 PT P
 AU QIAO T
 TI Color Doppler ultrasonic and infrared scanning-based burglar-proof
@@ -15825,7 +15825,7 @@ ZS 0
 Z9 0
 UT DIIDW:2012M57792
 ER
----
+
 PT J
 AU Zandbergen, P.A.
 TI Comparison of WiFi Positioning on two Mobile Devices
@@ -15874,7 +15874,7 @@ Z9 2
 SN 1748-9725
 UT INSPEC:13209357
 ER
----
+
 PT J
 AU Sun Wei
    Hou RuiXia
@@ -15911,7 +15911,7 @@ Z9 1
 SN 1000-1522
 UT CABI:20133013427
 ER
----
+
 PT B
 AU UzZaman, N.
    Llorens, H.
@@ -15957,7 +15957,7 @@ Z9 0
 BN 978-1-4673-4433-3
 UT INSPEC:13113431
 ER
----
+
 PT J
 AU Carbon, Claus-Christian
    Albrecht, Sabine
@@ -16003,7 +16003,7 @@ SN 1747-0218
 UT WOS:000310135300010
 PM 22974006
 ER
----
+
 PT J
 AU Liu Jicheng
 Z2 刘吉成
@@ -16049,7 +16049,7 @@ Z9 3
 SN 1003-5788
 UT CSCD:4608563
 ER
----
+
 PT J
 AU Marwick, Alice
    Ellison, Nicole B.
@@ -16088,7 +16088,7 @@ Z9 5
 SN 0883-8151
 UT WOS:000308984400006
 ER
----
+
 PT J
 AU He Jiangchuan
    Yang Fang
@@ -16153,7 +16153,7 @@ Z9 0
 SN 2095-4344
 UT CSCD:4591991
 ER
----
+
 PT J
 AU Yilmaz, Levent
 TI Reproducibility in M&S research: issues, strategies and implications for
@@ -16192,7 +16192,7 @@ Z9 0
 SN 0952-813X
 UT WOS:000309125400003
 ER
----
+
 PT J
 AU Seuring, Stefan
    Gold, Stefan
@@ -16242,7 +16242,7 @@ Z9 23
 SN 1359-8546
 UT WOS:000309085400006
 ER
----
+
 PT J
 AU Marais, Hendrik
 BE McClean, R
@@ -16290,7 +16290,7 @@ Z9 0
 BN 978-1-908272-46-1
 UT WOS:000308297200030
 ER
----
+
 PT J
 AU Pan Yingmo
    Wang Feifeng
@@ -16357,7 +16357,7 @@ Z9 0
 SN 1009-6094
 UT CSCD:4560020
 ER
----
+
 PT J
 AU Baba, Vishwanath V.
    HakemZadeh, Farimah
@@ -16404,7 +16404,7 @@ Z9 13
 SN 0025-1747
 UT WOS:000307481900007
 ER
----
+
 PT B
 AU Nicolau de Franca, B.B.
    Horta Travassos, G.
@@ -16459,7 +16459,7 @@ Z9 0
 BN 978-1-84919-541-6
 UT INSPEC:12863012
 ER
----
+
 PT J
 AU Zurina Shafii
    Siti Khadijah, W. M. N. W.
@@ -16500,7 +16500,7 @@ Z9 0
 SN 1818-4952
 UT CABI:20123256369
 ER
----
+
 PT J
 AU Rossi, Bruno
    Russo, Barbara
@@ -16562,7 +16562,7 @@ Z9 1
 SN 0959-3845
 UT WOS:000306444500002
 ER
----
+
 PT J
 AU Leve, Leslie D.
    Harold, Gordon T.
@@ -16602,7 +16602,7 @@ Z9 1
 SN 1067-828X
 UT WOS:000306319100006
 ER
----
+
 PT J
 AU Nygard, Louise
    Pantzar, Monica
@@ -16654,7 +16654,7 @@ SN 1360-7863
 UT WOS:000305976300012
 PM 21895555
 ER
----
+
 PT J
 AU Rossier, Jerome
    Hansenne, Michel
@@ -16699,7 +16699,7 @@ SN 0022-3891
 UT WOS:000305296800003
 PM 22339277
 ER
----
+
 PT J
 AU Meng Zhifen
    Zhu Yong
@@ -16739,7 +16739,7 @@ Z9 1
 SN 1004-8138
 UT CSCD:4447748
 ER
----
+
 PT J
 AU Fahimuddin
 TI Drinking water collection and cost-benefit analysis of a rural water
@@ -16780,7 +16780,7 @@ Z9 0
 SN 0970-3357
 UT CABI:20123146010
 ER
----
+
 PT J
 AU Hoop, Caitlin A.
    Madden, Gwyn
@@ -16806,7 +16806,7 @@ Z9 0
 SN 0002-9483
 UT WOS:000300498700387
 ER
----
+
 PT J
 AU Torri, Maria Costanza
 TI Multicultural social policy and community participation in health: new
@@ -16843,7 +16843,7 @@ SN 0749-6753
 UT WOS:000300982200004
 PM 21837643
 ER
----
+
 PT J
 AU Ker, Jun-Ing
    Wang, Gang
@@ -16878,7 +16878,7 @@ Z9 0
 SN 0253-3839
 UT WOS:000301022300007
 ER
----
+
 PT J
 AU Moehler, Ralph
    Bartoszek, Gabriele
@@ -16923,7 +16923,7 @@ SN 0020-7489
 UT WOS:000300273000005
 PM 21924424
 ER
----
+
 PT J
 AU Beaudouin, Remy
    Ginot, Vincent
@@ -16972,7 +16972,7 @@ SN 0963-9292
 UT WOS:000298996900017
 PM 21877229
 ER
----
+
 PT J
 AU Watkins, C Edward Jr
 TI Educating psychotherapy supervisors.
@@ -17014,7 +17014,7 @@ SN 0002-9564
 UT MEDLINE:23091887
 PM 23091887
 ER
----
+
 PT J
 AU Ackerman Gulaid, Laurie
    Kiragu, Karusa
@@ -17082,7 +17082,7 @@ Z9 0
 UT MEDLINE:22789645
 PM 22789645
 ER
----
+
 PT J
 AU Larson, Thomas D
 TI The clinical significance of marginal fit.
@@ -17121,7 +17121,7 @@ SN 0029-2915
 UT MEDLINE:22439529
 PM 22439529
 ER
----
+
 PT J
 AU Yilmaz, Levent
 BE Bruzzone, A
@@ -17160,7 +17160,7 @@ SN 0094-7474
 BN 978-1-61839-984-7
 UT WOS:000340464400003
 ER
----
+
 PT J
 AU Khodyakov, Dmitry
    Hempel, Susanne
@@ -17218,7 +17218,7 @@ SN 1471-2288
 UT WOS:000302463200001
 PM 22196011
 ER
----
+
 PT J
 AU Cialdini, Robert B.
 TI Roots, Shoots, and Fruits of Persuasion in Military Affairs
@@ -17248,7 +17248,7 @@ Z9 1
 SN 1529-7489
 UT WOS:000301935000002
 ER
----
+
 PT J
 AU Santos, Ronaldo Pereira
    de Cristo-Araujo, Michelly
@@ -17297,7 +17297,7 @@ Z9 3
 SN 0100-2945
 UT WOS:000299741500019
 ER
----
+
 PT J
 AU Fang, Sheng-Yi
    Fang, Jing-Jing
@@ -17331,7 +17331,7 @@ Z9 3
 SN 0010-4485
 UT WOS:000299134900017
 ER
----
+
 PT J
 AU LeBel, Etienne P.
    Peters, Kurt R.
@@ -17370,7 +17370,7 @@ Z9 40
 SN 1089-2680
 UT WOS:000297915800008
 ER
----
+
 PT J
 AU Sheng-Yi Fang
    Jing-Jing Fang
@@ -17403,7 +17403,7 @@ Z9 0
 SN 0010-4485
 UT INSPEC:12402755
 ER
----
+
 PT J
 AU Pastre, C. B.
    Lobo, A. M.
@@ -17454,7 +17454,7 @@ SN 1362-4393
 UT WOS:000297939400010
 PM 22006080
 ER
----
+
 PT J
 AU Zhang Jingxiong
    You Jiong
@@ -17493,7 +17493,7 @@ Z9 1
 SN 1009-5020
 UT INSPEC:13239881
 ER
----
+
 PT J
 AU Blanche, Erna Imperatore
    Fogelberg, Donald
@@ -17533,7 +17533,7 @@ SN 0272-9490
 UT WOS:000297241600013
 PM 22214116
 ER
----
+
 PT J
 AU Husmann, Polly R.
    Samson, David R.
@@ -17578,7 +17578,7 @@ SN 0022-1198
 UT WOS:000297055500003
 PM 21827460
 ER
----
+
 PT J
 AU Alkelai, Anna
    Lupoli, Sara
@@ -17641,7 +17641,7 @@ SN 0892-6638
 UT WOS:000296723100025
 PM 21795503
 ER
----
+
 PT J
 AU Paukkunen, Antti K. O.
    Leminen, Miika
@@ -17689,7 +17689,7 @@ SN 1388-2457
 UT WOS:000295456200011
 PM 21570906
 ER
----
+
 PT J
 AU Coppel, Gabriel Patron
    Schwartz, Klaas
@@ -17737,7 +17737,7 @@ Z9 2
 SN 0378-4738
 UT WOS:000296882200017
 ER
----
+
 PT J
 AU Stoltzfus, Jill C.
 TI Logistic Regression: A Brief Primer
@@ -17795,7 +17795,7 @@ SN 1069-6563
 UT WOS:000296050100013
 PM 21996075
 ER
----
+
 PT J
 AU Carr, Russell B.
 TI COMBAT AND HUMAN EXISTENCE: Toward an Intersubjective Approach to
@@ -17835,7 +17835,7 @@ Z9 6
 SN 0736-9735
 UT WOS:000296166900001
 ER
----
+
 PT J
 AU Klimstra, Theo A.
    Luyckx, Koen
@@ -17875,7 +17875,7 @@ Z9 3
 SN 0092-6566
 UT WOS:000295763500014
 ER
----
+
 PT J
 AU Claro, Cristiane Aparecida de Assis
    Abrão, Jorge
@@ -17910,7 +17910,7 @@ AB OBJECTIVE: The present study is concerned with stress distribution in a
    concluded that the highest stress levels are located in the central
    incisors. Therefore the cervical region can be more prone to resorptions
    as well as the central incisors, where higher stresses are concentrated.
----
+   
 Y4 OBJETIVO: o presente estudo analisou a distribuição de tensões, em
    modelo fotoelástico, gerada por arco base de intrusão de incisivos
    inferiores. Compararam-se as tensões entre os terços radiculares de cada
@@ -17937,7 +17937,7 @@ Z9 1
 SN 2176-9451
 UT SCIELO:S2176-94512011000500014
 ER
----
+
 PT J
 AU van Schalkwyk, J. M.
    Lowes, D.
@@ -17988,7 +17988,7 @@ SN 0007-0912
 UT WOS:000294807400010
 PM 21665898
 ER
----
+
 PT J
 AU Roberts, David C.
    Brorsen, B. Wade
@@ -18035,7 +18035,7 @@ Z9 3
 SN 1385-2256
 UT WOS:000294560200004
 ER
----
+
 PT J
 AU de Pee, Saskia
    Spiegel, Paul
@@ -18099,7 +18099,7 @@ SN 0379-5721
 UT WOS:000295861100009
 PM 22073799
 ER
----
+
 PT J
 AU Miller, Jeff
    Schwarz, Wolf
@@ -18144,7 +18144,7 @@ SN 1082-989X
 UT WOS:000294927800007
 PM 21534683
 ER
----
+
 PT J
 AU Chapman, Benjamin P.
    Goldberg, Lewis R.
@@ -18187,7 +18187,7 @@ SN 0022-3514
 UT WOS:000294314500013
 PM 21744975
 ER
----
+
 PT J
 AU Lovisi, G. M.
 TI Do the effects of yoga therapy improve positive and negative symptoms
@@ -18210,7 +18210,7 @@ SN 0001-690X
 UT WOS:000293881400010
 PM 21615363
 ER
----
+
 PT J
 AU Sint, Daniela
    Raso, Lorna
@@ -18258,7 +18258,7 @@ SN 1755-098X
 UT WOS:000293915800006
 PM 21507208
 ER
----
+
 PT J
 AU Bohlmeijer, Ernst
    ten Klooster, Peter M.
@@ -18304,7 +18304,7 @@ SN 1073-1911
 UT WOS:000293624700004
 PM 21586480
 ER
----
+
 PT J
 AU Sui, Jing
    Pearlson, Godfrey
@@ -18367,7 +18367,7 @@ SN 1053-8119
 UT WOS:000292717900019
 PM 21640835
 ER
----
+
 PT J
 AU Zhao, Xueli
    Sun, Yipeng
@@ -18424,7 +18424,7 @@ SN 1932-6203
 UT WOS:000293172900011
 PM 21799774
 ER
----
+
 PT J
 AU Fitts, Douglas A.
 TI Ethics and Animal Numbers: Informal Analyses, Uncertain Sample Sizes,
@@ -18466,7 +18466,7 @@ SN 1559-6109
 UT WOS:000299026500003
 PM 21838970
 ER
----
+
 PT J
 AU Tian, Jianjun Paul
 TI THE REPLICABILITY OF ONCOLYTIC VIRUS: DEFINING CONDITIONS IN TUMOR
@@ -18502,7 +18502,7 @@ SN 1547-1063
 UT WOS:000293623800013
 PM 21675814
 ER
----
+
 PT J
 AU Doventas, Alper
    Karadag, Berrin
@@ -18552,7 +18552,7 @@ SN 0167-4943
 UT WOS:000291476100013
 PM 21075460
 ER
----
+
 PT J
 AU Brown, Lee E.
    Edwards, Francois K.
@@ -18607,7 +18607,7 @@ SN 0021-8790
 UT WOS:000291309500018
 PM 21418207
 ER
----
+
 PT J
 AU Bloch, Gary
    Rozmovits, Linda
@@ -18662,7 +18662,7 @@ SN 1471-2296
 UT WOS:000292681500001
 PM 21714925
 ER
----
+
 PT J
 AU Fergusson, David M.
    Boden, Joseph M.
@@ -18721,7 +18721,7 @@ SN 0007-1250
 UT WOS:000291669900009
 PM 21628708
 ER
----
+
 PT J
 AU Hoeller, Yvonne
    Kronbichler, Martin
@@ -18775,7 +18775,7 @@ SN 0167-8760
 UT WOS:000291376900007
 PM 21447360
 ER
----
+
 PT J
 AU Church, Deirdre L.
    Chow, Barbara L.
@@ -18830,7 +18830,7 @@ SN 0732-8893
 UT WOS:000291135200004
 PM 21596222
 ER
----
+
 PT J
 AU Laviers, H.
    Burhan, I.
@@ -18880,7 +18880,7 @@ SN 0007-1161
 UT WOS:000290793600008
 PM 21357599
 ER
----
+
 PT J
 AU Vassend, Olav
    Skrondal, Anders
@@ -18914,7 +18914,7 @@ Z9 8
 SN 0191-8869
 UT WOS:000290079200026
 ER
----
+
 PT J
 AU Shi Xiang
 TI Virtual private monitoring network of SCADA system based on 3G
@@ -18943,7 +18943,7 @@ Z9 0
 SN 1000-7024
 UT INSPEC:12799433
 ER
----
+
 PT J
 AU Grover, Sandeep
    Gupta, Meenal
@@ -18991,7 +18991,7 @@ SN 0971-6866
 UT MEDLINE:21747586
 PM 21747586
 ER
----
+
 PT J
 AU Davidson, Darin
    Mulpuri, Kishore
@@ -19024,7 +19024,7 @@ SN 1060-152X
 UT WOS:000289230200014
 PM 21301364
 ER
----
+
 PT J
 AU Mandy, William
    Charman, Tony
@@ -19075,7 +19075,7 @@ SN 1939-3792
 UT WOS:000289999600004
 PM 21298812
 ER
----
+
 PT J
 AU Goncalves, David
    Campanacho, Vanessa
@@ -19124,7 +19124,7 @@ SN 1752-928X
 UT WOS:000289595800007
 PM 21420650
 ER
----
+
 PT J
 AU LeBel, Etienne P.
    Paunonen, Sampo V.
@@ -19162,7 +19162,7 @@ SN 0146-1672
 UT WOS:000288750300010
 PM 21441219
 ER
----
+
 PT J
 AU Griffin, Philippa C.
    Robin, Charles
@@ -19222,7 +19222,7 @@ SN 1741-7007
 UT WOS:000289548600001
 PM 21429199
 ER
----
+
 PT J
 AU Nagarajan, Pratapkumar
    Yao, Donggang
@@ -19263,7 +19263,7 @@ Z9 4
 SN 0032-3888
 UT WOS:000287622700022
 ER
----
+
 PT J
 AU Michie, Susan
    Abraham, Charles
@@ -19332,7 +19332,7 @@ SN 1748-5908
 UT WOS:000287512300001
 PM 21299860
 ER
----
+
 PT J
 AU Nye, Chad
    Hahs-Vaughn, Debbie
@@ -19372,7 +19372,7 @@ SN 1754-9507
 UT WOS:000287449800008
 PM 21329411
 ER
----
+
 PT J
 AU Neuendorf, Kimberly A.
 TI Content Analysis-A Methodological Primer for Gender Research
@@ -19405,7 +19405,7 @@ Z9 20
 SN 0360-0025
 UT WOS:000287144600010
 ER
----
+
 PT J
 AU McGee, Hannah
    Garavan, Rebecca
@@ -19456,7 +19456,7 @@ SN 1101-1262
 UT WOS:000286463100019
 PM 20639191
 ER
----
+
 PT J
 AU Ishibashi, Kazuhiro
    Meshi, Tetsuo
@@ -19490,7 +19490,7 @@ SN 0022-538X
 UT WOS:000286420900045
 PM 21106731
 ER
----
+
 PT J
 AU Fergusson, David M.
    Horwood, L. John
@@ -19544,7 +19544,7 @@ SN 0007-1250
 UT WOS:000287173400010
 PM 21282783
 ER
----
+
 PT J
 AU Song, Judy H.
    Nicol, Trent
@@ -19590,7 +19590,7 @@ SN 1388-2457
 UT WOS:000285995400017
 PM 20719558
 ER
----
+
 PT J
 AU Marigorta, Urko M.
    Lao, Oscar
@@ -19649,7 +19649,7 @@ SN 1471-2164
 UT WOS:000287412600001
 PM 21261943
 ER
----
+
 PT P
 AU WANG G
 TI Aluminum composite panel print handicraft making method, involves
@@ -19680,7 +19680,7 @@ AB
 Z9 0
 UT DIIDW:2011A44733
 ER
----
+
 PT R
 AU Sun, Yipeng
    Yang, Jun
@@ -19730,7 +19730,7 @@ ZS 0
 Z9 0
 UT DRCI:DATA2013111003620235
 ER
----
+
 PT R
 AU Sun, Yipeng
    Yang, Jun
@@ -19780,7 +19780,7 @@ ZS 0
 Z9 0
 UT DRCI:DATA2013111003620233
 ER
----
+
 PT R
 AU Sun, Yipeng
    Yang, Jun
@@ -19830,7 +19830,7 @@ ZS 0
 Z9 0
 UT DRCI:DATA2013111003620234
 ER
----
+
 PT R
 AU Sun, Yipeng
    Yang, Jun
@@ -19885,7 +19885,7 @@ ZS 0
 Z9 1
 UT DRCI:DATA2013080003620232
 ER
----
+
 PT R
 AU Sint, Daniela
    Raso, Lorna
@@ -19907,7 +19907,7 @@ ZS 0
 Z9 0
 UT DRCI:DATA2012217002443391
 ER
----
+
 PT R
 AU Sint, Daniela
    Raso, Lorna
@@ -19949,7 +19949,7 @@ ZS 0
 Z9 1
 UT DRCI:DATA2012217002440417
 ER
----
+
 PT S
 AU Yang, Duo
    Liu, Chong
@@ -19991,7 +19991,7 @@ SN 1013-9826
 BN *****************
 UT WOS:000308677000010
 ER
----
+
 PT J
 AU Liu Wei
    Liu Wenjia
@@ -20047,7 +20047,7 @@ Z9 1
 SN 1002-6630
 UT CSCD:4430054
 ER
----
+
 PT J
 AU Sandeep Grover
    Meenal Gupta
@@ -20094,7 +20094,7 @@ Z9 5
 SN 0971-6866
 UT CABI:20113192325
 ER
----
+
 PT J
 AU Tromp, Do P. M.
    Adluru, Nagesh
@@ -20140,7 +20140,7 @@ SN 1945-7928
 BN 978-1-4244-4128-0
 UT WOS:000298849400182
 ER
----
+
 PT J
 AU Weng, Y-J
    Huang, J-C
@@ -20176,7 +20176,7 @@ Z9 1
 SN 0954-4062
 UT WOS:000296226900023
 ER
----
+
 PT B
 AU Biao Sun
    Luh, P.B.
@@ -20218,7 +20218,7 @@ Z9 0
 BN 978-1-4577-1730-7
 UT INSPEC:12305567
 ER
----
+
 PT J
 AU Rabadan, Rosa
 TI ANY INTO SPANISH: A CORPUS-BASED ANALYSIS OF A TRANSLATION PROBLEM
@@ -20256,7 +20256,7 @@ Z9 0
 SN 0862-8432
 UT WOS:000295255000001
 ER
----
+
 PT B
 AU Johnston, Heidi Bart
    Schurmann, Anna
@@ -20305,7 +20305,7 @@ Z9 4
 BN 978-92-4-156413-7
 UT WOS:000290546400002
 ER
----
+
 PT J
 AU Allen, Belinda C.
 TI The role of professional identity commitment in understanding the
@@ -20349,7 +20349,7 @@ Z9 1
 SN 1362-0436
 UT WOS:000293801000006
 ER
----
+
 PT J
 AU Rojon, Celine
    McDowall, Almuth
@@ -20384,7 +20384,7 @@ Z9 2
 SN 1866-5888
 UT WOS:000293699300004
 ER
----
+
 PT S
 AU Farinosi, Manuela
 BE Esposito, A
@@ -20432,7 +20432,7 @@ SN 0302-9743
 BN 978-3-642-18183-2
 UT WOS:000290654500016
 ER
----
+
 PT J
 AU Carter, Craig R.
    Easton, P. Liane
@@ -20481,7 +20481,7 @@ Z9 84
 SN 0960-0035
 UT WOS:000289401200004
 ER
----
+
 PT J
 AU Griffin, P. C.
    Robin, C.
@@ -20539,7 +20539,7 @@ Z9 0
 SN 1741-7007
 UT CABI:20113128619
 ER
----
+
 PT J
 AU Akande, W. A.
    Tserere, M. M.
@@ -20585,7 +20585,7 @@ SN 0304-4556
 UT WOS:000289127400004
 PM 23113052
 ER
----
+
 PT J
 AU Dibble, Harold L.
    Mcpherron, Shannon P.
@@ -20613,7 +20613,7 @@ Z9 0
 SN 0002-9483
 UT WOS:000288034000207
 ER
----
+
 PT J
 AU Muzzall, Evan
    Campbell, Meadow
@@ -20643,7 +20643,7 @@ Z9 0
 SN 0002-9483
 UT WOS:000288034000587
 ER
----
+
 PT B
 AU Hao-Yu Shen
    Ping Lu
@@ -20689,7 +20689,7 @@ Z9 0
 BN 978-1-4244-5088-6
 UT INSPEC:12106577
 ER
----
+
 PT J
 AU MacWhinney, Brian
    Fromm, Davida
@@ -20733,7 +20733,7 @@ Z9 15
 SN 0268-7038
 UT WOS:000299786300002
 ER
----
+
 PT J
 AU Rocha, Sérgio de Figueiredo
    Dias-Neto, Emmanuel
@@ -20795,7 +20795,7 @@ Y4 CONTEXTO: A performance musical requer alto nível de habilidade em
    tendenciada e replicável a outras populações. A validação concorrente
    entre a K-MPAI e a IDATE permite inferir que ambas as escalas são
    comparáveis na capacidade de medir os níveis de ansiedade em musicistas.
----
+   
 TC 0
 ZB 0
 Z8 0
@@ -20804,7 +20804,7 @@ Z9 0
 SN 0101-6083
 UT SCIELO:S0101-60832011000600001
 ER
----
+
 PT J
 AU 이옥분
    Jo, Hyun Shin
@@ -20860,7 +20860,7 @@ Z9 0
 SN 1226-8046
 UT KJD:ART001583920
 ER
----
+
 PT J
 AU Skiba, Thomas
    Landi, Nicole
@@ -20903,7 +20903,7 @@ SN 0001-8244
 UT WOS:000286661500002
 PM 21243420
 ER
----
+
 PT J
 AU Bloch, G.
    Rozmovits, L.
@@ -20957,7 +20957,7 @@ Z9 0
 SN 1471-2296
 UT CABI:20113246742
 ER
----
+
 PT J
 AU Roberts, Adam
    Trapnell, Cole
@@ -20989,7 +20989,7 @@ SN 1474-7596
 UT WOS:000291309200002
 PM 21410973
 ER
----
+
 PT J
 AU Schenatto, Fernando José Avancini
    Polacinski, Édio
@@ -21070,7 +21070,7 @@ Z9 0
 SN 0104-530X
 UT SCIELO:S0104-530X2011000400005
 ER
----
+
 PT J
 AU Sobrian, Sonya K.
    Holson, R. Robert
@@ -21118,7 +21118,7 @@ SN 1084-2020
 UT WOS:000208627700003
 PM 23382143
 ER
----
+
 PT J
 AU Rockwood, Kenneth
 TI Biomarkers to measure treatment effects in Alzheimer's disease: what
@@ -21149,7 +21149,7 @@ Z9 0
 UT MEDLINE:22028983
 PM 22028983
 ER
----
+
 PT J
 AU Lienhardt, C.
    Cobelens, F. G. J.
@@ -21193,7 +21193,7 @@ SN 1027-3719
 UT WOS:000286488700004
 PM 21276290
 ER
----
+
 PT J
 AU de Gruijter, Johanna Maria
    Lao, Oscar
@@ -21258,7 +21258,7 @@ Z9 4
 UT MEDLINE:22133426
 PM 22133426
 ER
----
+
 PT J
 AU 안경호
    Park, Gyung Soo
@@ -21316,7 +21316,7 @@ Z9 0
 SN 1225-4517
 UT KJD:ART001592849
 ER
----
+
 PT J
 AU Xu, Jianhua
    Florig, H. Keith
@@ -21364,7 +21364,7 @@ Z9 0
 SN 1366-9877
 UT WOS:000299574600008
 ER
----
+
 PT J
 AU Duo Yang
    Chong Liu
@@ -21398,7 +21398,7 @@ Z9 0
 SN 1013-9826
 UT INSPEC:12714631
 ER
----
+
 PT S
 AU Krishnan, Vaishnav
    Nestler, Eric J.
@@ -21439,7 +21439,7 @@ UT WOS:000291364600005
 PM 21225412
 D2 10.1007/978-3-642-19703-1
 ER
----
+
 PT B
 AU Wahlsten, Douglas
 BA Wahlsten, D
@@ -21458,7 +21458,7 @@ Z9 0
 BN 978-0-12-375675-6; 978-0-12-375674-9
 UT WOS:000326654600013
 ER
----
+
 PT J
 AU Turner, Stephen D
    Bush, William S
@@ -21492,7 +21492,7 @@ SN 2335-6936
 UT MEDLINE:21121055
 PM 21121055
 ER
----
+
 PT J
 AU Yang Long
    Fan XueLi
@@ -21520,7 +21520,7 @@ Z9 0
 SN 1673-6273
 UT CABI:20113256115
 ER
----
+
 PT J
 AU Michie, Susan
    Ashford, Stefanie
@@ -21573,7 +21573,7 @@ SN 0887-0446
 UT WOS:000299558800006
 PM 21678185
 ER
----
+
 PT J
 AU Rocha, Sergio de Figueiredo
    Dias-Neto, Emmanuel
@@ -21620,7 +21620,7 @@ Z9 1
 SN 0101-6083
 UT WOS:000300072800001
 ER
----
+
 PT J
 AU Tompkins, L. A.
    Kapas, L.
@@ -21651,7 +21651,7 @@ Z9 0
 SN 0161-8105
 UT WOS:000299834400329
 ER
----
+
 PT J
 AU 김민성
 TI Quantitative Methods in Geography Education Research:   Concept and
@@ -21696,7 +21696,7 @@ Z9 0
 SN 1226-511X
 UT KJD:ART001584064
 ER
----
+
 PT P
 AU LI L
    WANG T
@@ -21730,7 +21730,7 @@ ZS 0
 Z9 0
 UT DIIDW:2011H62992
 ER
----
+
 PT J
 AU Roschelle, Jeremy
    Shechtman, Nicole
@@ -21773,7 +21773,7 @@ Z9 22
 SN 0002-8312
 UT WOS:000283998100004
 ER
----
+
 PT J
 AU Gururajan, Anand
    Taylor, David Alan
@@ -21819,7 +21819,7 @@ SN 0955-8810
 UT WOS:000284307400002
 PM 20847646
 ER
----
+
 PT J
 AU Monterde-i-Bort, Hector
    Frias-Navarro, Dolores
@@ -21867,7 +21867,7 @@ Z9 2
 SN 0256-2928
 UT WOS:000283373900002
 ER
----
+
 PT J
 AU Vasileiadou, Eleftheria
    Safarzynska, Karolina
@@ -21910,7 +21910,7 @@ Z9 15
 SN 0016-3287
 UT WOS:000285823100018
 ER
----
+
 PT J
 AU Casadevall, Arturo
    Fang, Ferric C.
@@ -21932,7 +21932,7 @@ SN 0019-9567
 UT WOS:000284213600001
 PM 20876290
 ER
----
+
 PT J
 AU Burger, Helena
    Franchignoni, Franco
@@ -21980,7 +21980,7 @@ SN 0342-5282
 UT WOS:000284306900003
 PM 20827214
 ER
----
+
 PT J
 AU McHenry, Monica A.
    LaConte, Stephen M.
@@ -22020,7 +22020,7 @@ Z9 1
 SN 1065-1438
 UT WOS:000284866700015
 ER
----
+
 PT J
 AU Etchegaray, Jason M.
    Throckmorton, Terry
@@ -22065,7 +22065,7 @@ SN 1475-3898
 UT WOS:000286103300024
 PM 20688755
 ER
----
+
 PT J
 AU Bahr, Peter Riley
 TI The Bird's Eye View of Community Colleges: A Behavioral Typology of
@@ -22103,7 +22103,7 @@ Z9 8
 SN 0361-0365
 UT WOS:000283503900002
 ER
----
+
 EF﻿FN Thomson Reuters Web of Science™
 VR 1.0
 PT J
@@ -22160,7 +22160,7 @@ SN 1471-2377
 UT WOS:000284765800001
 PM 21029420
 ER
----
+
 PT J
 AU Rojas-Macias, V
    Rodriguez-Fandino, O
@@ -22217,7 +22217,7 @@ SN 0375-0906
 UT MEDLINE:21169109
 PM 21169109
 ER
----
+
 PT J
 AU Belza, Basia
    Snyder, Susan
@@ -22253,7 +22253,7 @@ Z9 6
 SN 0882-7524
 UT WOS:000283801800003
 ER
----
+
 PT J
 AU Vandenberghe, Rik
    Van Laere, Koen
@@ -22323,7 +22323,7 @@ SN 0364-5134
 UT WOS:000281421800012
 PM 20687209
 ER
----
+
 PT J
 AU Kolko, David J.
    Hoagwood, Kimberly Eaton
@@ -22375,7 +22375,7 @@ SN 0163-8343
 UT WOS:000282390500003
 PM 20851266
 ER
----
+
 PT J
 AU Jacob, Theodore
    Blonigen, Daniel M.
@@ -22427,7 +22427,7 @@ SN 1937-1888
 UT WOS:000281490900001
 PM 20731968
 ER
----
+
 PT J
 AU Falk, Michael W.
    Wuertz, Stefan
@@ -22478,7 +22478,7 @@ SN 0043-1354
 UT WOS:000283910600029
 PM 20864141
 ER
----
+
 PT J
 AU Boksa, Patricia
 TI Effects of prenatal infection on brain development and behavior: A
@@ -22526,7 +22526,7 @@ SN 0889-1591
 UT WOS:000280029500005
 PM 20230889
 ER
----
+
 PT J
 AU Xianfeng Huang
    Guohua Fang
@@ -22562,7 +22562,7 @@ Z9 0
 SN 1796-203X
 UT INSPEC:11478190
 ER
----
+
 PT J
 AU Schlachter, Kyle J.
    Horn, Sally P.
@@ -22606,7 +22606,7 @@ Z9 3
 SN 0921-2728
 UT WOS:000280070500026
 ER
----
+
 PT J
 AU Ashton, Michael C.
    Lee, Kibeom
@@ -22640,7 +22640,7 @@ Z9 10
 SN 0092-6566
 UT WOS:000281270500004
 ER
----
+
 PT J
 AU De Raad, Bode
    Barelds, Dick P. H.
@@ -22680,7 +22680,7 @@ Z9 0
 SN 0092-6566
 UT WOS:000281270500005
 ER
----
+
 PT J
 AU Maples, Jessica L.
    Miller, Joshua D.
@@ -22720,7 +22720,7 @@ Z9 8
 SN 0092-6566
 UT WOS:000281270500020
 ER
----
+
 PT J
 AU Zandbergen, Paul A.
    Ignizio, Drew A.
@@ -22763,7 +22763,7 @@ Z9 15
 SN 1523-0406
 UT WOS:000280937900004
 ER
----
+
 PT J
 AU van Nas, Atila
    Ingram-Drake, Leslie
@@ -22813,7 +22813,7 @@ SN 0016-6731
 UT WOS:000281906800028
 PM 20439777
 ER
----
+
 PT J
 AU Suematsu, Kazumi
 TI On invariant property in population statistics
@@ -22855,7 +22855,7 @@ SN 0025-5564
 UT WOS:000279132500004
 PM 20362591
 ER
----
+
 PT J
 AU Benjamini, Yoav
    Lipkind, Dina
@@ -22900,7 +22900,7 @@ SN 0149-7634
 UT WOS:000284176700019
 PM 20399806
 ER
----
+
 PT J
 AU Hyman, Ray
 TI Meta-Analysis That Conceals More Than It Reveals: Comment on Storm et
@@ -22936,7 +22936,7 @@ SN 0033-2909
 UT WOS:000279187100002
 PM 20565165
 ER
----
+
 PT J
 AU Bishop, D. V. M.
    Hardiman, M. J.
@@ -22973,7 +22973,7 @@ SN 0048-5772
 UT WOS:000278624600011
 PM 20210877
 ER
----
+
 PT J
 AU Killeen, Peter R.
 TI p(rep) Replicates: Comment Prompted by Iverson, Wagenmakers, and Lee
@@ -23016,7 +23016,7 @@ SN 1082-989X
 UT WOS:000278607600008
 PM 20515241
 ER
----
+
 PT J
 AU Serlin, Ronald C.
 TI Regarding p(rep): Comment Prompted by Iverson, Wagenmakers, and Lee
@@ -23049,7 +23049,7 @@ SN 1082-989X
 UT WOS:000278607600009
 PM 20515242
 ER
----
+
 PT J
 AU James, Al
    Vira, Bhaskar
@@ -23092,7 +23092,7 @@ Z9 4
 SN 0016-7185
 UT WOS:000276702400003
 ER
----
+
 PT J
 AU Carlos Castrejon-Perez, Roberto
    Aida Borges-Yanez, S.
@@ -23143,7 +23143,7 @@ SN 1020-4989
 UT WOS:000279526700001
 PM 20602065
 ER
----
+
 PT J
 AU Overbeek, Geertjan
    Zeevalkink, Herma
@@ -23184,7 +23184,7 @@ Z9 8
 SN 0961-205X
 UT WOS:000275648600003
 ER
----
+
 PT J
 AU Grubs, Robin E.
    Piantanida, Maria
@@ -23225,7 +23225,7 @@ SN 1059-7700
 UT WOS:000275414700001
 PM 20127159
 ER
----
+
 PT J
 AU Lecoutre, Bruno
    Killeen, Peter R.
@@ -23261,7 +23261,7 @@ SN 1069-9384
 UT WOS:000281812500021
 PM 20382930
 ER
----
+
 PT J
 AU Diaz-Castelazo, Cecilia
    Guimaraes, Paulo R., Jr.
@@ -23312,7 +23312,7 @@ SN 0012-9658
 UT WOS:000276635500016
 PM 20426337
 ER
----
+
 PT J
 AU Engels, L.
    De Tiege, X.
@@ -23360,7 +23360,7 @@ SN 0987-7053
 UT WOS:000276796700003
 PM 20230932
 ER
----
+
 PT J
 AU Eichelsheim, Veroni I.
    Buist, Kirsten L.
@@ -23411,7 +23411,7 @@ SN 0933-7954
 UT WOS:000274854200002
 PM 19466371
 ER
----
+
 PT J
 AU Holmberg, Gustav
 TI Astronomers at Work: A Study of the Replicability of 19(th) Century
@@ -23431,7 +23431,7 @@ Z9 0
 SN 0021-8286
 UT WOS:000276130100014
 ER
----
+
 PT J
 AU Araujo, Cristiano V. M.
    Tornero, Victoria
@@ -23494,7 +23494,7 @@ SN 0048-9697
 UT WOS:000273928000017
 PM 19906403
 ER
----
+
 PT P
 AU WARILA B W
    MARKEY B D
@@ -23535,7 +23535,7 @@ AB
 Z9 0
 UT DIIDW:2010N43506
 ER
----
+
 PT P
 AU LIU. N, CN
    CAI X
@@ -23568,7 +23568,7 @@ AB
 Z9 0
 UT DIIDW:2010N15066
 ER
----
+
 PT P
 AU XU Q
 TI Signature authorizing method, involves judging whether signature
@@ -23596,7 +23596,7 @@ ZS 0
 Z9 0
 UT DIIDW:2010K06103
 ER
----
+
 PT P
 AU XU Q
 TI Signature authentication performing system, has server achieving
@@ -23627,7 +23627,7 @@ ZS 0
 Z9 0
 UT DIIDW:2010K06108
 ER
----
+
 PT J
 CA Food and Agriculture Organization
 TI FAO expert workshop on indicators for assessing the contribution of
@@ -23681,7 +23681,7 @@ Z9 0
 SN 2070-6987
 UT CABI:20113081949
 ER
----
+
 PT S
 AU Nenonen, Jukka
    Parkkonen, Lauri
@@ -23744,7 +23744,7 @@ SN 1680-0737
 BN 978-3-642-12196-8
 UT WOS:000282468700071
 ER
----
+
 PT B
 AU Gruber, L.
    Gauglitz, S.
@@ -23796,7 +23796,7 @@ Z9 0
 BN 978-1-4244-9343-2
 UT INSPEC:11663961
 ER
----
+
 PT B
 AU Wickramasinghe, Y.
    Wijethilake, D.
@@ -23837,7 +23837,7 @@ Z9 0
 BN 978-1-905824-15-1
 UT INSPEC:11962916
 ER
----
+
 PT B
 AU Hua Han
    Juan Wang
@@ -23872,7 +23872,7 @@ Z9 0
 BN 978-1-4244-5391-7
 UT INSPEC:11706668
 ER
----
+
 PT J
 AU Li ZhuoKun
    Peng Tao
@@ -23928,7 +23928,7 @@ Z9 9
 SN 0496-3490
 UT CABI:20103112787
 ER
----
+
 PT S
 AU Riadh, Ksouri
    Wided, Megdiche
@@ -23994,7 +23994,7 @@ SN 0065-2296
 BN 978-0-12-380872-1
 UT WOS:000277633000004
 ER
----
+
 PT B
 AU Tang Ke
    Li Chunqing
@@ -24038,7 +24038,7 @@ Z9 0
 BN 978-1-921712-08-1
 UT WOS:000291328700059
 ER
----
+
 PT J
 AU Kshetri, Nir
 TI Business perceptions of regulative institutions in Central and Eastern
@@ -24089,7 +24089,7 @@ Z9 4
 SN 1746-5265
 UT WOS:000284294300005
 ER
----
+
 PT B
 AU Meireles, Agnes Batista
    Machado Cornacchia, Tulimar Pereira
@@ -24136,7 +24136,7 @@ Z9 0
 BN 978-0-415-57394-8
 UT WOS:000282776500010
 ER
----
+
 PT J
 AU Goodin, D. S.
 TI The genetic basis of multiple sclerosis: a model for MS susceptibility.
@@ -24191,7 +24191,7 @@ Z9 0
 SN 1471-2377
 UT CABI:20103357141
 ER
----
+
 PT J
 AU Dreier, Maren
    Borutta, Birgit
@@ -24267,7 +24267,7 @@ Z9 1
 UT MEDLINE:21289880
 PM 21289880
 ER
----
+
 PT J
 AU Proos, L. A.
    Lonnerholm, T.
@@ -24331,7 +24331,7 @@ SN 1663-2818
 UT WOS:000276919200006
 PM 20190538
 ER
----
+
 PT J
 AU Savigliano, R.
 BE Zaid, A
@@ -24394,7 +24394,7 @@ SN 0567-7572
 BN 978-90-6605-633-6
 UT WOS:000323618500065
 ER
----
+
 PT J
 AU Deng Yongju
    Wang Shifang
@@ -24433,7 +24433,7 @@ Z9 0
 SN 1000-1190
 UT CSCD:4089577
 ER
----
+
 PT J
 AU Zientek, Linda Reichwein
    Yetkiner, Z. Ebrar
@@ -24470,7 +24470,7 @@ Z9 2
 SN 0022-0671
 UT WOS:000288488800005
 ER
----
+
 PT J
 AU Wang Haiyan
    Lu Shushen
@@ -24511,7 +24511,7 @@ Z9 4
 SN 0253-231X
 UT CSCD:3911457
 ER
----
+
 PT J
 AU De Raad, Boele
    Barelds, Dick P. H.
@@ -24561,7 +24561,7 @@ SN 0022-3514
 UT WOS:000273275800013
 PM 20053040
 ER
----
+
 PT J
 AU Overall, John E.
    Tonidandel, Scott
@@ -24611,7 +24611,7 @@ Z9 2
 SN 0027-3171
 UT WOS:000284226400003
 ER
----
+
 PT B
 AU Robles, G.
 BE Whitehead, J.
@@ -24655,7 +24655,7 @@ Z9 1
 BN 978-1-4244-6802-7
 UT INSPEC:11306125
 ER
----
+
 PT B
 AU Ariga, J.
    Jayne, T. S.
@@ -24683,7 +24683,7 @@ Z9 0
 BN 978-0-89629-669-5
 UT CABI:20113063655
 ER
----
+
 PT J
 AU Wang Guanghui
    Han Wei
@@ -24729,7 +24729,7 @@ Z9 0
 SN 1002-8471
 UT CSCD:4025729
 ER
----
+
 PT S
 AU Savigliano, R.
 BE Zaid, A.
@@ -24776,7 +24776,7 @@ AB In Decision XV/12, the Parties to the Montreal Protocol recognize the
    Lepidoptera) and to assess the effect on fruit quality. Experience has
    shown that full involvement of local experts and expertise is needed for
    the successful preparation, design and implementation of the activities.
----
+   
 CT IV International Date Palm Conference, Abu Dhabi, United Arab Emirates.
 TC 0
 ZB 0
@@ -24787,7 +24787,7 @@ SN 0567-7572
 BN 978-90-66056-33-6
 UT CABI:20113004301
 ER
----
+
 PT J
 AU Grumm, Mandy
    von Collani, Gernot
@@ -24822,7 +24822,7 @@ Z9 9
 SN 0191-8869
 UT WOS:000271484400008
 ER
----
+
 PT J
 AU Yang, Yaling
    Raine, Adrian
@@ -24862,7 +24862,7 @@ SN 0925-4927
 UT WOS:000272072300001
 PM 19833485
 ER
----
+
 PT J
 AU Benjamini, Yoav
    Heller, Ruth
@@ -24893,7 +24893,7 @@ SN 1364-503X
 UT WOS:000270864300002
 PM 19805444
 ER
----
+
 PT J
 AU Irwin, R. John
 TI Equivalence of the statistics for replicability and area under the ROC
@@ -24921,7 +24921,7 @@ SN 0007-1102
 UT WOS:000272087400002
 PM 19017433
 ER
----
+
 PT J
 AU Shi Xiang
 TI Application of VPN Based on Tunneling Technology in SCADA System
@@ -24949,7 +24949,7 @@ Z9 2
 SN 1671-4598
 UT INSPEC:11317222
 ER
----
+
 PT J
 AU Ng, Thomas W. H.
    Feldman, Daniel C.
@@ -24988,7 +24988,7 @@ Z9 21
 SN 0894-3796
 UT WOS:000271514400003
 ER
----
+
 PT J
 AU Richardson, Jayson W.
    McLeod, Scott
@@ -25034,7 +25034,7 @@ Z9 2
 SN 0013-161X
 UT WOS:000269603100005
 ER
----
+
 PT J
 AU Walach, Harald
    Schneider, Rainer
@@ -25079,7 +25079,7 @@ SN 0885-6222
 UT WOS:000270889900005
 PM 19697301
 ER
----
+
 PT J
 AU Cordray, David S.
    Harris, Thomas R.
@@ -25135,7 +25135,7 @@ Z9 11
 SN 1069-4730
 UT WOS:000272263200005
 ER
----
+
 PT J
 AU Ehrgott, Matthias
    Tind, Jorgen
@@ -25168,7 +25168,7 @@ Z9 5
 SN 0305-0483
 UT WOS:000264655200001
 ER
----
+
 PT J
 AU Beltran, Cristina
 TI Going Public Hannah Arendt, Immigrant Action, and the Space of
@@ -25209,7 +25209,7 @@ Z9 16
 SN 0090-5917
 UT WOS:000269585600001
 ER
----
+
 PT J
 AU Munafo, Marcus R.
 TI Reliability and replicability of genetic association studies
@@ -25230,7 +25230,7 @@ SN 0965-2140
 UT WOS:000268653300001
 PM 19686515
 ER
----
+
 PT J
 AU Van Horn, M. Lee
    Jaki, Thomas
@@ -25279,7 +25279,7 @@ SN 0012-1649
 UT WOS:000269366900009
 PM 19702393
 ER
----
+
 PT J
 AU Scherer, Laura D.
    Lambert, Alan J.
@@ -25318,7 +25318,7 @@ SN 0022-3514
 UT WOS:000269326300001
 PM 19685997
 ER
----
+
 PT J
 AU D'Urso, Oscar Fernando
    D'Urso, Pietro Ivo
@@ -25374,7 +25374,7 @@ SN 0008-543X
 UT WOS:000268786800019
 PM 19517475
 ER
----
+
 PT J
 AU Andreasen, Katarina
    Manktelow, Mariette
@@ -25413,7 +25413,7 @@ Z9 13
 SN 0040-0262
 UT WOS:000269774900023
 ER
----
+
 PT J
 AU Thompson, Bruce
 TI A Brief Primer on Effect Sizes
@@ -25437,7 +25437,7 @@ Z9 1
 SN 0273-5024
 UT WOS:000268513400002
 ER
----
+
 PT J
 AU Goodwill, Alasdair M.
    Alison, Laurence J.
@@ -25478,7 +25478,7 @@ Z9 5
 SN 1068-316X
 UT WOS:000268663200003
 ER
----
+
 PT J
 AU Arndt, Saskia S.
    Laarakker, Marijke C.
@@ -25523,7 +25523,7 @@ SN 0031-9384
 UT WOS:000266766100015
 PM 19303031
 ER
----
+
 PT J
 AU Adams, Bryant
    Lipson, Hod
@@ -25554,7 +25554,7 @@ Z9 1
 SN 1099-4300
 UT WOS:000267339200006
 ER
----
+
 PT J
 AU Gale, G. D.
    Yazdi, R. D.
@@ -25601,7 +25601,7 @@ SN 1359-4184
 UT WOS:000266236300009
 PM 18379576
 ER
----
+
 PT J
 AU Harrison, Judith
    Thompson, Bruce
@@ -25640,7 +25640,7 @@ Z9 10
 SN 0034-6543
 UT WOS:000266396400009
 ER
----
+
 PT J
 AU Kamruzzaman, Md.
    Ogura, Nobuyuki
@@ -25679,7 +25679,7 @@ Z9 0
 SN 1346-7581
 UT WOS:000266392300018
 ER
----
+
 PT J
 AU Walters, Glenn D.
    Felix, Crystal M.
@@ -25716,7 +25716,7 @@ Z9 9
 SN 0191-8869
 UT WOS:000265403300007
 ER
----
+
 PT J
 AU Cotton, Colleen H.
    Flint, Jonathan
@@ -25742,7 +25742,7 @@ SN 0028-0836
 UT WOS:000264796200049
 PM 19340021
 ER
----
+
 PT J
 AU de Vries, Reinout E.
    Bakker-Pieper, Angelique
@@ -25783,7 +25783,7 @@ Z9 8
 SN 0093-6502
 UT WOS:000264187000002
 ER
----
+
 PT J
 AU Robitschek, Christine
    Keyes, Corey L. M.
@@ -25822,7 +25822,7 @@ Z9 40
 SN 0022-0167
 UT WOS:000274255100011
 ER
----
+
 PT J
 AU Busseri, Michael A.
    Sadava, Stanley
@@ -25863,7 +25863,7 @@ Z9 13
 SN 1389-4978
 UT WOS:000263877200004
 ER
----
+
 PT J
 AU Iverson, Geoffrey J.
    Lee, Michael D.
@@ -25900,7 +25900,7 @@ SN 1069-9384
 UT WOS:000264915700030
 PM 19293117
 ER
----
+
 PT J
 AU Cervantes, Francisco
    Dupriez, Brigitte
@@ -25956,7 +25956,7 @@ SN 0006-4971
 UT WOS:000264559000007
 PM 18988864
 ER
----
+
 PT J
 AU Morris, A H
    Hirshberg, E
@@ -25995,7 +25995,7 @@ SN 1521-6896
 UT MEDLINE:19449616
 PM 19449616
 ER
----
+
 PT J
 AU van der Staay, F. Josef
    Arndt, Saskia S.
@@ -26051,7 +26051,7 @@ SN 1744-9081
 UT WOS:000265600900001
 PM 19243583
 ER
----
+
 PT J
 AU Hilton Ferreira da Silva, J.
    Carvajal Fals, H.
@@ -26091,7 +26091,7 @@ Z9 0
 SN 1547-7029
 UT INSPEC:13468702
 ER
----
+
 PT J
 AU Nagarajan, Pratapkumar
    Yao, Donggang
@@ -26129,7 +26129,7 @@ Z9 7
 SN 0946-7076
 UT WOS:000260515100004
 ER
----
+
 PT J
 AU Thomas, P.
 TI Bhoomi, Gyan Ganga, e-governance and the right to information: ICTs and
@@ -26196,7 +26196,7 @@ Z9 9
 SN 0736-5853
 UT INSPEC:10219069
 ER
----
+
 PT J
 AU Goodchild, Michael
    Zhang, Jingxiong
@@ -26236,7 +26236,7 @@ Z9 8
 SN 1361-1682
 UT WOS:000207962600001
 ER
----
+
 PT P
 AU KEWELL A
    KRUGER J
@@ -26345,7 +26345,7 @@ AB
 Z9 0
 UT DIIDW:2009G19884
 ER
----
+
 PT P
 AU WARILA B W
    MARKEY B D
@@ -26392,7 +26392,7 @@ AB
 Z9 0
 UT DIIDW:2009A31493
 ER
----
+
 PT P
 AU KANG T
    XIANG X
@@ -26430,7 +26430,7 @@ AB
 Z9 0
 UT DIIDW:2009R57269
 ER
----
+
 PT P
 AU ZHANG J
    ZHENG Z
@@ -26463,7 +26463,7 @@ AB
 Z9 0
 UT DIIDW:2009L00441
 ER
----
+
 PT P
 AU WANG H
    WANG Z
@@ -26515,7 +26515,7 @@ AB
 Z9 0
 UT DIIDW:2009G45401
 ER
----
+
 PT P
 AU CHEN Z
    JIANG J
@@ -26559,7 +26559,7 @@ ZS 0
 Z9 0
 UT DIIDW:2009N83727
 ER
----
+
 PT J
 AU Hleap, Jose Sergio
    Cardenas, Heiber
@@ -26604,7 +26604,7 @@ Z9 0
 SN 1809-9009
 UT ZOOREC:ZOOR14703025365
 ER
----
+
 PT J
 AU Wicki, Matthias
    Gustafsson, Nina-Katri
@@ -26644,7 +26644,7 @@ Z9 3
 SN 1606-6359
 UT WOS:000263642200001
 ER
----
+
 PT J
 AU Setswe, G. K.
 TI Best practice workplace HIV/AIDS programmes in South Africa: a review of
@@ -26689,7 +26689,7 @@ Z9 0
 SN 2071-2928
 UT CABI:20113276656
 ER
----
+
 PT J
 AU Chryssochoidis, George
    Karagiannaki, Angeliki
@@ -26736,7 +26736,7 @@ Z9 15
 SN 0007-070X
 UT WOS:000268613200005
 ER
----
+
 PT J
 AU SHEN Haoyu
    ZHAO Yonggang
@@ -26798,7 +26798,7 @@ Z9 8
 SN 1000-8713
 UT CSCD:3490541
 ER
----
+
 PT J
 AU Lagarde, Mylene
    Haines, Andy
@@ -26873,7 +26873,7 @@ SN 1469-493X
 UT WOS:000270687000060
 PM 19821444
 ER
----
+
 PT J
 AU Wright, Craig M.
    Conlon, Elizabeth G.
@@ -26906,7 +26906,7 @@ SN 8756-5641
 UT WOS:000265987600008
 PM 19437207
 ER
----
+
 PT J
 AU Choi, Namkee G.
 TI The Integration of Social and Psychologic Services to Improve Low-income
@@ -26938,7 +26938,7 @@ SN 0160-6379
 UT WOS:000261999500005
 PM 19065091
 ER
----
+
 PT J
 AU Schachermayer, Walter
    Sirbu, Mihai
@@ -26981,7 +26981,7 @@ Z9 5
 SN 0949-2984
 UT WOS:000261178400002
 ER
----
+
 PT B
 AU Morava, Jack
 BE Harnad, J
@@ -27012,7 +27012,7 @@ Z9 1
 BN 978-0-8218-4481-6
 UT WOS:000268135900016
 ER
----
+
 PT J
 AU Lin, Chih-Yuan
    Huang, Ai-Ling
@@ -27075,7 +27075,7 @@ Z9 5
 UT MEDLINE:19121218
 PM 19121218
 ER
----
+
 PT J
 AU Heiger-Bernays, W. J.
    Fraser, A.
@@ -27124,7 +27124,7 @@ Z9 0
 SN 1940-3259
 UT CABI:20103090941
 ER
----
+
 PT J
 AU Bonichini, Sabrina
    Axia, Giovanna
@@ -27162,7 +27162,7 @@ SN 1720-8424
 UT WOS:000208014800012
 PM 19490604
 ER
----
+
 PT J
 AU Hall, Mary B.
 TI Determination of Starch, Including Maltooligosaccharides, in Animal
@@ -27204,7 +27204,7 @@ SN 1060-3271
 UT WOS:000264127100010
 PM 19382561
 ER
----
+
 PT J
 AU Lakes, Kimberley D.
    Hoyt, William T.
@@ -27243,7 +27243,7 @@ SN 1537-4416
 UT WOS:000262908200012
 PM 19130364
 ER
----
+
 PT J
 AU 임현필
    조영은
@@ -27291,7 +27291,7 @@ Z9 0
 SN 2233-4084
 UT KJD:ART001377111
 ER
----
+
 PT J
 AU Sorice, Michael G.
    Oh, Chi-Ok
@@ -27329,7 +27329,7 @@ Z9 6
 SN 0149-0400
 UT WOS:000263647000001
 ER
----
+
 PT J
 AU Singh, Ajai R
    Singh, Shakuntala A
@@ -27387,7 +27387,7 @@ SN 0973-1229
 UT MEDLINE:21836785
 PM 21836785
 ER
----
+
 PT J
 AU Shen, Haoyu
    Zhao, Yonggang
@@ -27437,7 +27437,7 @@ SN 1000-8713
 UT MEDLINE:19449543
 PM 19449543
 ER
----
+
 PT J
 AU Stachura, Krzysztof
    Moskala, Marek
@@ -27486,7 +27486,7 @@ Z9 0
 SN 1895-4588
 UT WOS:000271800500005
 ER
----
+
 PT P
 AU CAI X
    CAI Z
@@ -27517,7 +27517,7 @@ ZS 0
 Z9 0
 UT DIIDW:2009R57113
 ER
----
+
 PT P
 AU DING K
    LIU W
@@ -27550,7 +27550,7 @@ ZS 0
 Z9 0
 UT DIIDW:2009H74884
 ER
----
+
 PT P
 AU FENG J
 TI Urban and rural cross-field uniform composition picture planning and
@@ -27579,7 +27579,7 @@ ZS 0
 Z9 0
 UT DIIDW:2009A99070
 ER
----
+
 PT J
 AU Komar, Debra
    Lathrop, Sarah
@@ -27623,7 +27623,7 @@ SN 0195-7910
 UT WOS:000261421500003
 PM 19259011
 ER
----
+
 PT J
 AU Ruiz, Mark A.
    Poythress, Norman G.
@@ -27664,7 +27664,7 @@ SN 1073-1911
 UT WOS:000260996500009
 PM 18390842
 ER
----
+
 PT J
 AU Beckwith, Sue
    Dickinson, Angela
@@ -27720,7 +27720,7 @@ SN 0020-7489
 UT WOS:000261920000014
 PM 18715562
 ER
----
+
 PT J
 AU Smeekens, Sanny
    Riksen-Walraven, J. Marianne
@@ -27759,7 +27759,7 @@ Z9 7
 SN 0092-6566
 UT WOS:000262053300011
 ER
----
+
 PT J
 AU Cervantes, Francisco
    Dupriez, Brigitte
@@ -27795,7 +27795,7 @@ Z9 0
 SN 0006-4971
 UT WOS:000262104700658
 ER
----
+
 PT J
 AU Dillen, Let
    Fontaine, Johnny R. J.
@@ -27836,7 +27836,7 @@ SN 1063-3995
 UT WOS:000261877000003
 PM 19115457
 ER
----
+
 PT J
 AU Hoffman, Kim A.
    Ford, James H., II
@@ -27890,7 +27890,7 @@ SN 0376-8716
 UT WOS:000259768500008
 PM 18565693
 ER
----
+
 PT J
 AU Atkins, Robert
 TI The Association of Childhood Personality on Sexual Risk Taking During
@@ -27939,7 +27939,7 @@ SN 0022-4391
 UT WOS:000259909100006
 PM 18844812
 ER
----
+
 PT J
 AU Miller, Daniel A.
 TI Discovering the quantity of quality: scoring 'Regional Identity' for
@@ -27978,7 +27978,7 @@ Z9 1
 SN 0388-0001
 UT WOS:000260271200003
 ER
----
+
 PT J
 AU Ng, Thomas W. H.
    Feldman, Daniel C.
@@ -28016,7 +28016,7 @@ Z9 26
 SN 0001-8791
 UT WOS:000259787900008
 ER
----
+
 PT J
 AU Wenger, Michael J.
    Copeland, Angelina M.
@@ -28058,7 +28058,7 @@ SN 0031-5117
 UT WOS:000260320700010
 PM 18927008
 ER
----
+
 PT J
 AU Morris, Alan H
    Orme, James
@@ -28115,7 +28115,7 @@ Z9 7
 UT MEDLINE:19885263
 PM 19885263
 ER
----
+
 PT J
 AU Atkinson, Thomas M.
    Konold, Timothy R.
@@ -28159,7 +28159,7 @@ SN 1355-6177
 UT WOS:000259620400017
 PM 18764982
 ER
----
+
 PT J
 AU Song, Byung-Hak
    Yun, Sang-Im
@@ -28211,7 +28211,7 @@ SN 1355-8382
 UT WOS:000258996100011
 PM 18669441
 ER
----
+
 PT J
 AU Crow, T. J.
 TI Craddock & Owen vs Kraepelin: 85 years late, mesmerised by "polygenes"
@@ -28263,7 +28263,7 @@ SN 0920-9964
 UT WOS:000258481500019
 PM 18434093
 ER
----
+
 PT J
 AU Liu, S. -J
    Lin, K. -Y
@@ -28306,7 +28306,7 @@ Z9 1
 SN 0930-777X
 UT WOS:000257609600011
 ER
----
+
 PT J
 AU Danforth, Marie Elaine
    Thompson, Andrew
@@ -28348,7 +28348,7 @@ SN 0022-1198
 UT WOS:000257664300002
 PM 18482374
 ER
----
+
 PT J
 AU Savall, Henri
    Zardet, Veronique
@@ -28386,7 +28386,7 @@ Z9 8
 SN 1094-4281
 UT WOS:000256588900005
 ER
----
+
 PT J
 AU Morris, Alan H.
    Orme, James, Jr.
@@ -28462,7 +28462,7 @@ SN 0090-3493
 UT WOS:000256513000014
 PM 18520641
 ER
----
+
 PT J
 AU Schnyer, Rosa N.
    Iuliano, Diane
@@ -28522,7 +28522,7 @@ SN 1075-5535
 UT WOS:000257511800012
 PM 18537469
 ER
----
+
 PT J
 AU Janusonis, Skirmantas
 TI Origin of the blood hyperserotonemia of autism
@@ -28562,7 +28562,7 @@ SN 1742-4682
 UT WOS:000265630200001
 PM 18498654
 ER
----
+
 PT J
 AU Zucker, Robert A.
 TI Anticipating problem alcohol use developmentally from childhood into
@@ -28614,7 +28614,7 @@ SN 0965-2140
 UT WOS:000255059600008
 PM 18426543
 ER
----
+
 PT J
 AU Rosen, Raymond C.
    Coyne, Karin S.
@@ -28677,7 +28677,7 @@ SN 1464-4096
 UT WOS:000255040700015
 PM 18419700
 ER
----
+
 PT J
 AU Maltby, John
    Day, Liz
@@ -28723,7 +28723,7 @@ SN 0007-1269
 UT WOS:000255547500007
 PM 17637166
 ER
----
+
 PT J
 AU Berg, Gregory E.
 TI Pubic bone age estimation in adult women
@@ -28775,7 +28775,7 @@ SN 0022-1198
 UT WOS:000255715500006
 PM 18471199
 ER
----
+
 PT J
 AU Chang, Larry William
    Kagaayi, Joseph
@@ -28822,7 +28822,7 @@ SN 1545-1097
 UT MEDLINE:18441254
 PM 18441254
 ER
----
+
 PT J
 AU Borckardt, Jeffrey J.
    Reeves, Scott T.
@@ -28908,7 +28908,7 @@ SN 1935-861X
 UT WOS:000262716600011
 PM 19759838
 ER
----
+
 PT J
 AU Pompili, Maurizio
    Girardi, Paolo
@@ -28979,7 +28979,7 @@ SN 0165-0327
 UT WOS:000254546000008
 PM 17884175
 ER
----
+
 PT J
 AU Asllani, Iris
    Habeck, Christian
@@ -29030,7 +29030,7 @@ SN 0271-678X
 UT WOS:000254414500006
 PM 17960142
 ER
----
+
 PT J
 AU Crawley, Jacqueline N.
 TI Behavioral phenotyping strategies for mutant mice
@@ -29060,7 +29060,7 @@ SN 0896-6273
 UT WOS:000254500000005
 PM 18367082
 ER
----
+
 PT J
 AU Racicot, Simon
    McGrath, Jennifer J.
@@ -29084,7 +29084,7 @@ Z9 2
 SN 0883-6612
 UT WOS:000259245500726
 ER
----
+
 PT J
 AU Geraci, Robert A.
 TI Apocalyptic AI: Religion and the promise of artificial intelligence
@@ -29116,7 +29116,7 @@ Z9 7
 SN 0002-7189
 UT WOS:000254091500006
 ER
----
+
 PT J
 AU Peng Quanling
    Yuan Hongjun
@@ -29154,7 +29154,7 @@ Z9 1
 SN 1671-4598
 UT INSPEC:10491533
 ER
----
+
 PT J
 AU Tucci, Gianrocco
 TI On replicability of research results and their communication systems
@@ -29173,7 +29173,7 @@ Z9 0
 SN 0391-8440
 UT WOS:000255429000001
 ER
----
+
 PT J
 AU Wu, Kunher
    Lindsted, Kristian D.
@@ -29211,7 +29211,7 @@ Z9 8
 SN 0191-8869
 UT WOS:000253191000011
 ER
----
+
 PT J
 AU Hubbard, Raymond
    Lindsay, R. Murray
@@ -29249,7 +29249,7 @@ Z9 39
 SN 0959-3543
 UT WOS:000254216800004
 ER
----
+
 PT P
 AU CHEN Q
 TI Intellectualized ultraphonic stone-engraving machine
@@ -29278,7 +29278,7 @@ AB
 Z9 0
 UT DIIDW:2008B41994
 ER
----
+
 PT J
 AU Hallowell, Brooke
 TI Strategic design of protocols to evaluate vision in research on aphasia
@@ -29331,7 +29331,7 @@ Z9 7
 SN 0268-7038
 UT WOS:000257086900002
 ER
----
+
 PT J
 AU Christie, Bruce
    Collyer, Jenny
@@ -29366,7 +29366,7 @@ Z9 1
 SN 0144-929X
 UT WOS:000259086400005
 ER
----
+
 PT J
 AU Jull, Andrew B.
    Rodgers, Anthony
@@ -29437,7 +29437,7 @@ SN 1469-493X
 UT WOS:000259895000023
 PM 18843679
 ER
----
+
 PT S
 AU Elsen, Catherine
    Leclercq, Pierre
@@ -29486,7 +29486,7 @@ SN 0302-9743
 BN 978-3-540-88010-3
 UT WOS:000260431700003
 ER
----
+
 PT B
 BA Levin, A
 TI Compatibility, Replicability, and Monadicity
@@ -29506,7 +29506,7 @@ BN 978-1-4020-6946-8
 UT WOS:000267335100005
 D2 10.1007/978-1-4020-6947-5
 ER
----
+
 PT J
 AU Rossier, Jerome
    Verardi, Sabrina
@@ -29550,7 +29550,7 @@ Z9 10
 SN 1697-2600
 UT WOS:000252574800014
 ER
----
+
 PT J
 AU SHIN, JIYEON
    WonSeokWoo
@@ -29601,7 +29601,7 @@ Z9 0
 SN 1226-8240
 UT KJD:ART001238194
 ER
----
+
 PT J
 AU Hwang, Hyun-Min
    Wade, Terry L.
@@ -29655,7 +29655,7 @@ SN 1093-4529
 UT WOS:000259226300005
 PM 18780214
 ER
----
+
 PT J
 AU Lau, Shun
    Roeser, Robert W.
@@ -29696,7 +29696,7 @@ Z9 4
 SN 1041-6080
 UT WOS:000261604500015
 ER
----
+
 PT B
 AU Peng Honglei
    Han Liudi
@@ -29750,7 +29750,7 @@ Z9 0
 BN *****************
 UT WOS:000264979000048
 ER
----
+
 PT J
 AU Province, Michael A
    Borecki, Ingrid B
@@ -29792,7 +29792,7 @@ SN 2335-6936
 UT MEDLINE:18229686
 PM 18229686
 ER
----
+
 PT J
 AU Shenson, Douglas
    Benson, William
@@ -29843,7 +29843,7 @@ Z9 11
 UT MEDLINE:18082009
 PM 18082009
 ER
----
+
 PT J
 AU Jingxiong Zhang
    Jinping Zhang
@@ -29896,7 +29896,7 @@ Z9 0
 SN 0277-786X
 UT INSPEC:10465374
 ER
----
+
 PT J
 AU Calvi, G. P.
    Audd, F. F.
@@ -29941,7 +29941,7 @@ Z9 0
 SN 0798-2437
 UT CABI:20123178428
 ER
----
+
 PT J
 AU Barnard, Adi
    Rothmann, Sebastiaan
@@ -29976,7 +29976,7 @@ Z9 1
 SN 2071-0768
 UT SCIELO:S2071-07632008000200001
 ER
----
+
 PT J
 AU Laher, Sumaya
 TI Structural equivalence and the Neo-Pi-R: Implications for the
@@ -30008,7 +30008,7 @@ Z9 7
 SN 2071-0768
 UT SCIELO:S2071-07632008000100009
 ER
----
+
 PT J
 AU LI Xuan
    DAI Wujiao
@@ -30049,7 +30049,7 @@ Z9 1
 SN 1009-2307
 UT CSCD:3452754
 ER
----
+
 PT J
 AU Betts, Lucy R.
    Rotenberg, Ken J.
@@ -30088,7 +30088,7 @@ Z9 12
 SN 0961-205X
 UT WOS:000260016900017
 ER
----
+
 PT P
 AU FANG Y
 TI Electric weak point measuring device for electric plastic film, has
@@ -30120,7 +30120,7 @@ ZS 0
 Z9 0
 UT DIIDW:2008F91978
 ER
----
+
 PT P
 AU TALEYAMA H
    UMINO Y
@@ -30147,7 +30147,7 @@ ZS 0
 Z9 0
 UT DIIDW:2008L17935
 ER
----
+
 PT P
 AU XU X
    ZHANG W
@@ -30181,7 +30181,7 @@ ZS 0
 Z9 0
 UT DIIDW:2008C82479
 ER
----
+
 PT P
 AU YAO J
 TI Irreversible cover-up project pre-embedment designing method, involves
@@ -30216,7 +30216,7 @@ ZS 0
 Z9 0
 UT DIIDW:2008D68749
 ER
----
+
 PT P
 AU ZHANG C
    TIAN Y
@@ -30255,7 +30255,7 @@ ZS 0
 Z9 0
 UT DIIDW:2008O03887
 ER
----
+
 PT J
 AU Perez, Luis Velazquez
    Cruz, Gilberto Sanchez
@@ -30302,7 +30302,7 @@ Z9 13
 SN 0022-510X
 UT WOS:000253671700027
 ER
----
+
 PT J
 AU Velazquez Perez, Luis
    Sanchez Cruz, Gilberto
@@ -30349,7 +30349,7 @@ SN 0022-510X
 UT MEDLINE:17706249
 PM 17706249
 ER
----
+
 PT J
 AU Zientek, Linda Reichwein
 TI Preparing high-quality teachers: Views from the classroom
@@ -30382,7 +30382,7 @@ Z9 19
 SN 0002-8312
 UT WOS:000251524200006
 ER
----
+
 PT J
 AU Marchionni, Luigi
    Wilson, Renee F
@@ -30452,7 +30452,7 @@ SN 1530-4396
 UT MEDLINE:18457476
 PM 18457476
 ER
----
+
 PT J
 AU Harris, Rebecca M. L.
    Armitage, Patrick D.
@@ -30495,7 +30495,7 @@ Z9 13
 SN 0046-5070
 UT WOS:000251026500010
 ER
----
+
 PT J
 AU Klitzman, Robert
    Albala, Ilene
@@ -30533,7 +30533,7 @@ SN 1556-2646
 UT WOS:000256385400006
 PM 19385808
 ER
----
+
 PT J
 AU Berry, Jack W.
    Elliott, Timothy R.
@@ -30575,7 +30575,7 @@ SN 0022-3891
 UT WOS:000251725500008
 PM 18001229
 ER
----
+
 PT J
 AU Grigorenko, Elena L.
 TI Understanding the Etiology of Complex Traits: Symbiotic Relationships
@@ -30611,7 +30611,7 @@ Z9 2
 SN 1751-2271
 UT WOS:000207808700006
 ER
----
+
 PT J
 AU Chapman, Benjamin P.
    Duberstein, Paul R.
@@ -30648,7 +30648,7 @@ Z9 24
 SN 0890-2070
 UT WOS:000251303200003
 ER
----
+
 PT J
 AU Salvati, Erica
    Leonetti, Carlo
@@ -30707,7 +30707,7 @@ SN 0021-9738
 UT WOS:000250676000017
 PM 17932567
 ER
----
+
 PT J
 AU Raz, Naftali
 TI Comment on Greenwood (2007): Which side of plasticity?
@@ -30745,7 +30745,7 @@ SN 0894-4105
 UT WOS:000250570100003
 PM 17983279
 ER
----
+
 PT J
 AU Freese, Jeremy
 TI Replication standards quantitive social science - Why not sociology
@@ -30780,7 +30780,7 @@ Z9 32
 SN 0049-1241
 UT WOS:000250751400002
 ER
----
+
 PT J
 AU Rossier, Jerome
    Aluja, Anton
@@ -30823,7 +30823,7 @@ SN 0022-3891
 UT WOS:000249832300009
 PM 17764395
 ER
----
+
 PT J
 AU Dimitrova, Daniela V.
    Bugeja, Michael
@@ -30857,7 +30857,7 @@ Z9 12
 SN 1461-4448
 UT WOS:000250960100006
 ER
----
+
 PT J
 AU Halyburton, Angela K.
    Brinkworth, Grant D.
@@ -30914,7 +30914,7 @@ SN 0002-9165
 UT WOS:000249485300009
 PM 17823420
 ER
----
+
 PT J
 AU McCullough, B. D.
 TI Got replicability? The journal of money, credit and banking archive
@@ -30941,7 +30941,7 @@ Z9 8
 SN 1933-527X
 UT WOS:000255755600007
 ER
----
+
 PT J
 AU Wichman, Aaron L.
    Rodgers, Joseph Lee
@@ -30977,7 +30977,7 @@ SN 0146-1672
 UT WOS:000249000700002
 PM 17933740
 ER
----
+
 PT J
 AU Smilek, Daniel
    Carriere, Jonathan S. A.
@@ -31021,7 +31021,7 @@ SN 0956-7976
 UT WOS:000249197200010
 PM 17760775
 ER
----
+
 PT J
 AU Fossati, Andrea
    Raine, Adrian
@@ -31058,7 +31058,7 @@ SN 0165-1781
 UT WOS:000249333800002
 PM 17434601
 ER
----
+
 PT J
 AU Egger, Jos I. M.
    Gringhuis, Marian
@@ -31108,7 +31108,7 @@ Z9 5
 SN 0924-2708
 UT WOS:000248155600004
 ER
----
+
 PT J
 AU Contopoulo-Loannidis, Despina G.
    Kouri, Oanna
@@ -31150,7 +31150,7 @@ SN 1462-2416
 UT WOS:000249355700013
 PM 17716228
 ER
----
+
 PT J
 AU Abdel-Khalek, Ahmed M.
 TI Factorial structure of the Kuwait University Anxiety Scale in a large
@@ -31182,7 +31182,7 @@ SN 0033-2941
 UT WOS:000249806300012
 PM 17958111
 ER
----
+
 PT J
 AU Castillo, Linda G
    Conoley, Collie W
@@ -31225,7 +31225,7 @@ SN 1099-9809
 UT MEDLINE:17638480
 PM 17638480
 ER
----
+
 PT J
 AU Nelson, Geoffrey
    Ochocka, Joanna
@@ -31272,7 +31272,7 @@ Z9 13
 SN 0090-4392
 UT WOS:000247487500007
 ER
----
+
 PT J
 AU Martinez, Fernando D
 TI CD14, endotoxin, and asthma risk: actions and interactions.
@@ -31313,7 +31313,7 @@ SN 1546-3222
 UT MEDLINE:17607003
 PM 17607003
 ER
----
+
 PT J
 AU Mogoutov, Andrei
    Kahane, Bernard
@@ -31358,7 +31358,7 @@ Z9 43
 SN 0048-7333
 UT WOS:000248142600009
 ER
----
+
 PT J
 AU Smith, R.
    Husaini, I.G.
@@ -31406,7 +31406,7 @@ Z9 0
 SN 0921-3449
 UT INSPEC:9533485
 ER
----
+
 PT J
 AU Husaini, I. G.
    Garg, A.
@@ -31454,7 +31454,7 @@ Z9 4
 SN 0921-3449
 UT WOS:000247200300016
 ER
----
+
 PT J
 AU Topping, K. J.
    Trickey, S.
@@ -31504,7 +31504,7 @@ SN 0007-0998
 UT WOS:000246907700002
 PM 17504547
 ER
----
+
 PT J
 AU Por, Francis Dov
 TI A "taxonomic affidavit": Why it is needed?
@@ -31533,7 +31533,7 @@ SN 1749-4877
 UT WOS:000208682900001
 PM 21396019
 ER
----
+
 PT J
 AU Rufaihah, Abdul Jalil
    Haider, Husnain Khawaja
@@ -31593,7 +31593,7 @@ SN 1099-498X
 UT WOS:000247756300003
 PM 17421060
 ER
----
+
 PT J
 AU Ortiz, Fernando A.
    Timothy Church, A.
@@ -31638,7 +31638,7 @@ Z9 8
 SN 0092-6566
 UT WOS:000247128900007
 ER
----
+
 PT J
 AU Sanchez, Juana
    Orozco, Luis
@@ -31696,7 +31696,7 @@ SN 1020-4989
 UT WOS:000249207300001
 PM 17761045
 ER
----
+
 PT J
 AU Rapis, E.
 TI On the nonequilibrium phase transition in protein
@@ -31737,7 +31737,7 @@ Z9 2
 SN 1063-7842
 UT WOS:000247814400019
 ER
----
+
 PT J
 AU Zientek, Linda Reichwein
    Thompson, Bruce
@@ -31770,7 +31770,7 @@ SN 1554-351X
 UT WOS:000248501300020
 PM 17695360
 ER
----
+
 PT J
 AU Schriek, T.
    Balke, A.
@@ -31798,7 +31798,7 @@ Z9 0
 SN 0013-2810
 UT INSPEC:9541533
 ER
----
+
 PT J
 AU Jahn, R G
    Dunne, B J
@@ -31838,7 +31838,7 @@ SN 1550-8307
 UT MEDLINE:17560364
 PM 17560364
 ER
----
+
 PT J
 AU Jahn, R. G.
    Dunne, B. J.
@@ -31889,7 +31889,7 @@ SN 1550-8307
 UT WOS:000247377900005
 PM 17560342
 ER
----
+
 PT J
 AU Jahn, R. G.
    Dunne, B. J.
@@ -31946,7 +31946,7 @@ SN 1550-8307
 UT WOS:000247377900011
 PM 17560358
 ER
----
+
 PT J
 AU Jomeen, J.
    Martin, C. R.
@@ -31983,7 +31983,7 @@ SN 1351-0126
 UT WOS:000245895300014
 PM 17430456
 ER
----
+
 PT J
 AU Sheffer, Christine E.
    Deisinger, Julie A.
@@ -32023,7 +32023,7 @@ SN 1526-2375
 UT WOS:000247380300005
 PM 17610453
 ER
----
+
 PT J
 AU Cruz, J. M.
    Hernandez-Gomez, A.
@@ -32055,7 +32055,7 @@ SN 1539-3755
 UT WOS:000246890200003
 PM 17677122
 ER
----
+
 PT J
 AU Chapman, Benjamin P.
 TI Bandwidth and fidelity on the NEO-Five Factor Inventory: Replicability
@@ -32096,7 +32096,7 @@ SN 0022-3891
 UT WOS:000245876300009
 PM 17437386
 ER
----
+
 PT J
 AU Kono, Toshiaki
    Matsuo, Koji
@@ -32151,7 +32151,7 @@ SN 0168-0102
 UT WOS:000245766000004
 PM 17250915
 ER
----
+
 PT J
 AU Rhudy, Jamie L.
    France, Christopher R.
@@ -32196,7 +32196,7 @@ SN 0304-3959
 UT WOS:000245908700008
 PM 17070999
 ER
----
+
 PT J
 AU Chertkow, Howard
    Black, Sandra
@@ -32237,7 +32237,7 @@ SN 0317-1671
 UT WOS:000245632100016
 PM 17469688
 ER
----
+
 PT J
 AU Amin, Sanjiv B.
    Guillet, Ronnie
@@ -32294,7 +32294,7 @@ SN 0031-4005
 UT WOS:000244579800010
 PM 17332203
 ER
----
+
 PT J
 AU Jeong, Heisawn
    Songer, Nancy B.
@@ -32336,7 +32336,7 @@ Z9 2
 SN 0157-244X
 UT WOS:000243624900005
 ER
----
+
 PT J
 AU Graham, Loren
    Kantor, Jean-Michel
@@ -32370,7 +32370,7 @@ Z9 7
 SN 0037-6779
 UT WOS:000244543700001
 ER
----
+
 PT J
 AU Hanocq, E.
    Laperche, A.
@@ -32411,7 +32411,7 @@ SN 0040-5752
 UT WOS:000243691700016
 PM 17171391
 ER
----
+
 PT P
 AU MIYAMOTO T
    AN H
@@ -32460,7 +32460,7 @@ ZS 0
 Z9 0
 UT DIIDW:2007309091
 ER
----
+
 PT R
 AU Mansergh, Fiona Catherine
    Hurley, Anna L
@@ -32494,7 +32494,7 @@ ZS 0
 Z9 0
 UT DRCI:DATA2012035000205713
 ER
----
+
 PT J
 AU ZHANG Jingxiong
    MICHAEL Goodchild
@@ -32544,7 +32544,7 @@ Z9 0
 SN 1001-1595
 UT CSCD:2909153
 ER
----
+
 PT J
 AU WANG Zhengyi
 Z2 王正义
@@ -32579,7 +32579,7 @@ Z9 0
 SN 0253-3626
 UT CSCD:2889921
 ER
----
+
 PT B
 AU Dhar, T.
    Foltz, J.
@@ -32608,7 +32608,7 @@ Z9 0
 BN 978-1-84593-201-5
 UT CABI:20073163489
 ER
----
+
 PT J
 AU Rossier, Jerome
    Quartier, Vincent
@@ -32652,7 +32652,7 @@ Z9 6
 SN 1015-5759
 UT WOS:000245681400008
 ER
----
+
 PT S
 AU Zhang, Jingxiong
    Goodchild, Michael F.
@@ -32708,7 +32708,7 @@ SN 0277-786X
 BN 978-0-8194-6911-3
 UT WOS:000250579300019
 ER
----
+
 PT J
 AU Sapin, E.
    Bailleux, O.
@@ -32743,7 +32743,7 @@ Z9 5
 SN 1548-7199
 UT WOS:000258953900002
 ER
----
+
 PT J
 AU Shih-Jung Liu
    Yau-Chia Chang
@@ -32790,7 +32790,7 @@ Z9 0
 SN 0960-1317
 UT INSPEC:9248428
 ER
----
+
 PT J
 AU Liu, Shih-Jung
    Chang, Yau-Chia
@@ -32837,7 +32837,7 @@ Z9 18
 SN 0960-1317
 UT WOS:000242825800023
 ER
----
+
 PT J
 AU Escera, Carles
 TI The mismatch negativity 30 years later: How far have we come?
@@ -32859,7 +32859,7 @@ Z9 4
 SN 0269-8803
 UT WOS:000254577300001
 ER
----
+
 PT J
 AU Cho, Seong-Ho
 TI On the Stock Return Method to Determining Industry Substructure -The
@@ -32898,7 +32898,7 @@ Z9 0
 SN 1226-8437
 UT KJD:ART001229304
 ER
----
+
 PT J
 AU Abdel-Khalek, Ahmed M.
    Al-Kandari, Yagoub
@@ -32937,7 +32937,7 @@ SN 0030-2228
 UT WOS:000250821200004
 PM 18027644
 ER
----
+
 PT B
 AU Kunieda, M.
    Misato, K.
@@ -32984,7 +32984,7 @@ Z9 0
 BN 978-0-9794977-0-4
 UT WOS:000254273200103
 ER
----
+
 PT J
 AU Jingxiong Zhang
    Goodchild, M.F.
@@ -33029,7 +33029,7 @@ Z9 0
 SN 0277-786X
 UT INSPEC:10345023
 ER
----
+
 PT B
 AU Lusty, C.
    Amaral, W. A. N.
@@ -33083,7 +33083,7 @@ Z9 0
 BN 978-983-2181-880
 UT CABI:20093083513
 ER
----
+
 PT J
 AU Bornkessel-Schlesewsky, Ina
    Schlesewsky, Matthias
@@ -33116,7 +33116,7 @@ Z9 5
 SN 0301-4428
 UT WOS:000253290900002
 ER
----
+
 PT J
 AU Malarstig, Anders
    Siegbahn, Agneta
@@ -33159,7 +33159,7 @@ SN 0049-3848
 UT WOS:000247762600013
 PM 17157899
 ER
----
+
 PT B
 CA Food and Agriculture Organization
 TI Good practices for hazard risk management in agriculture: summary report
@@ -33201,7 +33201,7 @@ ZS 0
 Z9 0
 UT CABI:20083162404
 ER
----
+
 PT J
 AU Mitchell, P.
 TI Finding answers to suicide within Aboriginal communities: the Yarrabah
@@ -33231,7 +33231,7 @@ Z9 0
 SN 1024-3283
 UT CABI:20093043315
 ER
----
+
 PT J
 AU Jackson, Randall W.
    Schwarm, Walter R.
@@ -33269,7 +33269,7 @@ Z9 6
 SN 0570-1864
 UT WOS:000241551400011
 ER
----
+
 PT J
 AU Yancey, Antronette K.
    Kagawa-Singer, Marjorie
@@ -33315,7 +33315,7 @@ SN 0885-8195
 UT WOS:000247762800011
 PM 17542715
 ER
----
+
 PT J
 AU Carroll, Christopher D.
    Manderscheid, Ronald W.
@@ -33376,7 +33376,7 @@ SN 1091-4358
 UT WOS:000243140000003
 PM 17200595
 ER
----
+
 PT J
 AU Hagger, Martin S.
    Chatzisarantis, Nikos L. D.
@@ -33422,7 +33422,7 @@ Z9 18
 SN 0146-7239
 UT WOS:000242830600006
 ER
----
+
 PT J
 AU Tron, Francois
    Gilbert, Daniele
@@ -33466,7 +33466,7 @@ SN 0891-6934
 UT WOS:000242104100001
 PM 17101496
 ER
----
+
 PT J
 AU Hall, Mei Hua
    Schulze, Katja
@@ -33521,7 +33521,7 @@ SN 0001-8244
 UT WOS:000249448900005
 PM 16826459
 ER
----
+
 PT J
 AU De Clercq, Barbara
    De Fruyt, Filip
@@ -33565,7 +33565,7 @@ SN 0021-843X
 UT WOS:000242132400001
 PM 17100523
 ER
----
+
 PT J
 AU Monterde-i-Bort, Hector
    Pascual-Llobell, Juan
@@ -33600,7 +33600,7 @@ SN 0214-9915
 UT WOS:000241642100026
 PM 17296128
 ER
----
+
 PT J
 AU Bregadze, Nino
    Lavric, Aureliu
@@ -33635,7 +33635,7 @@ SN 0167-8760
 UT WOS:000240812800008
 PM 16503359
 ER
----
+
 PT J
 AU Rocha, A. A.
    Bastos, R.
@@ -33687,7 +33687,7 @@ SN 0093-691X
 UT WOS:000240887300011
 PM 16875725
 ER
----
+
 PT J
 AU Cumbey, Dorothy A.
    Ellison, Lu Anne
@@ -33729,7 +33729,7 @@ SN 1078-4659
 UT WOS:000239934700011
 PM 16912610
 ER
----
+
 PT J
 AU Aluja, Anton
    Rossier, Jerome
@@ -33773,7 +33773,7 @@ Z9 45
 SN 0191-8869
 UT WOS:000239616300004
 ER
----
+
 PT J
 AU Cumming, Geoff
    Maillardet, Robert
@@ -33808,7 +33808,7 @@ SN 1082-989X
 UT WOS:000240519200001
 PM 16953701
 ER
----
+
 PT J
 AU Kelly, Clint D.
 TI Replicating empirical research in behavioral ecology: How and why it
@@ -33846,7 +33846,7 @@ SN 0033-5770
 UT WOS:000240701300001
 PM 17051829
 ER
----
+
 PT J
 AU Carter, C. J.
 TI Schizophrenia susceptibility genes converge on interlinked pathways
@@ -33893,7 +33893,7 @@ SN 0920-9964
 UT WOS:000243775100001
 PM 16842972
 ER
----
+
 PT J
 AU Killeen, Peter R.
 TI Beyond statistical inference: A decision theory for science
@@ -33928,7 +33928,7 @@ SN 1069-9384
 UT WOS:000241969400001
 PM 17201351
 ER
----
+
 PT J
 AU Tibaldi, Giuseppe
    Glover, Gyles
@@ -33979,7 +33979,7 @@ SN 1121-189X
 UT WOS:000241407500008
 PM 17128624
 ER
----
+
 PT J
 AU Asendorpf, Jens B.
    Denissen, Jaap J. A.
@@ -34018,7 +34018,7 @@ Z9 24
 SN 0272-930X
 UT WOS:000241633300005
 ER
----
+
 PT J
 AU Dimitrova, Daniela V.
    Bugeja, Michael
@@ -34051,7 +34051,7 @@ Z9 6
 SN 1531-2542
 UT WOS:000239416300003
 ER
----
+
 PT J
 AU Light, KJ
    Joyce, PR
@@ -34100,7 +34100,7 @@ SN 1552-4841
 UT WOS:000238054200015
 PM 16583407
 ER
----
+
 PT J
 AU Zupanic, Maja
    Podlesek, Anja
@@ -34135,7 +34135,7 @@ Z9 8
 SN 0890-2070
 UT WOS:000238801500003
 ER
----
+
 PT J
 AU Peirce, JL
    Li, HQ
@@ -34187,7 +34187,7 @@ SN 0938-8990
 UT WOS:000238362300018
 PM 16783644
 ER
----
+
 PT J
 AU Walji, Rishma
    Boon, Heather
@@ -34226,7 +34226,7 @@ SN 1744-3881
 UT MEDLINE:16648085
 PM 16648085
 ER
----
+
 PT J
 AU Marks, DF
 TI The case for a pluralist health psychology
@@ -34256,7 +34256,7 @@ SN 1359-1053
 UT WOS:000238259400007
 PM 16774888
 ER
----
+
 PT J
 AU McCullough, BD
    Renfro, CG
@@ -34292,7 +34292,7 @@ Z9 2
 SN 0039-0402
 UT WOS:000236453100009
 ER
----
+
 PT J
 AU Edwards, RJ
    Horton, BP
@@ -34341,7 +34341,7 @@ SN 1364-503X
 UT WOS:000236278700015
 PM 16537151
 ER
----
+
 PT J
 AU Muraya, PWK
 TI Failed top-down policies in housing: The cases of Nairobi and Santo
@@ -34385,7 +34385,7 @@ Z9 3
 SN 0264-2751
 UT WOS:000236229400004
 ER
----
+
 PT J
 AU Davis, SL
    Finney, SJ
@@ -34418,7 +34418,7 @@ Z9 9
 SN 0013-1644
 UT WOS:000236177800009
 ER
----
+
 PT J
 AU Lozada, M
    Figuerola, ELM
@@ -34464,7 +34464,7 @@ SN 1462-2912
 UT WOS:000235892000006
 PM 16584474
 ER
----
+
 PT J
 AU Gullino, M. Lodovica
    Camponogara, Andrea
@@ -34536,7 +34536,7 @@ Z9 3
 SN 1459-0255
 UT BCI:BCI200600507732
 ER
----
+
 PT J
 AU Cave, M
 TI Encouraging infrastructure competition via the ladder of investment
@@ -34564,7 +34564,7 @@ Z9 45
 SN 0308-5961
 UT WOS:000237459400006
 ER
----
+
 PT J
 AU Gu, Dong-feng
 TI [Researches on genetics and genetic epidemiology of common complex
@@ -34597,7 +34597,7 @@ SN 1000-503X
 UT MEDLINE:16733887
 PM 16733887
 ER
----
+
 PT J
 AU Sadafi, H.A.
    Mehboodi, Z.
@@ -34627,7 +34627,7 @@ Z9 0
 SN 0158-9938
 UT INSPEC:8924675
 ER
----
+
 PT J
 AU Listi, GA
    Bassett, HE
@@ -34671,7 +34671,7 @@ SN 0022-1198
 UT WOS:000235841900005
 PM 16566757
 ER
----
+
 PT J
 AU Baylor, CR
    Yorkston, KM
@@ -34715,7 +34715,7 @@ Z9 0
 SN 1065-1438
 UT WOS:000236565100004
 ER
----
+
 PT J
 AU Kokkonen, A
    Esala, M
@@ -34767,7 +34767,7 @@ Z9 2
 SN 0038-0717
 UT WOS:000236157300009
 ER
----
+
 PT J
 AU Rossier, J
    Rigozzi, C
@@ -34807,7 +34807,7 @@ Z9 5
 SN 1421-0185
 UT WOS:000236852100006
 ER
----
+
 PT J
 AU Serviene, E
    Jiang, Y
@@ -34854,7 +34854,7 @@ SN 0022-538X
 UT WOS:000234871400017
 PM 16415000
 ER
----
+
 PT J
 AU Aluja, A
    Del Barrio, V
@@ -34902,7 +34902,7 @@ SN 0036-5564
 UT WOS:000234855900003
 PM 16433659
 ER
----
+
 PT J
 AU McGuinness, LM
    Salganik, M
@@ -34948,7 +34948,7 @@ SN 0013-936X
 UT WOS:000234916700018
 PM 16468396
 ER
----
+
 PT J
 AU GU Dongfeng
 Z2 顾东风
@@ -34987,7 +34987,7 @@ Z9 7
 SN 1000-503X
 UT CSCD:2362219
 ER
----
+
 PT J
 AU Hrebickova, Martina
    Urbanek, Tomas
@@ -35031,7 +35031,7 @@ Z9 1
 SN 0009-062X
 UT WOS:000242516500002
 ER
----
+
 PT J
 AU Donoso, G.
 TI Water markets: case study of Chile's 1981 Water Code.
@@ -35076,7 +35076,7 @@ Z9 2
 SN 0304-5609
 UT CABI:20063153175
 ER
----
+
 PT J
 AU LI Shiqiang
    WANG Shuiping
@@ -35110,7 +35110,7 @@ Z9 3
 SN 1000-3428
 UT CSCD:2536806
 ER
----
+
 PT J
 AU Gottfredson, SD
    Moriarty, LJ
@@ -35143,7 +35143,7 @@ Z9 53
 SN 0011-1287
 UT WOS:000233870900010
 ER
----
+
 PT J
 AU Hecox, Kurt E.
    Marler, Seaon
@@ -35169,7 +35169,7 @@ Z9 0
 SN 0013-9580
 UT WOS:000241385500113
 ER
----
+
 PT J
 AU Herzberg, PY
    Roth, M
@@ -35204,7 +35204,7 @@ Z9 16
 SN 0890-2070
 UT WOS:000235963800002
 ER
----
+
 PT J
 AU McCrae, RR
    Terracciano, A
@@ -35244,7 +35244,7 @@ Z9 18
 SN 0890-2070
 UT WOS:000235963800003
 ER
----
+
 PT J
 AU Anderson, RG
 TI Replicability, real-time data, and the science of economic research:
@@ -35275,7 +35275,7 @@ Z9 6
 SN 0014-9187
 UT WOS:000234788400005
 ER
----
+
 PT J
 AU Angus, Doug
    Brouwers, Melissa
@@ -35338,7 +35338,7 @@ Z9 2
 SN 1748-5908
 UT WOS:000206717500004
 ER
----
+
 PT J
 CA Improved Clinical Effectiveness through Behavioural Research Group
    (ICEBeRG)
@@ -35383,7 +35383,7 @@ Z9 0
 UT MEDLINE:16722571
 PM 16722571
 ER
----
+
 PT J
 AU Glasgow, RE
 TI RE-AIMing research for application: Ways to improve evidence for family
@@ -35427,7 +35427,7 @@ SN 1557-2625
 UT WOS:000237709800002
 PM 16492000
 ER
----
+
 PT J
 AU 김흥규
    고영배
@@ -35465,7 +35465,7 @@ Z9 0
 SN 1225-9071
 UT KJD:ART001097904
 ER
----
+
 PT J
 AU Stone, M
    Galbraith, J
@@ -35500,7 +35500,7 @@ Z9 8
 SN 0964-1998
 UT WOS:000235164500010
 ER
----
+
 PT J
 AU Schumacher, A
    Kapranov, P
@@ -35553,7 +35553,7 @@ SN 0305-1048
 UT WOS:000235291300023
 PM 16428248
 ER
----
+
 PT B
 AU Sadafi, H. A.
    Mehboodi, Zh.
@@ -35620,7 +35620,7 @@ Z9 0
 BN 1-933077-08-5
 UT WOS:000241313400020
 ER
----
+
 PT J
 AU Flanagan, William
    McIntosh, Cameron N
@@ -35681,7 +35681,7 @@ Z9 20
 UT MEDLINE:17076901
 PM 17076901
 ER
----
+
 PT J
 AU WANG Xuexiong
    ZHOU Qiong
@@ -35718,7 +35718,7 @@ Z9 1
 SN 1005-3409
 UT CSCD:2538296
 ER
----
+
 PT J
 AU Van Dongen, H.
    Belenky, G.
@@ -35743,7 +35743,7 @@ Z9 0
 SN 0161-8105
 UT WOS:000237916701460
 ER
----
+
 PT J
 AU Talvitie, A
 TI Experiential incrementalism: On the theory and technique to implement
@@ -35788,7 +35788,7 @@ Z9 6
 SN 0049-4488
 UT WOS:000233871800005
 ER
----
+
 PT B
 AU Lucon, O.
 BE Bhojvaid, P. P. 
@@ -35813,7 +35813,7 @@ Z9 0
 BN 81-7993-085-8
 UT CABI:20063123063
 ER
----
+
 PT J
 AU Helton, RR
    Cottrell, MT
@@ -35858,7 +35858,7 @@ Z9 19
 SN 0948-3055
 UT WOS:000234763600001
 ER
----
+
 PT J
 AU Annamaria, VG
    Chiara, L
@@ -35903,7 +35903,7 @@ Z9 0
 SN 0275-7540
 UT WOS:000234484000005
 ER
----
+
 PT J
 AU Killeen, PR
 TI Replicability, confidence, and priors
@@ -35924,7 +35924,7 @@ SN 0956-7976
 UT WOS:000233519600017
 PM 16313669
 ER
----
+
 PT J
 AU Pook, CE
    McEwing, R
@@ -35967,7 +35967,7 @@ SN 0041-0101
 UT WOS:000233491400001
 PM 16157361
 ER
----
+
 PT J
 AU Kafkafi, N
    Elmer, GI
@@ -36014,7 +36014,7 @@ SN 1601-1848
 UT WOS:000232586300004
 PM 16176389
 ER
----
+
 PT J
 AU Ashton, MC
    Lee, K
@@ -36049,7 +36049,7 @@ SN 0022-3506
 UT WOS:000231509500009
 PM 16138875
 ER
----
+
 PT J
 AU Lee, K
    Ogunfowora, B
@@ -36087,7 +36087,7 @@ SN 0022-3506
 UT WOS:000231509500012
 PM 16138878
 ER
----
+
 PT J
 AU Puente, GF
    Urteaga, R
@@ -36148,7 +36148,7 @@ SN 1539-3755
 UT WOS:000232931200082
 PM 16383531
 ER
----
+
 PT J
 AU Weber, Heiko
    Frercks, Jan
@@ -36179,7 +36179,7 @@ Z9 0
 SN 1661-464X
 UT WOS:000244262100003
 ER
----
+
 PT J
 AU Avdeyeva, TV
    Church, AT
@@ -36214,7 +36214,7 @@ Z9 5
 SN 0890-2070
 UT WOS:000232961300002
 ER
----
+
 PT J
 AU Parker, SC
    Lyons, J
@@ -36254,7 +36254,7 @@ SN 0744-8481
 UT WOS:000232349600007
 PM 16255322
 ER
----
+
 PT J
 AU Tervaniemi, M
    Sinkkonen, J
@@ -36300,7 +36300,7 @@ SN 1388-2457
 UT WOS:000231330700020
 PM 15990358
 ER
----
+
 PT J
 AU Hagger, MS
    Chatzisarantis, NLD
@@ -36343,7 +36343,7 @@ Z9 79
 SN 0022-0663
 UT WOS:000232115900006
 ER
----
+
 PT J
 AU Garge, NR
    Page, GP
@@ -36408,7 +36408,7 @@ SN 1471-2105
 UT WOS:000236061500010
 PM 16026595
 ER
----
+
 PT J
 AU Cukier, Sebastian H
 TI [Clinical features, biology and neuropsychology of the autistic
@@ -36445,7 +36445,7 @@ SN 0327-6139
 UT MEDLINE:16077868
 PM 16077868
 ER
----
+
 PT J
 AU Cash, AC
    Whitfield, CW
@@ -36491,7 +36491,7 @@ SN 1601-1848
 UT WOS:000229562200005
 PM 15924558
 ER
----
+
 PT J
 AU Aluja, A
    Garcia, O
@@ -36536,7 +36536,7 @@ Z9 30
 SN 0191-8869
 UT WOS:000228940300014
 ER
----
+
 PT J
 AU Harris, DS
    Reus, VI
@@ -36587,7 +36587,7 @@ SN 0278-5846
 UT WOS:000230586100005
 PM 15913869
 ER
----
+
 PT J
 AU Beck, E
 TI The UCSD student-run free clinic project: Transdisciplinary health
@@ -36619,7 +36619,7 @@ SN 1049-2089
 UT WOS:000229571700006
 PM 15937383
 ER
----
+
 PT J
 AU Castillo, EM
    Papanicolaou, AC
@@ -36661,7 +36661,7 @@ SN 1053-8119
 UT WOS:000228383500009
 PM 15808974
 ER
----
+
 PT J
 AU Prichep, Leslie S.
 TI Use of normative databases and statistical methods in demonstrating
@@ -36698,7 +36698,7 @@ SN 1550-0594
 UT WOS:000202980500005
 PM 15999903
 ER
----
+
 PT J
 AU Cox, MP
 TI Indonesian mitochondrial DNA and its opposition to a Pleistocene era
@@ -36741,7 +36741,7 @@ SN 0018-7143
 UT WOS:000231461100002
 PM 16201135
 ER
----
+
 PT J
 AU Meneses, J
    Boixados, M
@@ -36785,7 +36785,7 @@ Z9 1
 SN 1368-1613
 UT WOS:000228452700004
 ER
----
+
 PT J
 AU Osman, A
    Barrios, FX
@@ -36827,7 +36827,7 @@ SN 0160-7715
 UT WOS:000228856200006
 PM 15957572
 ER
----
+
 PT J
 AU Atkins, R
    Hart, D
@@ -36867,7 +36867,7 @@ Z9 25
 SN 0272-930X
 UT WOS:000231002000002
 ER
----
+
 PT J
 AU Kafkafi, N
    Benjamini, Y
@@ -36921,7 +36921,7 @@ SN 0027-8424
 UT WOS:000227854800071
 PM 15764701
 ER
----
+
 PT J
 AU Pietka, E
    Gertych, A
@@ -36961,7 +36961,7 @@ SN 0895-6111
 UT WOS:000227961600008
 PM 15755535
 ER
----
+
 PT J
 AU Vahip, S
    Kesebir, S
@@ -37028,7 +37028,7 @@ SN 0165-0327
 UT WOS:000228409400013
 PM 15780682
 ER
----
+
 PT J
 AU Aluja, A
    Garcia, O
@@ -37075,7 +37075,7 @@ Z9 39
 SN 0191-8869
 UT WOS:000226847800008
 ER
----
+
 PT J
 AU Geissler, A
    Lanzenberger, R
@@ -37121,7 +37121,7 @@ SN 1053-8119
 UT WOS:000226454500006
 PM 15627575
 ER
----
+
 PT P
 AU BUGAJ S V
    LEVIN B
@@ -37153,7 +37153,7 @@ AB
 Z9 0
 UT DIIDW:2005794947
 ER
----
+
 PT B
 AU Jingwei Liu
    Jinghong Han
@@ -37202,7 +37202,7 @@ Z9 0
 BN 0-7803-8511-X
 UT INSPEC:8412146
 ER
----
+
 PT J
 AU Wang Zhengyi
 Z2 王正义
@@ -37238,7 +37238,7 @@ Z9 1
 SN 0253-3626
 UT CSCD:2028145
 ER
----
+
 PT J
 AU Usselman, MC
    Reinhart, C
@@ -37280,7 +37280,7 @@ Z9 18
 SN 0003-3790
 UT WOS:000226662800001
 ER
----
+
 PT J
 AU Hogben, J
    Roach, N
@@ -37301,7 +37301,7 @@ Z9 0
 SN 0004-9530
 UT WOS:000234555700194
 ER
----
+
 PT J
 AU McMurran, Mary
    Duggan, Conor
@@ -37343,7 +37343,7 @@ SN 0957-9664
 UT MEDLINE:16470496
 PM 16470496
 ER
----
+
 PT J
 AU Kamal Banskota
    Bikash Sharma
@@ -37376,7 +37376,7 @@ Z9 0
 SN 1013-7386
 UT CABI:20063001277
 ER
----
+
 PT J
 AU Garner, JP
 TI Stereotypies and other abnormal repetitive behaviors: Potential impact
@@ -37427,7 +37427,7 @@ SN 1084-2020
 UT WOS:000227259000004
 PM 15775020
 ER
----
+
 PT J
 AU Sundaresh, Suman
    Hung, She-pin
@@ -37457,7 +37457,7 @@ SN 1744-5485
 UT MEDLINE:18048120
 PM 18048120
 ER
----
+
 PT J
 AU Parker, JDA
    Shaughnessy, PA
@@ -37501,7 +37501,7 @@ SN 0022-3999
 UT WOS:000227790200011
 PM 15771874
 ER
----
+
 PT S
 AU Vlatsiotou, F. P.
    Ktistaki, M. M.
@@ -37568,7 +37568,7 @@ SN 1106-5516
 BN 960-7475-33-X
 UT WOS:000237755500161
 ER
----
+
 PT J
 AU Mikulski, J.
    Sladkowski, A.
@@ -37594,7 +37594,7 @@ Z9 0
 SN 0037-4997
 UT INSPEC:8462274
 ER
----
+
 PT J
 AU Tosics, I
    Dukes, T
@@ -37642,7 +37642,7 @@ Z9 4
 SN 0040-747X
 UT WOS:000230727400005
 ER
----
+
 PT P
 AU ZHENG S
 TI Light conducting plate and manufacturing method thereof
@@ -37664,7 +37664,7 @@ ZS 0
 Z9 0
 UT DIIDW:2005704536
 ER
----
+
 PT B
 AU Mele, P. van
    Salahuddin, A.
@@ -37705,7 +37705,7 @@ Z9 0
 BN 0-85199-028-2
 UT CABI:20053065051
 ER
----
+
 PT J
 AU Dilip Shah
 TI Sustainable tribal development model case of wadi.
@@ -37736,7 +37736,7 @@ ZS 0
 Z9 0
 UT CABI:20063019720
 ER
----
+
 PT J
 AU Mounteney, J
    Leirvag, SE
@@ -37776,7 +37776,7 @@ Z9 15
 SN 0968-7637
 UT WOS:000225163900002
 ER
----
+
 PT J
 AU Forbes, AB
    McKenzie, DP
@@ -37832,7 +37832,7 @@ SN 1351-0711
 UT WOS:000225198800011
 PM 15550608
 ER
----
+
 PT J
 AU Preuss, UW
    Schultz, G
@@ -37881,7 +37881,7 @@ Z9 2
 SN 1389-2029
 UT WOS:000225389300008
 ER
----
+
 PT J
 AU Siitonen, S
    Laakkonen, P
@@ -37921,7 +37921,7 @@ SN 1559-128X
 UT WOS:000224501200007
 PM 15534994
 ER
----
+
 PT J
 AU Vacha-Haase, T
    Thompson, B
@@ -37955,7 +37955,7 @@ Z9 111
 SN 0022-0167
 UT WOS:000224179800009
 ER
----
+
 PT J
 AU Lee, BK
    Kim, DS
@@ -37998,7 +37998,7 @@ Z9 69
 SN 0946-7076
 UT WOS:000224614400019
 ER
----
+
 PT J
 AU Flurkey, K
    Currer, JM
@@ -38033,7 +38033,7 @@ SN 1521-690X
 UT WOS:000223391700008
 PM 15261846
 ER
----
+
 PT J
 AU Harris, GT
    Rice, ME
@@ -38072,7 +38072,7 @@ SN 0886-2605
 UT WOS:000223151900007
 PM 15296617
 ER
----
+
 PT J
 AU Aluja, A
    Blanch, A
@@ -38110,7 +38110,7 @@ Z9 8
 SN 0191-8869
 UT WOS:000223561800001
 ER
----
+
 PT J
 AU Costa, PT
    Herbst, JH
@@ -38135,7 +38135,7 @@ Z9 0
 SN 0890-2070
 UT WOS:000223582000005
 ER
----
+
 PT J
 AU De Gucht, V
    Fontaine, J
@@ -38184,7 +38184,7 @@ SN 0022-3999
 UT WOS:000223024300005
 PM 15256292
 ER
----
+
 PT J
 AU Petsuksiri, Janjira
    Chuangsuwanich, Tuenjai
@@ -38227,7 +38227,7 @@ SN 0125-2208
 UT BCI:BCI200500028189
 PM 15521235
 ER
----
+
 PT J
 AU Bagby, RM
    Marshall, MB
@@ -38265,7 +38265,7 @@ SN 1073-1911
 UT WOS:000221362500001
 PM 15171459
 ER
----
+
 PT J
 AU Wiesenberg, GLB
    Schwark, L
@@ -38320,7 +38320,7 @@ Z9 34
 SN 1351-0754
 UT WOS:000222007600012
 ER
----
+
 PT J
 AU Edwards, RJ
    van de Plassche, O
@@ -38379,7 +38379,7 @@ Z9 49
 SN 0377-8398
 UT WOS:000222104000003
 ER
----
+
 PT J
 AU Teasdale, JD
    Green, HAC
@@ -38425,7 +38425,7 @@ Z9 32
 SN 0191-8869
 UT WOS:000221672800016
 ER
----
+
 PT J
 AU Plant, RR
    Hammond, N
@@ -38469,7 +38469,7 @@ SN 0743-3808
 UT WOS:000223026600015
 PM 15354695
 ER
----
+
 PT J
 AU Laros, Jacob A.
    Puente-Palacios, Katia E.
@@ -38519,7 +38519,7 @@ Z9 13
 SN 1413-294X
 UT SCIELO:S1413-294X2004000100013
 ER
----
+
 PT J
 AU Bertram, L
    Tanzi, RE
@@ -38555,7 +38555,7 @@ SN 0964-6906
 UT WOS:000220793500014
 PM 14764623
 ER
----
+
 PT J
 AU Hardy, DJ
    O'Brien, AP
@@ -38615,7 +38615,7 @@ SN 0309-2402
 UT WOS:000220357600010
 PM 15030446
 ER
----
+
 PT J
 AU Beebe, J
 TI Can there be a science of the symbolic?
@@ -38661,7 +38661,7 @@ SN 0021-8774
 UT WOS:000220306900004
 PM 15032928
 ER
----
+
 PT J
 AU Weinstock, LM
    Whisman, MA
@@ -38703,7 +38703,7 @@ Z9 11
 SN 0736-7236
 UT WOS:000221270400007
 ER
----
+
 PT J
 AU Maclin, EL
    Low, KA
@@ -38754,7 +38754,7 @@ SN 1053-8119
 UT WOS:000220723900054
 PM 15050600
 ER
----
+
 PT J
 AU Weinstein, M
    Dulce, T
@@ -38788,7 +38788,7 @@ Z9 5
 SN 1077-8004
 UT WOS:000220161800007
 ER
----
+
 PT J
 AU Willis, HH
    DeKay, ML
@@ -38838,7 +38838,7 @@ SN 0272-4332
 UT WOS:000221170300008
 PM 15078307
 ER
----
+
 PT J
 AU Liu, DH
    Singh, RP
@@ -38878,7 +38878,7 @@ SN 1064-7481
 UT WOS:000189120100007
 PM 15010345
 ER
----
+
 PT J
 AU Shugan, SM
 TI Consulting, research, and consulting research
@@ -38920,7 +38920,7 @@ Z9 9
 SN 0732-2399
 UT WOS:000222670300001
 ER
----
+
 PT J
 AU Raz, N
    Gunning-Dixon, F
@@ -38972,7 +38972,7 @@ SN 0197-4580
 UT WOS:000189229600013
 PM 15123343
 ER
----
+
 PT J
 AU Castillo, EM
    Simos, PG
@@ -39027,7 +39027,7 @@ SN 1053-8119
 UT WOS:000220148900018
 PM 15006664
 ER
----
+
 PT J
 AU Aluja, A
    Garcia, O
@@ -39072,7 +39072,7 @@ Z9 41
 SN 0191-8869
 UT WOS:000220314100010
 ER
----
+
 PT J
 AU Guan, JM
    McBride, R
@@ -39096,7 +39096,7 @@ Z9 0
 SN 0270-1367
 UT WOS:000220428300103
 ER
----
+
 PT J
 AU Van Wijk, J
 TI Terminating piracy or legitimate seed saving? The use of copy-protection
@@ -39133,7 +39133,7 @@ Z9 3
 SN 0953-7325
 UT WOS:000189209800006
 ER
----
+
 PT J
 AU Moritz, S
    Meier, B
@@ -39183,7 +39183,7 @@ SN 0165-1781
 UT WOS:000220445000011
 PM 15006440
 ER
----
+
 PT P
 AU IIJIMA S
    KAMIHIRA M
@@ -39222,7 +39222,7 @@ AB
 Z9 0
 UT DIIDW:2004203696
 ER
----
+
 PT B
 AU Liu, JW
    Han, JH
@@ -39276,7 +39276,7 @@ Z9 0
 BN 0-7803-8511-X
 UT WOS:000227342202046
 ER
----
+
 PT B
 AU McDermott, KJ
    Nafalski, A
@@ -39318,7 +39318,7 @@ Z9 0
 BN 0-7326-2256-5
 UT WOS:000189444800014
 ER
----
+
 PT S
 AU Bouckaert, RR
    Frank, E
@@ -39361,7 +39361,7 @@ SN 0302-9743
 BN 3-540-22064-X
 UT WOS:000221955100001
 ER
----
+
 PT J
 AU Campos, J. A. D. B.
    Zuanon, A. C. C.
@@ -39399,7 +39399,7 @@ Z9 0
 SN 0103-4235
 UT CABI:20063003664
 ER
----
+
 PT J
 AU Rammstedt, B
    Riemann, R
@@ -39442,7 +39442,7 @@ Z9 30
 SN 0890-2070
 UT WOS:000220202900001
 ER
----
+
 PT J
 AU Goma-i-Freixanet, M
    Valero, S
@@ -39487,7 +39487,7 @@ Z9 29
 SN 1015-5759
 UT WOS:000220924100006
 ER
----
+
 PT J
 AU Spruyt, A
    Hermans, D
@@ -39524,7 +39524,7 @@ SN 1618-3169
 UT WOS:000220598200004
 PM 15114903
 ER
----
+
 PT S
 AU Sapin, E
    Bailleux, O
@@ -39579,7 +39579,7 @@ SN 0302-9743
 BN 3-540-22344-4
 UT WOS:000225101200016
 ER
----
+
 PT J
 AU McDermott, K.J.
    Nafalski, A.
@@ -39616,7 +39616,7 @@ Z9 0
 SN 1328-3154
 UT INSPEC:8683754
 ER
----
+
 PT B
 AU Liu, JW
    Xia, SH
@@ -39670,7 +39670,7 @@ Z9 0
 BN 0-7803-8629-9
 UT WOS:000228481300047
 ER
----
+
 PT J
 AU Tang Xiangyu
    Zhu Yongguan
@@ -39719,7 +39719,7 @@ Z9 20
 SN 1001-5914
 UT CSCD:1851664
 ER
----
+
 PT J
 AU Heon, Kim Kyo
 TI Men's Jealousy and Women's Jealousy : Sex differences in Sexual and
@@ -39773,7 +39773,7 @@ Z9 0
 SN 1229-070X
 UT KJD:ART001124035
 ER
----
+
 PT J
 AU Fonseca, FN
    Tavares, MFM
@@ -39810,7 +39810,7 @@ SN 0958-0344
 UT WOS:000188762700011
 PM 14979529
 ER
----
+
 PT B
 AU Jingwei Liu
    Shanhong Xia
@@ -39868,7 +39868,7 @@ Z9 0
 BN 0-7803-8629-9
 UT INSPEC:8435334
 ER
----
+
 PT B
 AU Wang, XX
    Yu, XX
@@ -39911,7 +39911,7 @@ Z9 0
 BN 7-302-09684-8
 UT WOS:000226799100349
 ER
----
+
 PT J
 AU Froman, T.
    Shneyderman, A.
@@ -39945,7 +39945,7 @@ Z9 6
 SN 1534-844X
 UT INSPEC:8481102
 ER
----
+
 PT J
 AU Wong, DCL
    Maltby, L
@@ -39992,7 +39992,7 @@ SN 0043-1354
 UT WOS:000187881200014
 PM 14630110
 ER
----
+
 PT B
 AU Araujo, G. G. L. de
    Guimaraes Filho, C.
@@ -40018,7 +40018,7 @@ ZS 0
 Z9 0
 UT CABI:20073086096
 ER
----
+
 PT B
 AU Samra, J. S.
 BE Barker, D. H.
@@ -40068,7 +40068,7 @@ Z9 0
 BN 1-57808-209-9
 UT CABI:20063118679
 ER
----
+
 PT J
 AU Shephard, N
    Falcaro, M
@@ -40130,7 +40130,7 @@ SN 1471-2156
 UT WOS:000188320900026
 PM 14975094
 ER
----
+
 PT J
 AU Horan, WP
    Blanchard, JJ
@@ -40177,7 +40177,7 @@ SN 0920-9964
 UT WOS:000187042700007
 PM 14630305
 ER
----
+
 PT J
 AU Greenwood, P M
    Parasuraman, Raja
@@ -40217,7 +40217,7 @@ SN 1534-5823
 UT MEDLINE:15006290
 PM 15006290
 ER
----
+
 PT J
 AU Pochet, S
    Kaminski, PA
@@ -40263,7 +40263,7 @@ SN 1631-0691
 UT WOS:000187997600005
 PM 14746272
 ER
----
+
 PT J
 AU Dubus, IG
    Janssen, PHM
@@ -40304,7 +40304,7 @@ SN 0730-7268
 UT WOS:000186959100033
 PM 14713053
 ER
----
+
 PT J
 AU Halverson, CF
    Havill, VL
@@ -40348,7 +40348,7 @@ SN 0022-3506
 UT WOS:000186534200005
 PM 14633056
 ER
----
+
 PT J
 AU Terracciano, A
 TI The Italian version of the NEO PI-R: conceptual and empirical support
@@ -40384,7 +40384,7 @@ Z9 31
 SN 0191-8869
 UT WOS:000186815900011
 ER
----
+
 PT J
 AU Norman, GJ
    Velicer, WF
@@ -40435,7 +40435,7 @@ SN 0091-7435
 UT WOS:000186951100012
 PM 14636797
 ER
----
+
 PT J
 AU Brandstrom, S
    Richter, J
@@ -40475,7 +40475,7 @@ SN 0033-2941
 UT WOS:000188257600001
 PM 14765560
 ER
----
+
 PT J
 AU Liu, DH
    Singh, RP
@@ -40519,7 +40519,7 @@ SN 0360-4012
 UT WOS:000186348900010
 PM 14598300
 ER
----
+
 PT J
 AU Pachet, AK
    Wisniewski, AM
@@ -40567,7 +40567,7 @@ SN 0033-3158
 UT WOS:000187341200001
 PM 14504681
 ER
----
+
 PT J
 AU Noss, RF
 TI A checklist for wildlands network designs
@@ -40612,7 +40612,7 @@ Z9 30
 SN 0888-8892
 UT WOS:000185473000013
 ER
----
+
 PT J
 AU Pfefferbaum, A
    Adalsteinsson, E
@@ -40662,7 +40662,7 @@ SN 1053-1807
 UT WOS:000185630100005
 PM 14508779
 ER
----
+
 PT J
 AU Saucier, G
 TI Factor structure of English-language personality type-nouns
@@ -40697,7 +40697,7 @@ SN 0022-3514
 UT WOS:000185628000011
 PM 14561123
 ER
----
+
 PT J
 AU Taghavi, MR
    Dalgleish, T
@@ -40740,7 +40740,7 @@ SN 0144-6657
 UT WOS:000185847300001
 PM 14565889
 ER
----
+
 PT J
 AU Asendorpf, JB
 TI Head-to-head comparison of the predictive validity of personality types
@@ -40778,7 +40778,7 @@ Z9 51
 SN 0890-2070
 UT WOS:000186570900001
 ER
----
+
 PT J
 AU Parker, JDA
    Taylor, GJ
@@ -40825,7 +40825,7 @@ SN 0022-3999
 UT WOS:000185034100014
 PM 12932802
 ER
----
+
 PT J
 AU Campbell, A
    Walker, J
@@ -40873,7 +40873,7 @@ SN 0004-8674
 UT WOS:000184336000013
 PM 12873334
 ER
----
+
 PT J
 AU Gratton, G
    Fabiani, M
@@ -40910,7 +40910,7 @@ SN 0048-5772
 UT WOS:000183733200009
 PM 14570164
 ER
----
+
 PT J
 AU Kafkafi, N
    Pagis, M
@@ -40956,7 +40956,7 @@ SN 0166-4328
 UT WOS:000183679600021
 PM 12798281
 ER
----
+
 PT J
 AU Sarason, SB
 TI The obligations of the moral-scientific stance
@@ -40982,7 +40982,7 @@ SN 0091-0562
 UT WOS:000183206100002
 PM 12866678
 ER
----
+
 PT J
 AU Kafkafi, N
    Lipkind, D
@@ -41024,7 +41024,7 @@ SN 0735-7044
 UT WOS:000183073600006
 PM 12802875
 ER
----
+
 PT J
 AU Mandara, J
 TI The typological approach in child and family psychology: A review of
@@ -41059,7 +41059,7 @@ SN 1096-4037
 UT WOS:000182848300004
 PM 12836581
 ER
----
+
 PT J
 AU Egger, J
    De Mey, H
@@ -41099,7 +41099,7 @@ Z9 5
 SN 1046-1310
 UT WOS:000189113800003
 ER
----
+
 PT J
 AU Smith, MD
 TI The role of the experimenter in parapsychological research
@@ -41131,7 +41131,7 @@ Z9 7
 SN 1355-8250
 UT WOS:000184746100005
 ER
----
+
 PT J
 AU Amin, Sanjiv B
    Orlando, Mark S
@@ -41187,7 +41187,7 @@ SN 0743-8346
 UT MEDLINE:12774139
 PM 12774139
 ER
----
+
 PT J
 AU Keshvad, Alireza
    Winstanley, Raymond B
@@ -41242,7 +41242,7 @@ SN 1059-941X
 UT MEDLINE:12964681
 PM 12964681
 ER
----
+
 PT J
 AU Cacace, AT
    McFarland, DJ
@@ -41279,7 +41279,7 @@ SN 0304-3940
 UT WOS:000182346700020
 PM 12697295
 ER
----
+
 PT J
 AU Kafkafi, N
 TI Extending SEE for large-scale phenotyping of mouse open-field behavior
@@ -41315,7 +41315,7 @@ SN 0743-3808
 UT WOS:000183734700016
 PM 12834087
 ER
----
+
 PT J
 AU McArthur, GM
    Bishop, DVM
@@ -41355,7 +41355,7 @@ SN 0743-3808
 UT WOS:000183734700022
 PM 12834093
 ER
----
+
 PT J
 AU Leduc, Julie
    Fishelberg, Gerald
@@ -41380,7 +41380,7 @@ SN 0363-6771
 UT MEDLINE:15055706
 PM 15055706
 ER
----
+
 PT J
 AU Voracek, M
    Formann, AK
@@ -41432,7 +41432,7 @@ SN 0165-0327
 UT WOS:000183025700006
 PM 12738044
 ER
----
+
 PT J
 AU Aluja, A
    Blanch, A
@@ -41471,7 +41471,7 @@ Z9 2
 SN 0214-9915
 UT WOS:000182634600024
 ER
----
+
 PT J
 AU Hoodin, F
    Weber, S
@@ -41510,7 +41510,7 @@ SN 0033-3182
 UT WOS:000182556300001
 PM 12724499
 ER
----
+
 PT J
 AU Guimarey, L
    Morcillo, AM
@@ -41553,7 +41553,7 @@ SN 0334-018X
 UT WOS:000184965500008
 PM 12793606
 ER
----
+
 PT J
 AU Stanford, RG
 TI Research strategies for enhancing conceptual development and
@@ -41585,7 +41585,7 @@ Z9 1
 SN 0022-3387
 UT WOS:000183699900002
 ER
----
+
 PT J
 AU Egger, JIM
    De Mey, HRA
@@ -41626,7 +41626,7 @@ SN 1040-3590
 UT WOS:000181589700008
 PM 12674727
 ER
----
+
 PT J
 AU Salthouse, TA
    Ferrer-Caja, E
@@ -41660,7 +41660,7 @@ SN 0882-7974
 UT WOS:000181476200008
 PM 12641315
 ER
----
+
 PT J
 AU Rhodes, RE
    Courneya, KS
@@ -41702,7 +41702,7 @@ SN 1359-107X
 UT WOS:000180866200002
 PM 12643814
 ER
----
+
 PT J
 AU Fan, XT
 TI Using commonly available software for bootstrapping in both substantive
@@ -41737,7 +41737,7 @@ Z9 31
 SN 0013-1644
 UT WOS:000180547100002
 ER
----
+
 PT P
 AU QUADRANTI L L B
    MOJSILOVIC A
@@ -41767,7 +41767,7 @@ AB
 Z9 0
 UT DIIDW:2003842312
 ER
----
+
 PT S
 AU Adams, B
    Lipson, H
@@ -41810,7 +41810,7 @@ SN 0302-9743
 BN 3-540-20057-6
 UT WOS:000187009400001
 ER
----
+
 PT J
 AU Trigo, E. J.
    Cap, E. J.
@@ -41847,7 +41847,7 @@ ZS 2
 Z9 33
 UT CABI:20063089880
 ER
----
+
 PT S
 AU Bouckaert, RR
 BE Gedeon, TD
@@ -41895,7 +41895,7 @@ SN 0302-9743
 BN 3-540-20646-9
 UT WOS:000187551700061
 ER
----
+
 PT J
 AU Fossati, A
    Maffei, C
@@ -41929,7 +41929,7 @@ Z9 37
 SN 1015-5759
 UT WOS:000181687100005
 ER
----
+
 PT J
 AU Terracciano, A
    McCrae, RR
@@ -41969,7 +41969,7 @@ Z9 59
 SN 1015-5759
 UT WOS:000182635000006
 ER
----
+
 PT B
 AU Palaniappan, C.
 TI Cleaner, safer food: India.
@@ -41998,7 +41998,7 @@ ZS 0
 Z9 0
 UT CABI:20073141477
 ER
----
+
 PT B
 AU Quyen, N. H.
    Khoi, P. H.
@@ -42025,7 +42025,7 @@ ZS 0
 Z9 0
 UT CABI:20073022684
 ER
----
+
 PT J
 AU Chang, C. A.
 TI Advanced technology for producing healthy seeds or vegetative materials.
@@ -42054,7 +42054,7 @@ Z9 0
 SN 0379-7587
 UT CABI:20043034030
 ER
----
+
 PT S
 AU Rowshan, S
    Smith, MC
@@ -42107,7 +42107,7 @@ SN 0361-1981
 BN 0-309-08560-8
 UT WOS:000186288100007
 ER
----
+
 PT J
 AU Parayil, G
    Sreekumar, TT
@@ -42144,7 +42144,7 @@ Z9 7
 SN 0047-2336
 UT WOS:000186036600003
 ER
----
+
 PT J
 AU Chauton, MS
    Optun, OI
@@ -42188,7 +42188,7 @@ Z9 18
 SN 0171-8630
 UT WOS:000184808900005
 ER
----
+
 PT J
 AU Hart, D
    Atkins, R
@@ -42225,7 +42225,7 @@ Z9 39
 SN 0037-976X
 UT WOS:000183913600001
 ER
----
+
 PT J
 AU Bann, CM
    Fehnel, SE
@@ -42272,7 +42272,7 @@ SN 1170-7690
 UT WOS:000187027800004
 PM 14986739
 ER
----
+
 PT B
 AU Nour Hussein Ali
    Silva, J.
@@ -42317,7 +42317,7 @@ Z9 0
 BN 0-88986-392-X
 UT INSPEC:8064916
 ER
----
+
 PT J
 AU Helton, R. R.
    Cottrell, M. T.
@@ -42377,7 +42377,7 @@ Z9 0
 SN 1060-2011 ISSN 
 UT BCI:BCI200300534188
 ER
----
+
 PT J
 AU Lawler, Sharon P.
 TI Should ecologists throw away their petri dishes and aquaria?
@@ -42402,7 +42402,7 @@ ZS 0
 Z9 0
 UT BCI:BCI200300527998
 ER
----
+
 PT B
 AU Ndayishimiye, L.
 TI Rural solar electrification: Burundi.
@@ -42424,7 +42424,7 @@ ZS 0
 Z9 0
 UT CABI:20073022683
 ER
----
+
 PT B
 AU Pachauri, R. K.
 TI Biomass gasification for the silk industry: India.
@@ -42454,7 +42454,7 @@ ZS 0
 Z9 0
 UT CABI:20073021801
 ER
----
+
 PT J
 AU Perry, L
    Morgan, J
@@ -42508,7 +42508,7 @@ SN 0276-3478
 UT WOS:000179008800009
 PM 12386911
 ER
----
+
 PT J
 AU Hossain, M
 TI Kerala: The development experience: Reflections on sustainability and
@@ -42529,7 +42529,7 @@ Z9 0
 SN 0021-9118
 UT WOS:000180381300073
 ER
----
+
 PT J
 AU Volkow, ND
    Wang, GJ
@@ -42573,7 +42573,7 @@ SN 0887-4476
 UT WOS:000178413700005
 PM 12211085
 ER
----
+
 PT J
 AU Schnyer, RN
    Allen, JJB
@@ -42624,7 +42624,7 @@ SN 1075-5535
 UT WOS:000179089100017
 PM 12470444
 ER
----
+
 PT J
 AU Schulte, LA
    Mladenoff, DJ
@@ -42669,7 +42669,7 @@ Z9 43
 SN 0045-5067
 UT WOS:000178510700011
 ER
----
+
 PT J
 AU Abbott, J
 TI A method-based planning framework for informal settlement upgrading
@@ -42704,7 +42704,7 @@ Z9 6
 SN 0197-3975
 UT WOS:000175738100002
 ER
----
+
 PT J
 AU Haraldsson, E
    Houtkooper, JM
@@ -42751,7 +42751,7 @@ Z9 0
 SN 0022-3387
 UT WOS:000179257100002
 ER
----
+
 PT J
 AU Weir, RC
    Gjerde, PF
@@ -42789,7 +42789,7 @@ Z9 23
 SN 0146-1672
 UT WOS:000177453300008
 ER
----
+
 PT J
 AU Epstein, EE
    Labouvie, E
@@ -42852,7 +42852,7 @@ SN 0965-2140
 UT WOS:000177396000019
 PM 12144607
 ER
----
+
 PT J
 AU Yang, YH
    Speed, T
@@ -42884,7 +42884,7 @@ SN 1471-0056
 UT WOS:000177353200011
 PM 12154381
 ER
----
+
 PT J
 AU Steed, LG
 TI A psychometric comparison of four measures of hope and optimism
@@ -42919,7 +42919,7 @@ Z9 24
 SN 0013-1644
 UT WOS:000175806800005
 ER
----
+
 PT J
 AU Browder, JO
 TI Conservation and development projects in the Brazilian Amazon: Lessons
@@ -42976,7 +42976,7 @@ SN 0364-152X
 UT WOS:000175552200003
 PM 11992169
 ER
----
+
 PT J
 AU Tonigan, JS
    Miller, WR
@@ -43011,7 +43011,7 @@ SN 0893-164X
 UT WOS:000176233400012
 PM 12079257
 ER
----
+
 PT J
 AU Yoon, K
    Schmidt, F
@@ -43048,7 +43048,7 @@ Z9 16
 SN 0022-0221
 UT WOS:000175134200001
 ER
----
+
 PT J
 AU Blanchard, EB
 TI Biofeedback and hypertension: A deja vu experience - Comments on Yucha's
@@ -43074,7 +43074,7 @@ SN 1090-0586
 UT WOS:000175059600005
 PM 12001883
 ER
----
+
 PT J
 AU Barbaranelli, C
 TI Evaluating cluster analysis solutions: An application to the Italian NEO
@@ -43114,7 +43114,7 @@ Z9 24
 SN 0890-2070
 UT WOS:000175181200004
 ER
----
+
 PT J
 AU Boehm, B
    Asendorpf, JB
@@ -43155,7 +43155,7 @@ Z9 14
 SN 0890-2070
 UT WOS:000175181200003
 ER
----
+
 PT J
 AU Costa, PT
    Herbst, JH
@@ -43209,7 +43209,7 @@ Z9 39
 SN 0890-2070
 UT WOS:000175181200006
 ER
----
+
 PT J
 AU De Fruyt, F
    Mervielde, I
@@ -43255,7 +43255,7 @@ Z9 44
 SN 0890-2070
 UT WOS:000175181200005
 ER
----
+
 PT J
 AU Schnabel, K
    Asendorpf, JB
@@ -43293,7 +43293,7 @@ Z9 17
 SN 0890-2070
 UT WOS:000175181200002
 ER
----
+
 PT J
 AU Schmidt, S
 TI Research on 'after-death communication' with psychophysiological
@@ -43315,7 +43315,7 @@ Z9 1
 SN 1424-7364
 UT WOS:000174421100013
 ER
----
+
 PT J
 AU Prinz, RJ
 TI Commentary - The Fast Track Project: A seminal intervention efficacy
@@ -43343,7 +43343,7 @@ SN 0091-0627
 UT WOS:000174410800005
 PM 11930972
 ER
----
+
 PT P
 AU IIJIMA S
    KAMIHIRA M
@@ -43359,7 +43359,7 @@ AE KANEKA CORP; IIJAMA S; KAMIHIRA M; NISHIJIMA K; MIZUARAI S; ONO K
 Z9 0
 UT DIIDW:2002537601
 ER
----
+
 PT B
 AU Chuang, E.
    Yamatsu, H.
@@ -43408,7 +43408,7 @@ Z9 0
 BN 0-7803-7379-0
 UT INSPEC:7492314
 ER
----
+
 PT J
 AU Murphy, KA
    Gillett-Netting, R
@@ -43431,7 +43431,7 @@ Z9 0
 SN 1042-0533
 UT WOS:000173096800076
 ER
----
+
 PT J
 AU Masanjala, WH
 TI Can the Grameen bank be replicated in Africa? Evidence from Malawi
@@ -43463,7 +43463,7 @@ Z9 1
 SN 0225-5189
 UT WOS:000177715400005
 ER
----
+
 PT B
 AU Fermet-Quinet, E.
    Gauthier, J.
@@ -43489,7 +43489,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073885
 ER
----
+
 PT B
 AU Rodriguez, R.
    Rodriguez, T.
@@ -43516,7 +43516,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073887
 ER
----
+
 EF﻿FN Thomson Reuters Web of Science™
 VR 1.0
 PT B
@@ -43544,7 +43544,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073895
 ER
----
+
 PT J
 AU Sanderson, H
 TI Pesticide studies - Replicability of micro/mesocosms
@@ -43591,7 +43591,7 @@ SN 0944-1344
 UT WOS:000179435400013
 PM 12515353
 ER
----
+
 PT J
 AU Ashton, MC
    Lee, K
@@ -43625,7 +43625,7 @@ Z9 17
 SN 0890-2070
 UT WOS:000174001000004
 ER
----
+
 PT B
 AU Panayotou, T
 GP UNDESA
@@ -43679,7 +43679,7 @@ Z9 0
 BN 92-1-104512-6
 UT WOS:000227643500017
 ER
----
+
 PT S
 AU Klein, SA
    Corzine, J
@@ -43728,7 +43728,7 @@ SN 0277-786X
 BN 0-8194-4350-6
 UT WOS:000177417400022
 ER
----
+
 PT J
 AU Matuszczak, M.
 TI The use of AFLP method for analysis of winter oilseed rape DNA.
@@ -43762,7 +43762,7 @@ Z9 0
 SN 1233-8273
 UT CABI:20033117211
 ER
----
+
 PT J
 AU Itakura, H
    Ozaki, K
@@ -43793,7 +43793,7 @@ Z9 0
 SN 0913-1442
 UT WOS:000177608700004
 ER
----
+
 PT B
 AU Webb, T.
    Cary, J.
@@ -43823,7 +43823,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073882
 ER
----
+
 PT B
 AU Hassanullah, M.
 BE Rivera, W. M.
@@ -43852,7 +43852,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073884
 ER
----
+
 PT B
 AU Seepersad, J.
    Ganpat, W.
@@ -43880,7 +43880,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073888
 ER
----
+
 PT B
 AU Dinh Duc Thuan
    Nguyen Ba Ngai
@@ -43910,7 +43910,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073889
 ER
----
+
 PT B
 AU Cristovao, A.
    Alves, F.
@@ -43938,7 +43938,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073890
 ER
----
+
 PT B
 AU Barnett, J.
    Verma, S.
@@ -43964,7 +43964,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073891
 ER
----
+
 PT B
 AU Liu YongGong
 BE Rivera, W. M.
@@ -43990,7 +43990,7 @@ Z9 0
 BN 0-85199-571-3
 UT CABI:20023073892
 ER
----
+
 PT J
 AU Naveen Prakash
 TI Evaluating the impacts of the Gyandoot project.
@@ -44015,7 +44015,7 @@ Z9 0
 SN 0250-6505
 UT CABI:20033163803
 ER
----
+
 PT J
 AU Lalonde, R.
    Eyer, J.
@@ -44063,7 +44063,7 @@ ZS 0
 Z9 0
 UT BCI:BCI200300381001
 ER
----
+
 PT J
 AU Tsaousis, I
    Nikolaou, IE
@@ -44099,7 +44099,7 @@ Z9 10
 SN 0965-075X
 UT WOS:000172933300002
 ER
----
+
 PT J
 AU Dezfuli, BS
    Giari, L
@@ -44146,7 +44146,7 @@ SN 0022-149X
 UT WOS:000172904500006
 PM 11818049
 ER
----
+
 PT J
 AU Belknap, JK
    Atkins, AL
@@ -44188,7 +44188,7 @@ SN 0938-8990
 UT WOS:000172358900004
 PM 11707775
 ER
----
+
 PT J
 AU Kujala, T
    Kallio, J
@@ -44235,7 +44235,7 @@ SN 1388-2457
 UT WOS:000170676400016
 PM 11514254
 ER
----
+
 PT J
 AU Miller, B
    Townsend, A
@@ -44285,7 +44285,7 @@ SN 1079-5014
 UT WOS:000169585000012
 PM 11445617
 ER
----
+
 PT J
 AU Kuhberger, A
    Komunska, D
@@ -44319,7 +44319,7 @@ Z9 18
 SN 0749-5978
 UT WOS:000170413200004
 ER
----
+
 PT J
 AU Ilvonen, TM
    Kujala, T
@@ -44365,7 +44365,7 @@ SN 0048-5772
 UT WOS:000169519400003
 PM 11446575
 ER
----
+
 PT J
 AU Versace, R
    Allain, G
@@ -44403,7 +44403,7 @@ SN 0001-6918
 UT WOS:000169972800005
 PM 11485194
 ER
----
+
 PT J
 AU Maratsos, M
 TI We should not impose narrow restrictions on psychological methods
@@ -44427,7 +44427,7 @@ Z9 0
 SN 0140-525X
 UT WOS:000171155500024
 ER
----
+
 PT J
 AU Hertwig, R
    Ortmann, A
@@ -44459,7 +44459,7 @@ Z9 4
 SN 0140-525X
 UT WOS:000171155500036
 ER
----
+
 PT J
 AU Perlis, ML
    Sharpe, M
@@ -44500,7 +44500,7 @@ SN 0160-7715
 UT WOS:000169513600005
 PM 11436547
 ER
----
+
 PT J
 AU Deisinger, JA
    Cassisi, JE
@@ -44540,7 +44540,7 @@ SN 0021-9762
 UT WOS:000168944100006
 PM 11344464
 ER
----
+
 PT J
 AU Barrera, M
    Biglan, A
@@ -44584,7 +44584,7 @@ Z9 53
 SN 0272-4316
 UT WOS:000168105800001
 ER
----
+
 PT J
 AU Chambers, FM
    Blackford, JJ
@@ -44635,7 +44635,7 @@ Z9 32
 SN 0267-8179
 UT WOS:000169009600005
 ER
----
+
 PT J
 AU Dalebout, S D
    Fox, L G
@@ -44666,7 +44666,7 @@ SN 1050-0545
 UT MEDLINE:11392436
 PM 11392436
 ER
----
+
 PT J
 AU Amin, SB
    Ahlfors, C
@@ -44730,7 +44730,7 @@ SN 0031-4005
 UT WOS:000168116200031
 PM 11335741
 ER
----
+
 PT J
 AU Gould, RA
    Mueser, KT
@@ -44769,7 +44769,7 @@ SN 0920-9964
 UT WOS:000168220300017
 PM 11295385
 ER
----
+
 PT J
 AU Gould, Robert A.
    Mueser, Kim T.
@@ -44805,7 +44805,7 @@ Z9 0
 SN 0920-9964
 UT BIOSIS:PREV200100237738
 ER
----
+
 PT J
 AU Kozyrev, IL
    Ibuki, K
@@ -44851,7 +44851,7 @@ SN 0042-6822
 UT WOS:000167800800002
 PM 11259185
 ER
----
+
 PT J
 AU Nimgaonkar, VL
    Faraone, SV
@@ -44877,7 +44877,7 @@ SN 0148-7299
 UT WOS:000167862100001
 PM 11304825
 ER
----
+
 PT J
 AU Oishi, S
    Schimmack, U
@@ -44916,7 +44916,7 @@ Z9 27
 SN 0890-2070
 UT WOS:000168054200005
 ER
----
+
 PT J
 AU Hendon, D
    Charman, DJ
@@ -44965,7 +44965,7 @@ Z9 79
 SN 0959-6836
 UT WOS:000167169700001
 ER
----
+
 PT J
 AU Deacon, BJ
    Valentiner, DP
@@ -45004,7 +45004,7 @@ Z9 29
 SN 0882-2689
 UT WOS:000168862700004
 ER
----
+
 PT J
 AU Gerald, MS
    Bernstein, J
@@ -45038,7 +45038,7 @@ SN 0275-2565
 UT WOS:000166802600003
 PM 11170169
 ER
----
+
 PT J
 AU Bradley, RG
    Follingstad, DR
@@ -45081,7 +45081,7 @@ SN 0272-7358
 UT WOS:000165879200001
 PM 11148891
 ER
----
+
 PT J
 AU Caquet, T
    Lagadic, L
@@ -45133,7 +45133,7 @@ SN 0963-9292
 UT WOS:000166612800004
 PM 11227818
 ER
----
+
 PT J
 AU Gerald, Melissa S.
    Bernstein, John
@@ -45165,7 +45165,7 @@ Z9 0
 SN 0275-2565
 UT BIOSIS:PREV200100129401
 ER
----
+
 PT J
 AU Riehle, MM
    Bennett, AF
@@ -45211,7 +45211,7 @@ SN 0027-8424
 UT WOS:000166485300032
 PM 11149947
 ER
----
+
 PT P
 AU HERBERT A
    O'REILLY F
@@ -45229,7 +45229,7 @@ AE HERBERT A; O'REILLY F; BRADDELL J; DOBBYN P; OREILLY F; DOW CORNING LTD;
 Z9 0
 UT DIIDW:2001581854
 ER
----
+
 PT J
 AU Krueger, J
 TI Null hypothesis significance testing - On the survival of a flawed
@@ -45263,7 +45263,7 @@ SN 0003-066X
 UT WOS:000170458700002
 PM 11242984
 ER
----
+
 PT B
 AU Haukvik, IV
    Skoien, RM
@@ -45306,7 +45306,7 @@ Z9 1
 BN 1-58603-195-3
 UT WOS:000173832400108
 ER
----
+
 PT J
 AU Nasir, M.L.
    John, R.I.
@@ -45345,7 +45345,7 @@ Z9 1
 SN 1065-0741
 UT INSPEC:6889055
 ER
----
+
 PT J
 AU Fletcher, R
    Reynoldson, TB
@@ -45382,7 +45382,7 @@ SN 0269-7491
 UT WOS:000171915200004
 PM 11706791
 ER
----
+
 PT J
 AU Pastorelli, C
    Caprara, GV
@@ -45428,7 +45428,7 @@ Z9 49
 SN 1015-5759
 UT WOS:000177291900002
 ER
----
+
 PT B
 AU Noguchi, H
    Murakawa, M
@@ -45460,7 +45460,7 @@ Z9 1
 BN 0-7923-7414-2
 UT WOS:000174008900068
 ER
----
+
 PT J
 AU Agrell, PJ
    Tind, J
@@ -45497,7 +45497,7 @@ Z9 25
 SN 0895-562X
 UT WOS:000170648300002
 ER
----
+
 PT J
 AU Steinka, I.
 TI Assessment of results replicability of staphylococci identification in
@@ -45519,7 +45519,7 @@ SN 1373-7503
 UT BCI:BCI200200009058
 PM 15954669
 ER
----
+
 PT J
 AU Homedes, N
    Ugalde, A
@@ -45559,7 +45559,7 @@ SN 0301-0422
 UT MEDLINE:12418708
 PM 12418708
 ER
----
+
 PT J
 AU Kafkafi, N.
    Lipkind, D.
@@ -45610,7 +45610,7 @@ Z9 0
 SN 0190-5295
 UT BCI:BCI200200003740
 ER
----
+
 PT S
 AU [Anonymous]
 TI Proceedings of the 10th Stockholm Water Symposium 'Water Security for
@@ -45645,7 +45645,7 @@ SN 0273-1223
 BN 1-900222-65-5
 UT CABI:20013042931
 ER
----
+
 PT J
 AU Bath, VJ
    Lundqvist, J
@@ -45680,7 +45680,7 @@ SN 0273-1223
 UT WOS:000168031800019
 PM 11379204
 ER
----
+
 PT J
 AU Zhong XiaoXian
    Bai ShuJuan
@@ -45715,7 +45715,7 @@ Z9 0
 SN 1004-5759
 UT CABI:20013138719
 ER
----
+
 PT J
 AU Nolan, T. M.
 TI Community based forest management: commercial harvesting of the
@@ -45760,7 +45760,7 @@ Z9 1
 SN 1465-5489
 UT CABI:20013169214
 ER
----
+
 PT J
 AU Taylor, S. J.
    McAndrews, M. P.
@@ -45810,7 +45810,7 @@ Z9 0
 SN 0190-5295
 UT BCI:BCI200100520674
 ER
----
+
 PT J
 AU Xu, Y.
    Kanwisher, N. G.
@@ -45859,7 +45859,7 @@ Z9 0
 SN 0190-5295
 UT BCI:BCI200100520301
 ER
----
+
 PT B
 AU Faye, A.
    Antoine, P.
@@ -45898,7 +45898,7 @@ Z9 0
 BN 92-9066-433-9
 UT CABI:20013118892
 ER
----
+
 PT J
 AU Bandaragoda, D. J.
 TI Pakistans efforts in institutional reforms for participatory water
@@ -45958,7 +45958,7 @@ Z9 0
 SN 0049-8602
 UT CABI:20013140181
 ER
----
+
 PT J
 AU Hughes, SL
    Weaver, FM
@@ -46032,7 +46032,7 @@ SN 0098-7484
 UT WOS:000165717000027
 PM 11147984
 ER
----
+
 PT J
 AU Nofzinger, EA
 TI Insights from functional neuroimaging studies of behavioral state
@@ -46059,7 +46059,7 @@ Z9 0
 SN 0140-525X
 UT WOS:000170102400056
 ER
----
+
 PT J
 AU Barbiero, RP
 TI A multi-lake comparison of epilithic diatom communities on natural and
@@ -46094,7 +46094,7 @@ Z9 30
 SN 0018-8158
 UT WOS:000166048100013
 ER
----
+
 PT J
 AU Preville, X
    Nicolas, L
@@ -46140,7 +46140,7 @@ SN 0022-1759
 UT WOS:000090108100004
 PM 11042282
 ER
----
+
 PT J
 AU Freitag, L
    Litterst, P
@@ -46190,7 +46190,7 @@ SN 0934-8387
 UT MEDLINE:11132543
 PM 11132543
 ER
----
+
 PT J
 AU Niznikiewicz, MA
    Voglmaier, MM
@@ -46233,7 +46233,7 @@ SN 0006-3223
 UT WOS:000089953100009
 PM 11032982
 ER
----
+
 PT J
 AU Vincent, ML
    Paine-Andrews, A
@@ -46272,7 +46272,7 @@ Z9 3
 SN 0160-6379
 UT WOS:000089168300005
 ER
----
+
 PT J
 AU Huestis, MA
    Cone, EJ
@@ -46299,7 +46299,7 @@ SN 0146-4760
 UT WOS:000089700100007
 PM 11043653
 ER
----
+
 PT J
 AU Fernandez, AS
    Hashsham, SA
@@ -46358,7 +46358,7 @@ SN 0099-2240
 UT WOS:000089109200057
 PM 10966429
 ER
----
+
 PT J
 AU Wall, PM
    Messier, C
@@ -46416,7 +46416,7 @@ SN 0166-4328
 UT WOS:000089176400022
 PM 10996061
 ER
----
+
 PT J
 AU Kamete, AY
 TI The practice of cost recovery in urban low-income housing: a discourse
@@ -46467,7 +46467,7 @@ Z9 0
 SN 0197-3975
 UT WOS:000087682800001
 ER
----
+
 PT J
 AU Borras, A
    Pascual, J
@@ -46518,7 +46518,7 @@ Z9 4
 SN 0273-8570
 UT WOS:000166325300004
 ER
----
+
 PT J
 AU Amin, SB
    Merle, KS
@@ -46565,7 +46565,7 @@ SN 0031-4005
 UT WOS:000088538100028
 PM 10920158
 ER
----
+
 PT J
 AU Cox, BJ
    Enns, MW
@@ -46607,7 +46607,7 @@ SN 0933-7954
 UT WOS:000089487100004
 PM 11037304
 ER
----
+
 PT J
 AU Kolk, AM
    Schipper, JL
@@ -46648,7 +46648,7 @@ SN 0146-8693
 UT WOS:000088202700004
 PM 10880062
 ER
----
+
 PT J
 AU Hanczyc, Martin M.
    Dorit, Robert L.
@@ -46687,7 +46687,7 @@ Z9 0
 SN 0737-4038
 UT BIOSIS:PREV200000349015
 ER
----
+
 PT J
 AU Hanczyc, MM
    Dorit, RL
@@ -46727,7 +46727,7 @@ SN 0737-4038
 UT WOS:000087874900007
 PM 10889218
 ER
----
+
 PT J
 AU Fiedler, JL
 TI The Nepal National Vitamin A Program: prototype to emulate or donor
@@ -46778,7 +46778,7 @@ SN 0268-1080
 UT WOS:000087799300004
 PM 10837037
 ER
----
+
 PT J
 AU Rolland, JP
 TI Examination of the cross cultural replicability of the French NEO-PI-R
@@ -46799,7 +46799,7 @@ Z9 0
 SN 0020-7594
 UT WOS:000088388802681
 ER
----
+
 PT J
 AU Ickes, W
    Buysse, A
@@ -46843,7 +46843,7 @@ Z9 26
 SN 1350-4126
 UT WOS:000086809100006
 ER
----
+
 PT J
 AU Kallasmaa, T
    Allik, J
@@ -46890,7 +46890,7 @@ Z9 49
 SN 0890-2070
 UT WOS:000087799900005
 ER
----
+
 PT J
 AU Morris, SS
    Carletto, C
@@ -46938,7 +46938,7 @@ SN 0143-005X
 UT WOS:000086520300014
 PM 10814660
 ER
----
+
 PT J
 AU Norman, GJ
    Velicer, WF
@@ -46989,7 +46989,7 @@ SN 0306-4603
 UT WOS:000085833900002
 PM 10795944
 ER
----
+
 PT J
 AU Escera, C
    Yago, E
@@ -47036,7 +47036,7 @@ SN 1388-2457
 UT WOS:000085744400023
 PM 10699418
 ER
----
+
 PT J
 AU Ilyin, SE
    Plata-Salaman, CR
@@ -47073,7 +47073,7 @@ SN 0165-0270
 UT WOS:000085512600004
 PM 10752482
 ER
----
+
 PT J
 AU Kennefick, D
 TI Star crushing: Theoretical practice and the theoreticians' regress
@@ -47109,7 +47109,7 @@ Z9 14
 SN 0306-3127
 UT WOS:000085515700001
 ER
----
+
 PT J
 AU Uwer, R
    von Suchodoletz, W
@@ -47151,7 +47151,7 @@ SN 1388-2457
 UT WOS:000084557200008
 PM 10656510
 ER
----
+
 PT J
 AU Eijkenboom, M
    Blokland, A
@@ -47207,7 +47207,7 @@ SN 0306-4522
 UT WOS:000165265200005
 PM 11068134
 ER
----
+
 PT B
 AU Caldwell, A.E.
    Kahng, A.B.
@@ -47254,7 +47254,7 @@ Z9 50
 BN 0-7803-5973-9
 UT INSPEC:6597083
 ER
----
+
 PT B
 AU Kwak, Y.H.
    William, C.
@@ -47293,7 +47293,7 @@ Z9 0
 BN 0-7803-6442-2
 UT INSPEC:6788833
 ER
----
+
 PT J
 AU Llobell, JP
    Perez, JFG
@@ -47329,7 +47329,7 @@ Z9 5
 SN 0214-9915
 UT WOS:000087685900096
 ER
----
+
 PT J
 AU Tapsoba, H
    Deschamps, JP
@@ -47375,7 +47375,7 @@ SN 0962-9343
 UT WOS:000165382200008
 PM 11190010
 ER
----
+
 PT J
 AU Orsini, J. B.
 TI Success case replication: a manual for increasing farmer household
@@ -47407,7 +47407,7 @@ Z9 0
 SN 1014-191X
 UT CABI:20003019418
 ER
----
+
 PT J
 AU Caquet, T
    Lagadic, L
@@ -47429,7 +47429,7 @@ SN 0179-5953
 UT WOS:000089327200001
 PM 10761444
 ER
----
+
 PT B
 BE Parayil, G.
 TI Kerala: the development experience. Reflections on sustainability and
@@ -47466,7 +47466,7 @@ Z9 0
 BN 1-85649-727-5
 UT CABI:20001811145
 ER
----
+
 PT J
 AU Ferbinteanu, J. D.
    McDonald, R. J.
@@ -47512,7 +47512,7 @@ Z9 0
 SN 0190-5295
 UT BCI:BCI200100077190
 ER
----
+
 PT J
 AU Spong, C. Y.
    Abebe, D. T.
@@ -47565,7 +47565,7 @@ Z9 0
 SN 0190-5295
 UT BCI:BCI200100089801
 ER
----
+
 PT B
 AU Rijal, K.
    Thapa, R.
@@ -47612,5 +47612,5 @@ Z9 0
 BN 92-9115-202-1
 UT CABI:20013018973
 ER
+
 EF
----

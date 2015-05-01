@@ -42,7 +42,7 @@ SN 1570-0232
 UT WOS:000348620200012
 PM 25497496
 ER
----
+
 PT J
 AU Hazra, A.
    Dutta, K.
@@ -89,7 +89,7 @@ Z9 1
 SN 1530-437X
 UT WOS:000351220200015
 ER
----
+
 PT J
 AU Bonanno, Giovanni
    Marano, Davide
@@ -131,7 +131,7 @@ Z9 1
 SN 1530-437X
 UT WOS:000341709800006
 ER
----
+
 PT J
 AU Bonanno, Giovanni
    Marano, Davide
@@ -175,7 +175,7 @@ Z9 1
 SN 1530-437X
 UT WOS:000341709800007
 ER
----
+
 PT J
 AU Yibar, Artun
    Ozcan, Ali
@@ -219,7 +219,7 @@ Z9 0
 SN 1300-6045
 UT WOS:000333080600018
 ER
----
+
 PT J
 AU Pinto, F. S. T.
    Fogliatto, F. S.
@@ -266,7 +266,7 @@ Z9 1
 SN 0950-3293
 UT WOS:000328597500007
 ER
----
+
 PT J
 AU Coscolla, Clara
    Navarro-Olivares, Santiago
@@ -321,7 +321,7 @@ SN 0039-9140
 UT WOS:000331670700078
 PM 24401454
 ER
----
+
 PT J
 AU Chlup, R.
    Zapletalova, J.
@@ -347,7 +347,7 @@ Z9 0
 SN 1520-9156
 UT WOS:000331218000350
 ER
----
+
 PT J
 AU Chang Xiaofeng
    Song Jun
@@ -384,7 +384,7 @@ Z9 0
 SN 1001-6392
 UT CSCD:5310991
 ER
----
+
 PT J
 AU Sierra, Noralba
    Gómez, Gustavo
@@ -437,7 +437,7 @@ Z9 0
 SN 0034-7418
 UT SCIELO:S0034-74182014000100001
 ER
----
+
 PT B
 AU Yakun Yu
    Fangming Ruan
@@ -478,7 +478,7 @@ Z9 0
 BN 978-1-4799-3544-4
 UT INSPEC:14792041
 ER
----
+
 PT J
 AU Pascu, A. R.
    Timar-Gabor, A.
@@ -504,7 +504,7 @@ Z9 0
 SN 1221-1451
 UT WOS:000342035600024
 ER
----
+
 PT J
 AU Zhang Ruihua
    Li Liqin
@@ -566,7 +566,7 @@ Z9 0
 SN 1674-0440
 UT CSCD:5125557
 ER
----
+
 PT J
 AU Li Xue-Min
    Jia Guang-Qun
@@ -611,7 +611,7 @@ Z9 0
 SN 0253-3820
 UT WOS:000333673500017
 ER
----
+
 PT J
 AU Zhou Haipeng
    Wen Jie
@@ -644,7 +644,7 @@ Z9 0
 SN 1001-5965
 UT INSPEC:14695472
 ER
----
+
 PT J
 AU Menda, Yusuf
    Ponto, Laura L. Boles
@@ -698,7 +698,7 @@ SN 0885-3177
 UT WOS:000330526100006
 PM 23587853
 ER
----
+
 PT J
 AU Chen, Jing
    Wang, Shu-Mei
@@ -742,7 +742,7 @@ SN 1001-5302
 UT MEDLINE:23944078
 PM 23944078
 ER
----
+
 PT J
 AU Chen Jing
    Wang Shumei
@@ -794,7 +794,7 @@ Z9 2
 SN 1001-5302
 UT CSCD:4984890
 ER
----
+
 PT J
 AU Rexhepi, F.
    Abazi, S.
@@ -828,7 +828,7 @@ Z9 0
 SN 1307-0428
 UT CABI:20133243518
 ER
----
+
 PT J
 AU Romero Martinez, K.
    Perez Guevara, M. T.
@@ -874,7 +874,7 @@ Z9 0
 SN 0375-0760
 UT CABI:20133107316
 ER
----
+
 PT J
 AU Laviola, Bruno Galveas
    Alves, Alexandre Alonso
@@ -918,7 +918,7 @@ Z9 9
 SN 0103-8478
 UT WOS:000303199800008
 ER
----
+
 PT J
 AU Sommella, Eduardo
    Cacciola, Francesco
@@ -962,7 +962,7 @@ SN 1615-9306
 UT WOS:000299548100007
 PM 22389907
 ER
----
+
 PT J
 AU Kang, Yuhong
    Verma, Mohini
@@ -995,7 +995,7 @@ Z9 2
 SN 2162-8742
 UT WOS:000318341000013
 ER
----
+
 PT J
 AU Li, Wei
    Wang, Xiaoru
@@ -1044,7 +1044,7 @@ Z9 1
 SN 0037-5349
 UT WOS:000316090900001
 ER
----
+
 PT J
 AU Yuhong Kang
    Verma, M.
@@ -1077,7 +1077,7 @@ Z9 0
 SN 2162-8742
 UT INSPEC:14293678
 ER
----
+
 PT J
 AU Zhang Shen
    Su Zexuan
@@ -1124,7 +1124,7 @@ Z9 0
 SN 1001-165X
 UT CSCD:4526910
 ER
----
+
 PT J
 AU Cristina Majarena-Bello, Ana
    Santolaria-Mazo, Jorge
@@ -1171,7 +1171,7 @@ Z9 2
 SN 0012-7361
 UT WOS:000299765400017
 ER
----
+
 PT J
 AU Gurses, Bengi
    Kilickesmez, Ozgur
@@ -1223,7 +1223,7 @@ SN 1305-3825
 UT WOS:000297602100004
 PM 21108183
 ER
----
+
 PT J
 AU Tagliafico, Alberto
    Calabrese, Massimo
@@ -1273,7 +1273,7 @@ SN 0938-7994
 UT WOS:000292311000024
 PM 21424901
 ER
----
+
 PT J
 AU Montinaro, L
    Bugiani, M
@@ -1306,7 +1306,7 @@ SN 1592-7830
 UT MEDLINE:23393858
 PM 23393858
 ER
----
+
 PT J
 AU Boccassini, Barbara
    Parravano, Mariacristina
@@ -1356,7 +1356,7 @@ ZS 0
 Z9 0
 UT BCI:BCI201200525405
 ER
----
+
 PT J
 AU Cho, Hong Je
    Myung, Seung-Woon
@@ -1393,13 +1393,8 @@ Z9 18
 SN 0253-2964
 UT WOS:000289038200022
 ER
-<<<<<<< Updated upstream:sample_wos_queries/Repeatibility.txt
 
 PT J
-=======
----
-PT B
->>>>>>> Stashed changes:sample_wos_queries/Repeatibility500.txt
 AU Bing, Shao
    Tao, Chen
 GP IEEE
@@ -1444,7 +1439,7 @@ Z9 0
 BN 978-1-4244-8755-4
 UT WOS:000296062500328
 ER
----
+
 PT S
 AU Rudack, Andrew C.
    Dailey, Michael
@@ -1489,7 +1484,7 @@ SN 1078-8743
 BN 978-1-61284-409-1
 UT WOS:000295477900051
 ER
----
+
 PT B
 AU Shao Bing
    Chen Tao
@@ -1530,7 +1525,7 @@ Z9 0
 BN 978-1-4244-8754-7
 UT INSPEC:12170483
 ER
----
+
 PT J
 AU Li Jia
    Zhao Guanfei
@@ -1616,7 +1611,7 @@ Z9 0
 SN 1009-9158
 UT CSCD:4362642
 ER
----
+
 PT J
 AU 곽주영
    최시환
@@ -1672,7 +1667,7 @@ Z9 0
 SN 0378-6471
 UT KJD:ART001526455
 ER
----
+
 PT J
 AU Oliveira, M. do S. P. de
    Farias Neto, J. T. de
@@ -1719,7 +1714,7 @@ Z9 0
 SN 1413-8263
 UT CABI:20123118172
 ER
----
+
 PT J
 AU Rodriguez-Matoso, D.
    Rodriguez-Ruiz, D.
@@ -1758,7 +1753,7 @@ Z9 4
 SN 1577-0354
 UT WOS:000285642400008
 ER
----
+
 PT J
 AU Hong, H.
    Shi, L.
@@ -1821,7 +1816,7 @@ Z9 0
 SN 1087-0156
 UT BCI:BCI201000638261
 ER
----
+
 PT J
 AU Hong, H.
    Shi, L.
@@ -1884,7 +1879,7 @@ Z9 0
 SN 1470-269X
 UT WOS:000285268700014
 ER
----
+
 PT J
 AU Ferreira, Reinaldo de Paula
    Vasconcelos, Edmar Soares de
@@ -1954,7 +1949,7 @@ Z9 1
 SN 0034-737X
 UT SCIELO:S0034-737X2010000500012
 ER
----
+
 PT J
 AU Hong, H.
    Shi, L.
@@ -2019,7 +2014,7 @@ SN 1470-269X
 UT WOS:000280709100012
 PM 20368714
 ER
----
+
 PT J
 AU Hevia, D.
    Mayo, J. C.
@@ -2081,7 +2076,7 @@ SN 1618-2642
 UT WOS:000277593200032
 PM 20383699
 ER
----
+
 PT J
 AU Dermis, S.
    Aydogan, E.
@@ -2127,7 +2122,7 @@ SN 0031-7144
 UT WOS:000276825800004
 PM 20383936
 ER
----
+
 PT B
 AU Sengul, G.
    Baysal, U.
@@ -2164,7 +2159,7 @@ Z9 0
 BN 978-1-4244-6380-0
 UT INSPEC:11441901
 ER
----
+
 PT J
 AU Silva, Liliana J. G.
    Pena, Angelina
@@ -2210,7 +2205,7 @@ SN 1618-2642
 UT WOS:000272910400029
 PM 19898819
 ER
----
+
 PT B
 AU Hui Guohua
 BE Luo, Q
@@ -2244,7 +2239,7 @@ Z9 0
 BN 978-0-87849-287-9
 UT WOS:000277153300255
 ER
----
+
 PT J
 AU Lai Rong
    Qiu Fubao
@@ -2297,7 +2292,7 @@ Z9 7
 SN 1004-4957
 UT CSCD:3925790
 ER
----
+
 PT J
 AU Sun Xiulan
    Yang Tingting
@@ -2346,7 +2341,7 @@ Z9 2
 SN 1004-4957
 UT CSCD:3925832
 ER
----
+
 PT J
 AU Kowalska, Anna
    Puscinska, Elzbieta
@@ -2407,7 +2402,7 @@ SN 0867-7077
 UT MEDLINE:20703999
 PM 20703999
 ER
----
+
 PT J
 AU Ferreira, R. de P.
    Vasconcelos, E. S. de
@@ -2455,7 +2450,7 @@ Z9 0
 SN 0034-737X
 UT CABI:20113040054
 ER
----
+
 PT J
 AU Dossi, Nicolo
    Susmel, Sabina
@@ -2503,7 +2498,7 @@ SN 0173-0835
 UT WOS:000271154100023
 PM 19802854
 ER
----
+
 PT J
 AU Guerra-Iglesias, Danilo
    Luis Espinoza-Villavicencio, Jose
@@ -2546,7 +2541,7 @@ Z9 1
 SN 0040-1889
 UT WOS:000267271200003
 ER
----
+
 PT J
 AU Sato, Fumiaki
    Myomoto, Akira
@@ -2575,7 +2570,7 @@ Z9 0
 SN 0197-016X
 UT BCI:BCI200900494102
 ER
----
+
 PT B
 AU Palic, D.
    Coetzee, S. E.
@@ -2616,7 +2611,7 @@ Z9 0
 BN 978-86-7994-011-7
 UT CABI:20133411881
 ER
----
+
 PT B
 AU Koelstra, Sander
    Patras, Ioannis
@@ -2651,7 +2646,7 @@ Z9 1
 BN 978-1-4244-3609-5
 UT WOS:000271486000061
 ER
----
+
 PT J
 AU Borkovcova, I.
    Janouskova, E.
@@ -2693,7 +2688,7 @@ Z9 6
 SN 1212-1800
 UT WOS:000269005600068
 ER
----
+
 PT J
 AU Park, Sang Hyun
    Morrison, Gerald L.
@@ -2731,7 +2726,7 @@ ZS 0
 Z9 0
 UT WOS:000282916200002
 ER
----
+
 PT J
 AU LI Li-jun
    CHEN Chang-dong
@@ -2793,7 +2788,7 @@ Z9 1
 SN 1004-4957
 UT CSCD:3502565
 ER
----
+
 PT J
 AU WU Xi-mei
    ZHU Bing-hui
@@ -2842,7 +2837,7 @@ Z9 3
 SN 1004-4957
 UT CSCD:3502568
 ER
----
+
 PT J
 AU Bravo, M. N.
    Feliciano, R.
@@ -2890,7 +2885,7 @@ Z9 14
 SN 0889-1575
 UT WOS:000260070400008
 ER
----
+
 PT J
 AU Shen Tu-Chao
    Hou Yi-Zhong
@@ -2928,7 +2923,7 @@ Z9 9
 SN 0253-3820
 UT WOS:000261465900029
 ER
----
+
 PT J
 AU Gaertner, A.
    Gessner, A.
@@ -2960,7 +2955,7 @@ Z9 1
 SN 0949-8036
 UT WOS:000260038800003
 ER
----
+
 PT J
 AU Garcia Pena, Caridad M.
    Romero Diaz, Jacqueline A.
@@ -2989,7 +2984,7 @@ Z9 0
 SN 0326-2383
 UT WOS:000260864800017
 ER
----
+
 PT B
 AU Cucu, Catalin
    Cucos, Alex
@@ -3022,7 +3017,7 @@ Z9 0
 BN 978-1-4244-1458-1
 UT WOS:000258983200155
 ER
----
+
 PT J
 AU Gizzi, L.
    Lenti, M.
@@ -3068,7 +3063,7 @@ ZS 0
 Z9 0
 UT INSPEC:10234320
 ER
----
+
 PT J
 AU Rollo, Ian
    Williams, Clyde
@@ -3108,7 +3103,7 @@ SN 0264-0414
 UT WOS:000260605900001
 PM 18923952
 ER
----
+
 PT B
 AU Mullany, B.A.
 TI Monte Carlo analysis of machine tool positional accuracy and
@@ -3147,7 +3142,7 @@ Z9 0
 BN 0-87263-856-1
 UT INSPEC:10742746
 ER
----
+
 PT J
 AU Ertueruen, H. Elif Kormali
    Yilmaz, Mustafa
@@ -3189,7 +3184,7 @@ Z9 13
 SN 0925-4005
 UT WOS:000251228600028
 ER
----
+
 PT J
 AU An-Ping Deng
    Hong Yang
@@ -3235,7 +3230,7 @@ Z9 0
 SN 0925-4005
 UT INSPEC:9547784
 ER
----
+
 PT J
 AU Deng, An-Ping
    Yang, Hong
@@ -3280,7 +3275,7 @@ Z9 12
 SN 0925-4005
 UT WOS:000247261900029
 ER
----
+
 PT J
 AU MENG Chen
 Z2 孟晨
@@ -3315,7 +3310,7 @@ Z9 4
 SN 1000-1093
 UT CSCD:2744823
 ER
----
+
 PT J
 AU Fu Jihong
    Zhang Lijing
@@ -3354,7 +3349,7 @@ Z9 0
 SN 1001-232X
 UT CSCD:2744680
 ER
----
+
 PT J
 AU ZHAN Jia
    YU Xuejun
@@ -3409,7 +3404,7 @@ Z9 10
 SN 1004-4957
 UT CSCD:2926620
 ER
----
+
 PT S
 AU Souza, Divanizia N.
    Melo, Adeilson P.
@@ -3452,7 +3447,7 @@ SN 1610-1634
 BN *************
 UT WOS:000246104300112
 ER
----
+
 PT B
 AU Waller, Alexander J.
    Mclff, Terence E.
@@ -3477,7 +3472,7 @@ Z9 0
 BN 978-0-7918-4798-5
 UT WOS:000252105700334
 ER
----
+
 PT J
 AU Wei Liping
    Liu Yunchuan
@@ -3519,7 +3514,7 @@ Z9 2
 SN 1001-3539
 UT CSCD:2956767
 ER
----
+
 PT J
 AU Matus, Peter
    Kubova, Jana
@@ -3573,7 +3568,7 @@ SN 0039-9140
 UT WOS:000242871900016
 PM 18970873
 ER
----
+
 PT J
 AU Shundo, Luzia
    Sabino, Myrna
@@ -3614,7 +3609,7 @@ Z9 19
 SN 1517-8382
 UT WOS:000238645000013
 ER
----
+
 PT J
 AU Barros, José de Ribamar Silva
 TI Genetic breeding on the bee Melipona scutellaris (Apidae, Meliponinae)
@@ -3676,7 +3671,7 @@ Z9 0
 SN 0044-5967
 UT SCIELO:S0044-59672006000100014
 ER
----
+
 PT J
 AU Silva Barros, Jose de Ribamar
 TI Genetic breeding on the bee Melipona scutellaris (Apidae, Meliponinae)
@@ -3718,7 +3713,7 @@ Z9 1
 SN 0044-5967
 UT BCI:BCI200600387260
 ER
----
+
 PT J
 AU Riu, M
    Mestres, M
@@ -3767,7 +3762,7 @@ SN 0021-9673
 UT WOS:000235505100030
 PM 16405979
 ER
----
+
 PT J
 AU Tranchida, PQ
    Lo Presti, M
@@ -3819,7 +3814,7 @@ SN 0021-9673
 UT WOS:000234692100021
 PM 16364343
 ER
----
+
 PT J
 AU Jiang Yunyun
    Ye Guangming
@@ -3866,7 +3861,7 @@ Z9 0
 SN 0258-879X
 UT CSCD:2297650
 ER
----
+
 PT J
 AU Jaksic, Zoran
    Vasiljevic-Radovic, Dana
@@ -3909,7 +3904,7 @@ Z9 2
 SN 0352-5139
 UT WOS:000240444400014
 ER
----
+
 PT J
 AU Zecevic, Mira
    Jocic, Biljana
@@ -3955,7 +3950,7 @@ Z9 3
 SN 0352-5139
 UT WOS:000243619400008
 ER
----
+
 PT J
 AU Sauvageot, F
 TI Conventional sensory profile validation: A survey. I - Intralaboratory
@@ -3993,7 +3988,7 @@ Z9 1
 SN 0240-8813
 UT WOS:000237050600004
 ER
----
+
 PT J
 AU McClure, FD
    Lee, JK
@@ -4023,7 +4018,7 @@ SN 1060-3271
 UT WOS:000232578700029
 PM 16386001
 ER
----
+
 PT J
 AU Dubey, DK
    Pardasani, D
@@ -4073,7 +4068,7 @@ SN 0021-9673
 UT WOS:000229551000004
 PM 15974066
 ER
----
+
 PT J
 AU Zhang, L
    Liu, Y
@@ -4114,7 +4109,7 @@ SN 0021-9673
 UT WOS:000229192500001
 PM 15941032
 ER
----
+
 PT J
 AU Pagliuca, G
    Zironi, E
@@ -4158,7 +4153,7 @@ SN 1570-0232
 UT WOS:000228206000014
 PM 15797527
 ER
----
+
 PT J
 AU Dousa, M
    Lemr, K
@@ -4205,7 +4200,7 @@ SN 1060-3271
 UT WOS:000229529300007
 PM 16001838
 ER
----
+
 PT J
 AU Drew, DA
 TI Probability and repeatibility: One particle diffusion
@@ -4250,7 +4245,7 @@ Z9 0
 SN 0029-5493
 UT WOS:000230078200007
 ER
----
+
 PT J
 AU [Anonymous]
 TI Snappy quality [coordinate measuring machine - Reinshaw TP20 stylus
@@ -4279,7 +4274,7 @@ Z9 0
 SN 0264-2344
 UT INSPEC:8465245
 ER
----
+
 PT J
 AU Freed, M
    Kruger, MVP
@@ -4315,7 +4310,7 @@ Z9 6
 SN 0894-6507
 UT WOS:000226791600019
 ER
----
+
 PT B
 AU Deriy, B
    Hillman, A
@@ -4355,7 +4350,7 @@ Z9 0
 BN 0-7803-8859-3
 UT WOS:000235745203229
 ER
----
+
 PT J
 AU Vargas, LV
    Sand, J
@@ -4399,7 +4394,7 @@ SN 0003-2654
 UT WOS:000226485900019
 PM 15665980
 ER
----
+
 PT J
 AU Correa, M.
    Oliveira, S.
@@ -4421,7 +4416,7 @@ Z9 0
 SN 0021-8812
 UT WOS:000202990300033
 ER
----
+
 PT J
 AU Correa, M.
    Oliveira, S.
@@ -4443,7 +4438,7 @@ Z9 0
 SN 0022-0302
 UT WOS:000202990200033
 ER
----
+
 PT J
 AU Hao Wei
    Yu Suping
@@ -4478,7 +4473,7 @@ Z9 0
 SN 1003-0174
 UT CSCD:2023738
 ER
----
+
 PT J
 AU Edlund, J
    Warensjo, M
@@ -4519,7 +4514,7 @@ Z9 1
 SN 0037-5330
 UT WOS:000230149400009
 ER
----
+
 PT J
 AU Codesido, V
    Merlo, E
@@ -4558,7 +4553,7 @@ Z9 9
 SN 0037-5349
 UT WOS:000233985400014
 ER
----
+
 PT J
 AU Meseguer-Lloret, S
    Campins-Falco, P
@@ -4603,7 +4598,7 @@ SN 0039-9140
 UT WOS:000224772600033
 PM 18969707
 ER
----
+
 PT J
 AU Munoz, J
    Gallego, M
@@ -4647,7 +4642,7 @@ SN 0021-9673
 UT WOS:000224935800022
 PM 15560495
 ER
----
+
 PT J
 AU Rambozzi, L
    Menzano, A
@@ -4696,7 +4691,7 @@ SN 0928-4249
 UT WOS:000225060000008
 PM 15535959
 ER
----
+
 PT J
 AU Sanches-Silva, A
    de Quiros, ARB
@@ -4736,7 +4731,7 @@ SN 0021-9673
 UT WOS:000223361300011
 PM 15387173
 ER
----
+
 PT J
 AU Isalberti, G.
 TI Better bottle pickup with standard tolerances
@@ -4762,7 +4757,7 @@ Z9 0
 SN 0143-7836
 UT INSPEC:8090798
 ER
----
+
 PT J
 AU Radin, PP
    Midena, E
@@ -4793,7 +4788,7 @@ Z9 0
 SN 0146-0404
 UT WOS:000223338200263
 ER
----
+
 PT J
 AU Hurd, R
    Sailasuta, N
@@ -4832,7 +4827,7 @@ SN 0740-3194
 UT WOS:000220003200001
 PM 15004781
 ER
----
+
 PT J
 AU Owen, CG
    Ellis, TJ
@@ -4883,7 +4878,7 @@ SN 0275-5408
 UT WOS:000220507800002
 PM 15005671
 ER
----
+
 PT J
 AU Li Ying
    Jin Yihe
@@ -4924,7 +4919,7 @@ Z9 5
 SN 1001-5914
 UT CSCD:1851552
 ER
----
+
 PT J
 AU Shundo, Luzia
    Ruvieri, Valter
@@ -4963,7 +4958,7 @@ Z9 1
 SN 0073-9855
 UT BCI:BCI200510347646
 ER
----
+
 PT J
 AU Lima, Juliana A.
    Catharino, Rodrigo R.
@@ -5007,7 +5002,7 @@ Z9 0
 SN 0073-9855
 UT BCI:BCI200510288988
 ER
----
+
 PT J
 AU Mota, M. D. S.
    Correa, M. J.
@@ -5040,7 +5035,7 @@ Z9 0
 SN 0004-0592
 UT BCI:BCI200510264868
 ER
----
+
 PT J
 AU Monterroso, SCC
    Carapuca, HM
@@ -5082,7 +5077,7 @@ Z9 16
 SN 1040-0397
 UT WOS:000187777500011
 ER
----
+
 PT J
 AU Albuquerque, HR
    Santos-Pinto, A
@@ -5110,7 +5105,7 @@ Z9 0
 SN 0022-0345
 UT WOS:000189078301140
 ER
----
+
 PT J
 AU Morillo, JM
    Lau, L
@@ -5155,7 +5150,7 @@ SN 0022-3484
 UT WOS:000185391800011
 PM 12941077
 ER
----
+
 PT J
 AU Perez-Ruiz, T
    Martinez-Lozano, C
@@ -5195,7 +5190,7 @@ Z9 2
 SN 1436-5073
 UT WOS:000184989600006
 ER
----
+
 PT B
 AU Gallivan, MA
 GP IEEE; IEEE
@@ -5239,7 +5234,7 @@ Z9 1
 BN 0-7803-7924-1
 UT WOS:000189434100590
 ER
----
+
 PT J
 AU Rush, L. V.
    Brown, P. J.
@@ -5295,7 +5290,7 @@ Z9 0
 SN 1060-2011
 UT BCI:BCI200300556850
 ER
----
+
 PT J
 AU Hernandez Sanchez, N.
    Lurol, S.
@@ -5338,7 +5333,7 @@ Z9 6
 SN 0967-0335
 UT CABI:20033109960
 ER
----
+
 PT J
 AU Sanchez, NH
    Lurol, S
@@ -5381,7 +5376,7 @@ Z9 19
 SN 0967-0335
 UT WOS:000183351400002
 ER
----
+
 PT J
 AU Wang Genhua
    Qian He
@@ -5417,7 +5412,7 @@ Z9 18
 SN 1009-038X
 UT CSCD:1492929
 ER
----
+
 PT J
 AU Nagy, O
    Kovac, G
@@ -5459,7 +5454,7 @@ Z9 9
 SN 0001-7213
 UT WOS:000178403400003
 ER
----
+
 PT J
 AU Tomaskova, H
 TI Using the results from the repeatibility Questionnaire's study - Life
@@ -5480,7 +5475,7 @@ Z9 0
 SN 1044-3983
 UT WOS:000176378600899
 ER
----
+
 PT J
 AU Senturk, Z
    Erk, N
@@ -5526,7 +5521,7 @@ SN 0731-7085
 UT WOS:000176493900031
 PM 12062689
 ER
----
+
 PT J
 AU Buck, RH
    Cordle, CT
@@ -5573,7 +5568,7 @@ SN 0009-9104
 UT WOS:000176213100015
 PM 12067304
 ER
----
+
 PT J
 AU Suarez-Luque, S
    Mato, I
@@ -5622,7 +5617,7 @@ SN 0021-9673
 UT WOS:000175793200005
 PM 12075924
 ER
----
+
 PT J
 AU Ugucione, Cássia
    Gomes Neto, José de Anchieta
@@ -5659,7 +5654,7 @@ Z9 0
 SN 0100-4042
 UT SCIELO:S0100-40422002000300003
 ER
----
+
 PT J
 AU Ugucione, C
    Neto, JD
@@ -5695,7 +5690,7 @@ Z9 8
 SN 0100-4042
 UT WOS:000175847000002
 ER
----
+
 PT J
 AU Abad, E
    Llerena, JJ
@@ -5742,7 +5737,7 @@ SN 0045-6535
 UT WOS:000175042800024
 PM 12002470
 ER
----
+
 PT B
 AU Chandan Kumar Chakrabarty
 TI The corrosion properties of RF inductively coupled plasma nitrided
@@ -5781,7 +5776,7 @@ Z9 0
 BN 0-7803-7407-X
 UT INSPEC:7461639
 ER
----
+
 PT J
 AU Li Jian
    Ding Jiansen
@@ -5823,7 +5818,7 @@ Z9 1
 SN 1001-5914
 UT CSCD:985715
 ER
----
+
 PT J
 AU Taibi, G
    Schiavo, MR
@@ -5860,7 +5855,7 @@ SN 0021-9673
 UT WOS:000169651200022
 PM 11471816
 ER
----
+
 PT J
 AU Duchene, J
    Lamotte, T
@@ -5897,7 +5892,7 @@ SN 0014-0139
 UT WOS:000166737300006
 PM 11219762
 ER
----
+
 PT S
 AU Lazar, J
    Pokorny, P
@@ -5942,7 +5937,7 @@ SN 0277-786X
 BN 0-8194-4047-7
 UT WOS:000169323500042
 ER
----
+
 PT B
 AU Zannoni, C
    Gori, R
@@ -5996,7 +5991,7 @@ Z9 1
 BN 90-5699-321-6
 UT WOS:000169067500064
 ER
----
+
 PT S
 AU Fock, K
    Fock, B
@@ -6036,7 +6031,7 @@ SN 1091-5281
 BN 0-7803-6646-8
 UT WOS:000172550900264
 ER
----
+
 PT J
 AU Erk, N
    Ozkan, Y
@@ -6084,7 +6079,7 @@ SN 0731-7085
 UT WOS:000166419200015
 PM 11199226
 ER
----
+
 PT B
 AU Sauret, V.
    Sharrock, P.J.
@@ -6129,7 +6124,7 @@ Z9 0
 BN 0-7695-1195-3
 UT INSPEC:7029006
 ER
----
+
 PT J
 AU Oliveira, M. do S. P. de
    Fernandes, G. L. da C.
@@ -6160,7 +6155,7 @@ Z9 0
 SN 0100-2945
 UT CABI:20023024306
 ER
----
+
 PT J
 AU Faber, FWM
    Kleinrensink, GJ
@@ -6217,7 +6212,7 @@ SN 0268-0033
 UT WOS:000165209900008
 PM 11050359
 ER
----
+
 PT J
 AU Torres, RD
    de Araujo, CV
@@ -6266,7 +6261,7 @@ Z9 1
 SN 1516-3598
 UT WOS:000176458900014
 ER
----
+
 PT J
 AU Sasaki, K
    Tatsuno, T
@@ -6304,7 +6299,7 @@ Z9 1
 SN 0015-6426
 UT WOS:000087965800011
 ER
----
+
 PT J
 AU Delavaud, C
    Bocquier, F
@@ -6358,7 +6353,7 @@ SN 0022-0795
 UT WOS:000087347000037
 PM 10810316
 ER
----
+
 PT J
 AU Baena, JR
    Cardenas, S
@@ -6400,7 +6395,7 @@ Z9 28
 SN 0003-2700
 UT WOS:000086225500029
 ER
----
+
 PT J
 AU Rivolta, R
    Cardinale, L
@@ -6447,7 +6442,7 @@ SN 1121-8428
 UT WOS:000087083700004
 PM 10858972
 ER
----
+
 PT B
 AU Smith, SP
    Bleiler, R
@@ -6492,7 +6487,7 @@ Z9 0
 BN 0-7803-6462-7
 UT WOS:000169430400153
 ER
----
+
 PT B
 AU Schuller, M
    Fiebig, B
@@ -6536,7 +6531,7 @@ Z9 0
 BN 1-56347-375-5
 UT WOS:000089466900090
 ER
----
+
 PT B
 AU De Chiffre, L
    Belluco, W
@@ -6581,7 +6576,7 @@ Z9 0
 BN 3-905277-33-6
 UT WOS:000089020100013
 ER
----
+
 PT B
 AU Schuller, M.
    Fiebig, B.
@@ -6624,7 +6619,7 @@ Z9 0
 BN 1-56347-375-5
 UT INSPEC:6783267
 ER
----
+
 PT J
 AU Castellini, P
    Scalise, L
@@ -6666,4 +6661,5 @@ Z9 15
 SN 0263-2241
 UT WOS:000087156500004
 ER
+
 EF
