@@ -1,0 +1,89 @@
+---
+title: "Reproducibility Lexicon"
+author: "Karthik Ram"
+date: "May 1, 2015"
+output: html_document
+---
+
+```{r, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(
+  comment = "#>",
+  error = FALSE,
+  message = FALSE,
+  cache = TRUE
+)
+```
+
+```{r, echo = FALSE}
+library(dplyr)
+```
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(wesanderson)
+library(readr)
+library(pander)
+```
+
+```{r}
+files <- paste0("parsed/", dir('parsed'))
+# Three files so far
+files
+```
+
+# Repeatibility
+
+```{r, results='asis'}
+r1 <- read_csv(file = files[1])
+r2 <- r1 %>% select(-AB)
+pandoc.table(head(r2))
+```
+
+```{r, results = 'asis'}
+counts <- r1 %>% group_by(SO) %>% 
+            summarise(n = n()) %>% 
+            arrange(desc(n)) %>% 
+            head
+
+pandoc.table(counts)
+```
+
+---
+
+# Replicability
+
+```{r, results='asis'}
+r1 <- read_csv(file = files[2])
+r2 <- r1 %>% select(-AB)
+pandoc.table(head(r2))
+```
+
+```{r, results = 'asis'}
+counts <- r1 %>% group_by(SO) %>% 
+            summarise(n = n()) %>% 
+            arrange(desc(n)) %>% 
+            head
+
+pandoc.table(counts)
+```  
+
+# Reproducibility
+
+```{r, results='asis'}
+r1 <- read_csv(file = files[3])
+r2 <- r1 %>% select(-AB)
+pandoc.table(head(r2))
+```
+
+```{r, results = 'asis'}
+counts <- r1 %>% group_by(SO) %>% 
+            summarise(n = n()) %>% 
+            arrange(desc(n)) %>% 
+            head
+
+pandoc.table(counts)
+```
+  
+  
+  

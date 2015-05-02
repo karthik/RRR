@@ -1,0 +1,9 @@
+base
+devtools
+knitr
+rmarkdown
+dplyr
+ggplot2
+wesanderson
+readr
+pander
