@@ -36,17 +36,17 @@ files
 
 ```{r, results='asis'}
 r1 <- read_csv(file = files[1])
-r2 <- r1 %>% select(-AB)
-pandoc.table(head(r2))
+r2 <- r1 %>%  filter(!is.na(SO)) %>% select(-AB)
+pandoc.table(head(r2), style = "rmarkdown", split.tables = Inf)
 ```
 
 ```{r, results = 'asis'}
 counts <- r1 %>% group_by(SO) %>% 
             summarise(n = n()) %>% 
-            arrange(desc(n)) %>% 
-            head
+              arrange(desc(n)) %>% 
+            filter(!is.na(SO))
 
-pandoc.table(counts)
+pandoc.table(counts, style = "rmarkdown", split.tables = Inf)
 ```
 
 ---
@@ -55,34 +55,34 @@ pandoc.table(counts)
 
 ```{r, results='asis'}
 r1 <- read_csv(file = files[2])
-r2 <- r1 %>% select(-AB)
-pandoc.table(head(r2))
+r2 <- r1  %>% filter(!is.na(SO)) %>% select(-AB)
+pandoc.table(head(r2), style = "rmarkdown", split.tables = Inf)
 ```
 
 ```{r, results = 'asis'}
 counts <- r1 %>% group_by(SO) %>% 
             summarise(n = n()) %>% 
             arrange(desc(n)) %>% 
-            head
+          filter(!is.na(SO))
 
-pandoc.table(counts)
+pandoc.table(counts, style = "rmarkdown", split.tables = Inf)
 ```  
 
 # Reproducibility
 
 ```{r, results='asis'}
 r1 <- read_csv(file = files[3])
-r2 <- r1 %>% select(-AB)
-pandoc.table(head(r2))
+r2 <- r1  %>% filter(!is.na(SO)) %>% select(-AB) 
+pandoc.table(head(r2), style = "rmarkdown", split.tables = Inf)
 ```
 
 ```{r, results = 'asis'}
 counts <- r1 %>% group_by(SO) %>% 
             summarise(n = n()) %>% 
             arrange(desc(n)) %>% 
-            head
+            filter(!is.na(SO))
 
-pandoc.table(counts)
+pandoc.table(counts, style = "rmarkdown", split.tables = Inf)
 ```
   
   

@@ -1,4 +1,5 @@
 .Rproj.user
 .Rhistory
 .RData
-cache/
+cache/*
+vis_results_cache/
