@@ -30,7 +30,7 @@ parseEntry <- function(entry) {
 #  Pulls out each record from a giant file of records. The "bounds" df contains
 # how many lines to skip and how many lines to read from that point forward
 new_parse <- function(file, start, end) {
-  message("file: ", file, "| start: ", start, "| end ", end, "\n")
+  ##message("file: ", file, "| start: ", start, "| end ", end, "\n")
   x <- paste(reader::n.readLines(file, skip = start, n = end), collapse = "\n")
   parseEntry(x)
 }
