@@ -3,3 +3,4 @@
 .RData
 cache/*
 vis_results_cache/
+.ipynb*
