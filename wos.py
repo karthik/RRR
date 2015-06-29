@@ -1,10 +1,14 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
+# coding: utf-8
+
+# In[2]:
 
 from suds.client import Client
 from suds.transport.http import HttpTransport
 import urllib2
 
+
+# In[3]:
 
 class HTTPSudsPreprocessor(urllib2.BaseHandler):
     def __init__(self, SID):
@@ -17,6 +21,8 @@ class HTTPSudsPreprocessor(urllib2.BaseHandler):
     https_request = http_request
 
 
+# In[4]:
+
 class WokmwsSoapClient():
     """
     main steps you have to do:
@@ -27,8 +33,10 @@ class WokmwsSoapClient():
         self.url = self.client = {}
         self.SID = ''
 
-        self.url['auth'] = 'http://search.isiknowledge.com/esti/wokmws/ws/WOKMWSAuthenticate?wsdl'
-        self.url['search'] = 'http://search.isiknowledge.com/esti/wokmws/ws/WokSearchLite?wsdl'
+        #self.url['auth'] = 'http://search.isiknowledge.com/esti/wokmws/ws/WOKMWSAuthenticate?wsdl'
+        self.url['auth'] = 'http://search.webofknowledge.com/esti/wokmws/ws/WOKMWSAuthenticate?wsdl'
+        #self.url['search'] = 'http://search.isiknowledge.com/esti/wokmws/ws/WokSearchLite?wsdl'
+        self.url['search'] = 'http://search.webofknowledge.com/esti/wokmws/ws/WokSearchLite?wsdl'
 
         self.prepare()
 
@@ -58,7 +66,7 @@ class WokmwsSoapClient():
 
     def search(self, query):
         qparams = {
-            'databaseID' : 'WOS',
+            'databaseId' : 'WOS',
             'userQuery' : query,
             'queryLanguage' : 'en',
             'editions' : [{
@@ -73,12 +81,31 @@ class WokmwsSoapClient():
         rparams = {
             'count' : 5, # 1-100
             'firstRecord' : 1,
-            'fields' : [{
-                'name' : 'Relevance',
-                'sort' : 'D',
-            }],
+            #'fields' : [{
+            #    'name' : 'Relevance',
+            #    'sort' : 'D',
+            #}],
         }
 
         return self.client['search'].service.search(qparams, rparams)
 
+
+# In[5]:
+
+soap = WokmwsSoapClient()
+
+
+# In[6]:
+
+results = soap.search('AU=Hallam')
+
+
+# In[42]:
+
+dir(results)
+
+
+# In[9]:
+
+print results.recordsFound
 
