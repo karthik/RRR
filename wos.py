@@ -8,6 +8,7 @@ from suds.transport.http import HttpTransport
 import urllib2
 from suds.sudsobject import asdict
 import json
+import time
 
 
 # In[2]:
@@ -66,7 +67,7 @@ class WokmwsSoapClient():
     def close(self):
         self.client['auth'].service.closeSession()
 
-    def search(self, query):
+    def search(self, query, count):
         qparams = {
             'databaseId' : 'WOS',
             'userQuery' : query,
@@ -77,19 +78,28 @@ class WokmwsSoapClient():
             },{
                 'collection' : 'WOS',
                 'edition' : 'SSCI',
-            }]
+            }],
+            'timeSpan' : {
+                'begin' : '2000-01-01',
+                'end'   : '2014-12-31'
+            }
         }
-
         rparams = {
-            'count' : 5, # 1-100
+            'count' : count, # 1-100
             'firstRecord' : 1,
             #'fields' : [{
             #    'name' : 'Relevance',
             #    'sort' : 'D',
             #}],
         }
-
         return self.client['search'].service.search(qparams, rparams)
+    
+    def retrieve(self, queryId, firstRecord, count):
+        rparams = {
+            'count' : count, # 1-100
+            'firstRecord' : firstRecord,
+        }
+        return self.client['search'].service.retrieve(queryId, rparams)
 
 
 # In[4]:
@@ -117,21 +127,82 @@ def suds_to_json(data):
 
 # In[5]:
 
-soap = WokmwsSoapClient()
+def searchAndDumpResults(term, count = 100):
+    query = 'ts=' + term
+    results = soap.search(query, count = count)
+    queryId = results.queryId
+    numRecords = results.recordsFound
+    print 'search topic: ' + term
+    print `numRecords` + ' records found'
+    
+    filename = 'data/' + term + '.json'
+    with open(filename, 'w') as outf:
+        json.dump(recursive_asdict(results), outf)
+        
+    percent = -1
+    for i in xrange(1, numRecords/count+1):
+        newPercent = int(100*count*i/(numRecords*1.0))
+        if(newPercent != percent):
+            percent = newPercent
+            print `percent` + ' %'
+        
+        time.sleep(0.5)
+        results = soap.retrieve(queryId = queryId, firstRecord = count*i+1, count = count)
+        
+        with open(filename, 'a') as outf:
+            json.dump(recursive_asdict(results), outf)
+    
 
 
 # In[6]:
 
-results = soap.search('AU=Hallam')
-
-with open('out.json', 'w') as outf:
-    json.dump(recursive_asdict(results), outf)
+soap = WokmwsSoapClient()
 
 
 # In[7]:
 
+RRRterms = ['reproducibility', 'replicability', 'repeatability']
+
+
+# In[8]:
+
+for term in RRRterms:
+    searchAndDumpResults(term)
+
+
+# In[188]:
+
+#results = soap.search('au=hallam', count = count)
+#results = soap.search('ts=reproducibility', count = count)
+
+#queryId = results.queryId
+#numRecords = results.recordsFound
 #print results.recordsFound
+
+#with open('out.json', 'w') as outf:
+#    json.dump(recursive_asdict(results), outf)
+
+#for i in xrange(1, numRecords/count+1):
+#    time.sleep(1)
+#    print `round(100*count*i/(numRecords*1.0))` + '%'
+#    results = soap.retrieve(queryId = queryId, firstRecord = count*i+1, count = count)
+#    with open('out.json', 'a') as outf:
+#        json.dump(recursive_asdict(results), outf)
+
+#print results.recordsFound
+#print queryId
 #print results
 #dir(results)
 #suds_to_json(results)
+
+
+# In[19]:
+
+if(1 != 1):
+    print 1
+
+
+# In[ ]:
+
+
 
